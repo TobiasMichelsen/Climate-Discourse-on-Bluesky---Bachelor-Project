@@ -9,7 +9,7 @@ import sys
 client = FirehoseSubscribeReposClient()
 
 sys.stdout.reconfigure(encoding='utf-8')
-MAX_MESSAGES = 10000  # Limit messages for testing
+MAX_MESSAGES = 100000  # Limit messages for testing
 message_count = 0  # Counter
 storing_count = 0
 stop_storing = False
@@ -64,7 +64,6 @@ def on_message_handler(message) -> None:
                 "cid": str(op.cid),
                 "record": record.__dict__,  # Convert record to dictionary
             })
-            
 
         firehose_data.append(structured_data)  # Store structured data
         
