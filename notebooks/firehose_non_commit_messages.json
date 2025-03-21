@@ -1,6 +1,0 @@
-[
-  "MessageFrame(header=MessageFrameHeader(op=1, t='#identity'), body={'did': 'did:plc:jb2mxb4othr3eg34ju433meb', 'seq': 6389112185, 'time': '2025-03-12T17:14:32.968Z', 'handle': 'johnofarciv.bsky.social'})",
-  "MessageFrame(header=MessageFrameHeader(op=1, t='#account'), body={'did': 'did:plc:jb2mxb4othr3eg34ju433meb', 'seq': 6389112212, 'time': '2025-03-12T17:14:32.969Z', 'active': True})",
-  "MessageFrame(header=MessageFrameHeader(op=1, t='#identity'), body={'did': 'did:plc:lmj4lylnidw7rynetrpceuab', 'seq': 6389112321, 'time': '2025-03-12T17:14:33.174Z', 'handle': 'mattjamesg.bsky.social'})",
-  "MessageFrame(header=MessageFrameHeader(op=1, t='#account'), body={'did': 'did:plc:lmj4lylnidw7rynetrpceuab', 'seq': 6389112340, 'time': '2025-03-12T17:14:33.175Z', 'active': True})"
-]
