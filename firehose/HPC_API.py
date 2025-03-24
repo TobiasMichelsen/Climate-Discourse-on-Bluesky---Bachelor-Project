@@ -38,7 +38,7 @@ def finishing_touches():
     save_list_to_disk("Follows", Follows)
     save_list_to_disk("Identity", Identity)
     save_list_to_disk("Account", Account)
-    print(f"Total Messages Processed: {message_count}")
+    print(f"Final runtime: {datetime.now()}\nTotal Messages Processed: {message_count}")
     
 def runtime_check():
     global keep_running
