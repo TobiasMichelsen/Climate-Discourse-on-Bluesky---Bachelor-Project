@@ -8,9 +8,9 @@ import time
 #connect to client, log time of connection
 client = FirehoseSubscribeReposClient()
 start_time = datetime.now()
-time_limit = timedelta(minutes = 1)
+time_limit = timedelta(days=2, hours=23, minutes = 45)
 
- # Limit messages for testing
+# Limit messages for testing
 SAVE_THRESHOLD = 100000  # Number of entries before saving
 message_count = 0  # Counter for all messages
 keep_running = True
@@ -82,7 +82,7 @@ def get_next_counter(directory):
 
 def save_list_to_disk(list_name, data_list):
     """Saves a specific list to disk and clears the saved portion."""
-    directory = f"backups/{list_name.lower()}"
+    directory = f"../data/backups/{list_name.lower()}"
     os.makedirs(directory, exist_ok=True)
     counter = get_next_counter(directory)
     filename = f"{directory}/{list_name.lower()}_backup_{counter}.json"
