@@ -1,2 +1,8 @@
 #Ignore environment file to 
 .env
+
+#ignore database file
+*firehose.db
+
+#ignore folder
+backup/
