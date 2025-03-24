@@ -2,7 +2,7 @@
 .env
 
 #ignore database file
-*firehose.db
+#*firehose.db
 
 #ignore folder
 backup/
