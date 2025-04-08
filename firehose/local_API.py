@@ -7,8 +7,6 @@ import time
 
 #connect to client, log time of connection
 client = FirehoseSubscribeReposClient()
-start_time = datetime.now()
-time_limit = timedelta(hours=1, minutes = 1)
 
  # Limit messages for testing
 SAVE_THRESHOLD = 10000  # Number of entries before saving
@@ -26,6 +24,7 @@ Identity = []
 Account = []
 
 def stop_firehose():
+    global client
     """Stops the Firehose listener"""
     print("Stopping client..")
     client.stop()
@@ -42,17 +41,21 @@ def finishing_touches():
     
 def runtime_check():
     global keep_running
-    hour = 0
+    start_time = datetime.now()
+    time_limit = timedelta(minutes = 1)
+    minute = 0
+    print("runtime check started", flush=True)
     while keep_running:
         elapsed_time = datetime.now() - start_time
-        if elapsed_time.total_seconds() >= hour * 360:
-            print(f"{elapsed_time}: {message_count} messages processed ")
-            hour += 1
+        if elapsed_time.total_seconds() >= minute * 10: # prints every 10 secs
+            print(f"{elapsed_time}: {message_count} messages processed ", flush=True)
+            minute += 1
         if elapsed_time >= time_limit:
+            print("time limit reached, stopping", flush=True)
             keep_running = False
             stop_firehose()
             time.sleep(3)
-        time.sleep(300)
+        time.sleep(1)
 
 def extract_subject_info(subject):
     """Safely extracts subject CID and URI from a Main object or dictionary."""
@@ -82,7 +85,7 @@ def get_next_counter(directory):
 
 def save_list_to_disk(list_name, data_list):
     """Saves a specific list to disk and clears the saved portion."""
-    directory = f"../data/backups/{list_name.lower()}"
+    directory = f"backups_test/{list_name.lower()}"
     os.makedirs(directory, exist_ok=True)
     counter = get_next_counter(directory)
     filename = f"{directory}/{list_name.lower()}_backup_{counter}.json"
@@ -209,7 +212,24 @@ def on_message_handler(message) -> None:
         print(f"Error processing message: {e}")
         
 def start_firehose():
-    client.start(on_message_handler)
+    retries = 0
+    global client
+    while keep_running:
+        try:
+            print(f"\nStarting the client..\n", flush=True)
+            client.start(on_message_handler)
+            retries = 0  # Reset retries if successful
+        except Exception as e:
+            print(f"Firehose error: {e}", flush=True)
+            wait_time = min(60, 5 * retries)
+            print(f"Will attempt to reconnect in {wait_time} seconds...", flush=True)
+            time.sleep(wait_time)
+            retries += 1
+            # Recreate client after disconnection
+            client = FirehoseSubscribeReposClient()
+        if not keep_running:
+            stop_firehose()
+            break
     
 # Start Firehose stream
 firehose_thread = threading.Thread(target=start_firehose)
@@ -217,5 +237,9 @@ time_check_thread = threading.Thread(target=runtime_check)
 firehose_thread.start()
 time_check_thread.start()
 
-    
+#Finishing when time is up
+firehose_thread.join()
+time_check_thread.join()
+
+print("Finished execution..\n\nHell Yea Brutha")   
 

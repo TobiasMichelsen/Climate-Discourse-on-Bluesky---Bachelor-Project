@@ -5,13 +5,13 @@
 #SBATCH --cpus-per-task=2        # Schedule two cores
 #SBATCH --time=72:00:00          # Run time (hh:mm:ss)
 #SBATCH --partition=cores_any   # Run on any cores queue
-#SBATCH --mail-type=FAIL, END          # Send an email when the job finishes
+#SBATCH --mail-type=FAIL          # Send an email when the job finishes
 
 # Load python
-module load python/3.12.5
-
+module load Python/3.12.3-GCCcore-13.3.0
+python --version
 # Print out the hostname of the node the job is running on
 hostname
 # Run scripts
-python installModukes.py
+python installModules.py
 python HPC_API.py
