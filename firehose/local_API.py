@@ -8,7 +8,7 @@ import time
 #connect to client, log time of connection
 client = FirehoseSubscribeReposClient()
 
- # Limit messages for testing
+# Limit messages for testing
 SAVE_THRESHOLD = 10000  # Number of entries before saving
 message_count = 0  # Counter for all messages
 keep_running = True
@@ -227,9 +227,6 @@ def start_firehose():
             retries += 1
             # Recreate client after disconnection
             client = FirehoseSubscribeReposClient()
-        if not keep_running:
-            stop_firehose()
-            break
     
 # Start Firehose stream
 firehose_thread = threading.Thread(target=start_firehose)

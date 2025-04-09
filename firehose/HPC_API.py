@@ -37,21 +37,21 @@ def finishing_touches():
     save_list_to_disk("Follows", Follows)
     save_list_to_disk("Identity", Identity)
     save_list_to_disk("Account", Account)
-    print(f"Final runtime: {datetime.now()}\nTotal Messages Processed: {message_count}",flush=True)
+    print(f"\nFinal runtime: {datetime.now()}\nTotal Messages Processed: {message_count}",flush=True)
     
 def runtime_check():
     global keep_running
     start_time = datetime.now()
     time_limit = timedelta(days=2, hours=23, minutes = 45)
     hour = 0
-    print("runtime check started", flush=True)
+    print("\nruntime check started..", flush=True)
     while keep_running:
         elapsed_time = datetime.now() - start_time
         if elapsed_time.total_seconds() >= hour * 3600:
-            print(f"{elapsed_time}: {message_count} messages processed ", flush=True)
+            print(f"\ncurrent time: {datetime.now()} \nelapsed time: {elapsed_time} \nmessages processed: {message_count}", flush=True)
             hour += 3
         if elapsed_time >= time_limit:
-            print("time limit reached, stopping", flush=True)
+            print("\ntime limit reached, its Joever\n", flush=True)
             keep_running = False
             stop_firehose()
             time.sleep(3)
@@ -211,22 +211,25 @@ def on_message_handler(message) -> None:
             
 
     except Exception as e:
-        print(f"Error processing message: {e}", flush=True)
+        print(f"\nError processing message: {e}\n", flush=True)
         
 def start_firehose():
     global client
     retries = 0
     while keep_running:
         try:
-            print(f"\nStarting the client..\n", flush=True)
+            print(f"\nStarting the client..", flush=True)
+            client_start_time = datetime.now()
             client.start(on_message_handler)
-            retries = 0  # Reset retries if successful
         except Exception as e:
-            print(f"Firehose error: {e}", flush=True)
+            print(f"\nFirehose error: {e}", flush=True)
+            runtime = datetime.now() - client_start_time
+            if runtime.total_seconds() >= 600:
+                retries = 0
             wait_time = min(300, 5 * retries)
-            print(f"Will attempt to reconnect in {wait_time} seconds...", flush=True)
+            print(f"\nWill attempt to reconnect in {wait_time} seconds...", flush=True)
             time.sleep(wait_time)
-            retries += 1                                                ###### Retries never gets reset, it keeps growing because its jumped over
+            retries += 1
             # Recreate client after disconnection
             client = FirehoseSubscribeReposClient()
 
@@ -241,5 +244,5 @@ time_check_thread.start()
 firehose_thread.join()
 time_check_thread.join()
 
-print("Finished execution..\n\nHell Yea Brutha")    
+print("\nFinished execution..\n\nHell Yea Brutha")    
 
