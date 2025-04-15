@@ -1,0 +1,22 @@
+#!/bin/bash
+
+#SBATCH --job-name=HPC_ClimateBERT        # Job name
+#SBATCH --output=HPC_ClimateBERT .%j.out      # Name of output file (%j expands to jobId)
+#SBATCH --error=HPC_ClimateBERT .%j.err            # Error file
+#SBATCH --cpus-per-task=8        # Schedule two cores
+#SBATCH --gres=gpu:v100:1               # Schedule a GPU, or more with gpu:2 etc
+#SBATCH --time=72:00:00          # Run time (hh:mm:ss)
+#SBATCH --partition=acltr   # Run on any cores queue
+#SBATCH --mail-type=FAIL          # Send an email when the job finishes
+
+#Load CUDA
+module load CUDA/12.1.1
+
+# Load python
+module load Python/3.12.3-GCCcore-13.3.0
+python --version
+# Print out the hostname of the node the job is running on
+hostname
+# Run scripts
+python HPC_ClimateBERT_install_modules.py
+python HPC_ClimateBERT.py
