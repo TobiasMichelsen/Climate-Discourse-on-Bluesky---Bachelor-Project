@@ -6,7 +6,7 @@
     "timestamp":"2025-04-06T17:40:30.916000",
     "cid":"bafyreibair3bsl2tqw5whnca2wz3654o72bh5rabwoh7rq66yxsserb7um",
     "uri":"at:\/\/did:plc:3o5mnktwwpwnrlf7gapmbg4r\/app.bsky.feed.post\/3lm5yisnhos2i",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:fthgaveopswq2o5vcgfg5rud",
@@ -15,7 +15,7 @@
     "timestamp":"2025-04-07T00:33:25.981000",
     "cid":"bafyreifhr52s4kmusypsd5jesuucmktfcxfjuzdcokdl3ceaiyin4khbym",
     "uri":"at:\/\/did:plc:fthgaveopswq2o5vcgfg5rud\/app.bsky.feed.post\/3lm6pl7p7zs2e",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:ppau6vx3laupcxceccjuvxbl",
@@ -24,7 +24,7 @@
     "timestamp":"2025-04-11T04:30:39.937000",
     "cid":"bafyreidm7a6rgmtxugjkemtwsamosuiba6fk6rc4sdskpdoskpnpnf2i4e",
     "uri":"at:\/\/did:plc:ppau6vx3laupcxceccjuvxbl\/app.bsky.feed.post\/3lmj6oybqnk2u",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:5imfm4bzogm4bqrgrh4nvbpa",
@@ -33,7 +33,7 @@
     "timestamp":"2025-04-13T00:11:11.008000",
     "cid":"bafyreihyps3s4rwrihwjjeqpe2yiu3melccbrvoon3scti53zhu6uv2f2u",
     "uri":"at:\/\/did:plc:5imfm4bzogm4bqrgrh4nvbpa\/app.bsky.feed.post\/3lmnr4vx7k22u",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:7dgo4qqnqtnlca2rohxvjdxv",
@@ -42,7 +42,7 @@
     "timestamp":"2025-04-13T00:41:28.489000",
     "cid":"bafyreiavucdhdonvnsifdjsadmh7tcoxsr6us43rdmf2zvfy2xt5heuu7y",
     "uri":"at:\/\/did:plc:7dgo4qqnqtnlca2rohxvjdxv\/app.bsky.feed.post\/3lmnssxui5s26",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:lrp5jpgjg7r6kweadjudjois",
@@ -51,7 +51,7 @@
     "timestamp":"2025-04-08T13:00:17.498000",
     "cid":"bafyreihkxifd65saw2dm7kjf4av2frwlcrneozimcomy7q6ws325ze2vnq",
     "uri":"at:\/\/did:plc:lrp5jpgjg7r6kweadjudjois\/app.bsky.feed.post\/3lmcjrmlicc2d",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:l6kt4zpqzprqasiqvmpjamsi",
@@ -60,7 +60,7 @@
     "timestamp":"2025-04-12T23:22:36.400000",
     "cid":"bafyreifk3xuvwxvsnoctcocngp5bq6kcwc7evadlvix3mtqdvxnvhbz3sa",
     "uri":"at:\/\/did:plc:l6kt4zpqzprqasiqvmpjamsi\/app.bsky.feed.post\/3lmnofx7tw22v",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:je74x7wayodh3m4bqtxhpduq",
@@ -69,7 +69,7 @@
     "timestamp":"2025-04-08T13:41:09.085000",
     "cid":"bafyreicgv2motk7sb52fqftnllgl2kggzxrour2gagn3q7s7vujwtbdmx4",
     "uri":"at:\/\/did:plc:je74x7wayodh3m4bqtxhpduq\/app.bsky.feed.post\/3lmcm2nndr224",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:ynzad4und4earkobbyto6ktm",
@@ -78,7 +78,7 @@
     "timestamp":"2025-04-06T18:21:27.721000",
     "cid":"bafyreie3cjm5rs3zw4mx3dixnjsa34ebnrxcwjnbswkrmo5fcmehs7ouri",
     "uri":"at:\/\/did:plc:ynzad4und4earkobbyto6ktm\/app.bsky.feed.post\/3lm62rzjk522y",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:lvu2hyam6iiikbzvrpi4d4xa",
@@ -87,7 +87,7 @@
     "timestamp":"2025-04-15T12:49:44.416000",
     "cid":"bafyreicwjifwb5wk3zktuzpa3bskdgw4ut4dv5xb2ztfaclcq4vxoqlwxa",
     "uri":"at:\/\/did:plc:lvu2hyam6iiikbzvrpi4d4xa\/app.bsky.feed.post\/3lmu4h6tsf22g",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:cb62rn7ctxmvplktnyrdzudt",
@@ -96,7 +96,7 @@
     "timestamp":"2025-04-08T14:02:50.968000",
     "cid":"bafyreiccmdjgufcnfzqo6iao7qe75gu5kk6et46fotrl6bakmil6aakt64",
     "uri":"at:\/\/did:plc:cb62rn7ctxmvplktnyrdzudt\/app.bsky.feed.post\/3lmcnbhwjd42w",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:tfve6hzvk5pr43cl6ozd7om7",
@@ -105,7 +105,7 @@
     "timestamp":"2025-04-11T19:47:17.444000",
     "cid":"bafyreiaf5mxhc2rui3l3ll2rbqvdms4dzbsv44jpc35uysgbn7ol63dsqm",
     "uri":"at:\/\/did:plc:tfve6hzvk5pr43cl6ozd7om7\/app.bsky.feed.post\/3lmkrw6k2r227",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:obt5cqa6asddsstviku63klf",
@@ -114,7 +114,7 @@
     "timestamp":"2025-04-06T18:14:10.288000",
     "cid":"bafyreiaaojpner6hc5qtldr4otszzj74ytkrsvnldexpkdjbkwgorw46ce",
     "uri":"at:\/\/did:plc:obt5cqa6asddsstviku63klf\/app.bsky.feed.post\/3lm62f2dhtk2h",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:uia3opv2ara5e5jb5vdmtcvi",
@@ -123,7 +123,7 @@
     "timestamp":"2025-04-09T21:36:47.712000",
     "cid":"bafyreihxshxgds5ezrt3gjry6qcxmit7eo4dkmbhvdqjkkk6resr7k2yea",
     "uri":"at:\/\/did:plc:uia3opv2ara5e5jb5vdmtcvi\/app.bsky.feed.post\/3lmfx44pf4z25",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:j6hfpcv3jhj4hcz5px2pjoij",
@@ -132,7 +132,7 @@
     "timestamp":"2025-04-09T15:41:08.318000",
     "cid":"bafyreih2o4uhul72gqnbkx2itxdtmupomwom7q2nnbagbq5ugmfbgjhqge",
     "uri":"at:\/\/did:plc:j6hfpcv3jhj4hcz5px2pjoij\/app.bsky.feed.post\/3lmfda6g6mk2v",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:wvfzi7wldznql5l457yxhk62",
@@ -141,7 +141,7 @@
     "timestamp":"2025-04-12T23:59:50.037000",
     "cid":"bafyreie5m2af3s6sfgya5nhehb76cj5kuaitqib5ebkrg35yjm3iapxzu4",
     "uri":"at:\/\/did:plc:wvfzi7wldznql5l457yxhk62\/app.bsky.feed.post\/3lmnqilvo4s2s",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:xpkfzlsnqijo3jbqddkbbo2s",
@@ -150,7 +150,7 @@
     "timestamp":"2025-04-13T00:21:33.842000",
     "cid":"bafyreibkqsywkwhggxdlojwbnvqsbi2h4zdn5nbeowjpzhqgg7weudw2dm",
     "uri":"at:\/\/did:plc:xpkfzlsnqijo3jbqddkbbo2s\/app.bsky.feed.post\/3lmnrphvavk2j",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:n5aludxnbdwv2umva3jvrdxd",
@@ -159,7 +159,7 @@
     "timestamp":"2025-04-15T13:21:21.988000",
     "cid":"bafyreicgyvne65wirqj65lljos2z6hgqpqjcnkb4e7atj3kzk56kwihwiq",
     "uri":"at:\/\/did:plc:n5aludxnbdwv2umva3jvrdxd\/app.bsky.feed.post\/3lmu67p4zv423",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:4aum7ktlnzh4g6qbkmxfen6e",
@@ -168,7 +168,7 @@
     "timestamp":"2025-04-14T13:51:35.771000",
     "cid":"bafyreihdbzeitirjd2i75fkdpeer6gyxoxg7b2p66zru7btcgqlggstjhq",
     "uri":"at:\/\/did:plc:4aum7ktlnzh4g6qbkmxfen6e\/app.bsky.feed.post\/3lmrpgtuoin2q",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:7a3kt2hyaya3fq7dbg7zcjjn",
@@ -177,7 +177,7 @@
     "timestamp":"2025-04-06T17:17:30.410000",
     "cid":"bafyreigwswifhrrdlxel53p5ql6xovgpgfro7nsggu6hvpylmyixzwgn5u",
     "uri":"at:\/\/did:plc:7a3kt2hyaya3fq7dbg7zcjjn\/app.bsky.feed.post\/3lm5x7qkyhc2x",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:je7eej27ohmwxgx3454lf4rq",
@@ -186,7 +186,7 @@
     "timestamp":"2025-04-06T18:02:00.072000",
     "cid":"bafyreiftr6idrwhde6wuxgdh3zfrntifqq5zyxxhpprmy6yc2jwpvg6bxm",
     "uri":"at:\/\/did:plc:je7eej27ohmwxgx3454lf4rq\/app.bsky.feed.post\/3lm5zpavc7227",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:dsd2qbjlzguisktvn5h5sukq",
@@ -195,7 +195,7 @@
     "timestamp":"2025-04-10T19:11:51.795000",
     "cid":"bafyreicehufuhgdrwgcp2cueoc27aufbhiumczvalorzpc3ga3fzsw27ue",
     "uri":"at:\/\/did:plc:dsd2qbjlzguisktvn5h5sukq\/app.bsky.feed.post\/3lmi7huwuck2r",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:n4aemyniinedkuxuw6btfxt3",
@@ -204,7 +204,7 @@
     "timestamp":"2025-04-11T20:43:47.045000",
     "cid":"bafyreidhvfutri6czrqcx6dwaaq6zbf4wc3cyxlnnycwfz3vo5vvzdd5j4",
     "uri":"at:\/\/did:plc:n4aemyniinedkuxuw6btfxt3\/app.bsky.feed.post\/3lmkv36hlzc2p",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:tj6vzl4vmlzshmvs6j3habfu",
@@ -213,7 +213,7 @@
     "timestamp":"2025-04-10T19:10:26.102000",
     "cid":"bafyreiguqo2vic6s4honp2raxa5emvkqp52wvpk34gm6edem3k3it46lnu",
     "uri":"at:\/\/did:plc:tj6vzl4vmlzshmvs6j3habfu\/app.bsky.feed.post\/3lmi7fdtheo2y",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:qsfsyknh2oxhbb4sq2f7ztox",
@@ -222,7 +222,7 @@
     "timestamp":"2025-04-06T18:02:12.383000",
     "cid":"bafyreidey5yb6s7zqhisby76agfpcgalcflzmp2nnarpxafvpofg3of25q",
     "uri":"at:\/\/did:plc:qsfsyknh2oxhbb4sq2f7ztox\/app.bsky.feed.post\/3lm5zpmyit22c",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:yaert7nmuyatxesjsmcnlfmk",
@@ -231,7 +231,7 @@
     "timestamp":"2025-04-09T16:09:14.533000",
     "cid":"bafyreiabd5bwjx4zdamx5uduz7vr7f4e67xtl6sabi34bxne3hax4xggeq",
     "uri":"at:\/\/did:plc:yaert7nmuyatxesjsmcnlfmk\/app.bsky.feed.post\/3lmfervkgwk2e",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:r6sg7hbmv2uz46t66pxzjp34",
@@ -240,7 +240,7 @@
     "timestamp":"2025-04-13T00:21:46.999000",
     "cid":"bafyreigxld6bebwh6n36wl7u7jf3wlajggb7zgfq423ngaplnggqv2qqd4",
     "uri":"at:\/\/did:plc:r6sg7hbmv2uz46t66pxzjp34\/app.bsky.feed.post\/3lmnrpvuzys2i",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:xvnreogcwwwyunvea4fdg765",
@@ -249,7 +249,7 @@
     "timestamp":"2025-04-10T18:54:37.545000",
     "cid":"bafyreiflbpziub4xg6q6lddrehm7rzbnswu27pvjbybp7p3yxgliblsdee",
     "uri":"at:\/\/did:plc:xvnreogcwwwyunvea4fdg765\/app.bsky.feed.post\/3lmi6iwsvlk2z",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:l4dux7ifntypo6ob4t4ofsop",
@@ -258,7 +258,7 @@
     "timestamp":"2025-04-13T00:20:43.256000",
     "cid":"bafyreife7eovtm2w3xiqng7iz3ptk55ziqpkj3dowgdh5hsbjpuqnxiqtu",
     "uri":"at:\/\/did:plc:l4dux7ifntypo6ob4t4ofsop\/app.bsky.feed.post\/3lmnrnyymfc2j",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:aeppuamj65p3itu6dbxljcbt",
@@ -267,7 +267,7 @@
     "timestamp":"2025-04-08T12:40:26.197000",
     "cid":"bafyreiehsxomlk2mbjq7ak4lfcifofcv56gu4tnqvpiu5bnupssl4dbk2i",
     "uri":"at:\/\/did:plc:aeppuamj65p3itu6dbxljcbt\/app.bsky.feed.post\/3lmcio43eys2c",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:haczmrcgeptdwivcpidx6yn2",
@@ -276,7 +276,7 @@
     "timestamp":"2025-04-13T00:32:49.032000",
     "cid":"bafyreidbxcj36mdj2wveyly5jefl7375h6uzfs4dtgdz2ql3pl22kepqgu",
     "uri":"at:\/\/did:plc:haczmrcgeptdwivcpidx6yn2\/app.bsky.feed.post\/3lmnsdhh63c2f",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:zcf4bnizgx55e5vpx5ygonpj",
@@ -285,7 +285,7 @@
     "timestamp":"2025-04-11T04:44:39.977000",
     "cid":"bafyreifapqtzkltm4mba26ygkscillfvpwm5h3zyxwy75ogyittrx557ie",
     "uri":"at:\/\/did:plc:zcf4bnizgx55e5vpx5ygonpj\/app.bsky.feed.post\/3lmj7hzogjs2q",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:b342uzazf2ebc5rgrtaojgvh",
@@ -294,7 +294,7 @@
     "timestamp":"2025-04-10T19:25:00.233000",
     "cid":"bafyreifrxckw4zu25razd73mhf4hmt7gmkarouwc7otvtpjnq4cx5j5s7u",
     "uri":"at:\/\/did:plc:b342uzazf2ebc5rgrtaojgvh\/app.bsky.feed.post\/3lmia7eb6sc2a",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:g24jl732jfo4op4tqavkk43x",
@@ -303,7 +303,7 @@
     "timestamp":"2025-04-06T17:37:49.059000",
     "cid":"bafyreig7n3ejoop7tij6ivrtqd7pfvadnaupxprvxkffdgdqqnekchzovq",
     "uri":"at:\/\/did:plc:g24jl732jfo4op4tqavkk43x\/app.bsky.feed.post\/3lm5ye2erro23",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:eyeudlvmxbxfer36hhxuy2gn",
@@ -312,7 +312,7 @@
     "timestamp":"2025-04-14T13:29:55.573000",
     "cid":"bafyreien5oxdvxwrjszupz7awkppnzckjg4jgbbb2xgpud4ohkwcn6lhau",
     "uri":"at:\/\/did:plc:eyeudlvmxbxfer36hhxuy2gn\/app.bsky.feed.post\/3lmroa4pzq22y",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:p5wgc5ehum6czvz2vaqnw2hh",
@@ -321,7 +321,7 @@
     "timestamp":"2025-04-08T13:42:34.314000",
     "cid":"bafyreibup7brr7536ijywd7uybylsezdjx7457wklvvw6jfnppdozcxo2q",
     "uri":"at:\/\/did:plc:p5wgc5ehum6czvz2vaqnw2hh\/app.bsky.feed.post\/3lmcm57jpd22j",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:7chgmfqazwg2jthkhlygt3i2",
@@ -330,7 +330,7 @@
     "timestamp":"2025-04-08T13:11:24.406000",
     "cid":"bafyreiaegomgthzxvf2umog2hz6o35qaytwiph2zw5fqhtvxinl3p6ltaq",
     "uri":"at:\/\/did:plc:7chgmfqazwg2jthkhlygt3i2\/app.bsky.feed.post\/3lmckfi6os22v",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:ssxpnijm3npclh3imttuyntl",
@@ -339,7 +339,7 @@
     "timestamp":"2025-04-09T15:36:26.837000",
     "cid":"bafyreihqgth7ikkdv3xtifhgklrxw5akn2drum35legdnaimha7onrhehq",
     "uri":"at:\/\/did:plc:ssxpnijm3npclh3imttuyntl\/app.bsky.feed.post\/3lmfcxqwses2f",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:aao55cait2nweh7wqzmehsgg",
@@ -348,7 +348,7 @@
     "timestamp":"2025-04-06T19:00:53.947000",
     "cid":"bafyreiapuld2erox7exhjdxtsloyzqhvuv6o4cr565hvmdjtd2hiuymuuq",
     "uri":"at:\/\/did:plc:aao55cait2nweh7wqzmehsgg\/app.bsky.feed.post\/3lm64ymgcgs2m",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:msian4dqa2rqalf3biilnf3m",
@@ -357,7 +357,7 @@
     "timestamp":"2025-04-06T19:20:32.171000",
     "cid":"bafyreibmn4yjs2pllyhmhbafo5biro4qxrfc7dqqo4ewlfpkppzpdv5if4",
     "uri":"at:\/\/did:plc:msian4dqa2rqalf3biilnf3m\/app.bsky.feed.post\/3lm663pifld2g",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:5hpxii56cqroinelgb2qvxbo",
@@ -366,7 +366,7 @@
     "timestamp":"2025-04-06T17:23:51.599000",
     "cid":"bafyreifvc4r7vymzhoo4novj7lblrjakfqscdmipinrgqhmzpnfwhl4hge",
     "uri":"at:\/\/did:plc:5hpxii56cqroinelgb2qvxbo\/app.bsky.feed.post\/3lm5xl2xyx22g",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:66rvuyqvpcd7gvu7q25y7od3",
@@ -375,7 +375,7 @@
     "timestamp":"2025-04-10T19:13:24.145000",
     "cid":"bafyreichvffyufrnxmkbtqqzv6mi34fijvg2kirpa7lcmju45atlbap7ge",
     "uri":"at:\/\/did:plc:66rvuyqvpcd7gvu7q25y7od3\/app.bsky.feed.post\/3lmi7kmq3ss25",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:nsepbhgdq3ex6iqrst5huoz5",
@@ -384,7 +384,7 @@
     "timestamp":"2025-04-15T13:34:48.144000",
     "cid":"bafyreicwgk7vo6bupku3akl6yep24w4kiq3i2zo7hvw4wrvy4qlzcctaji",
     "uri":"at:\/\/did:plc:nsepbhgdq3ex6iqrst5huoz5\/app.bsky.feed.post\/3lmu6xqoofc27",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:52gy2tvytetceugz2lscwbky",
@@ -393,7 +393,7 @@
     "timestamp":"2025-04-10T18:51:47.610000",
     "cid":"bafyreigkxa2auilkfhdznzr4pjsg4plxw7b43t6geckk636ijx425f56ee",
     "uri":"at:\/\/did:plc:52gy2tvytetceugz2lscwbky\/app.bsky.feed.post\/3lmi6dyvnic2m",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:qqijcvq5wvspiv2ckoqwq3r2",
@@ -402,7 +402,7 @@
     "timestamp":"2025-04-11T04:27:37.056000",
     "cid":"bafyreifm3dkany5lz5ofskgshqwtj7wmjgh43uubnzp7xdo3bculnxaase",
     "uri":"at:\/\/did:plc:qqijcvq5wvspiv2ckoqwq3r2\/app.bsky.feed.post\/3lmj6jmgj2s2q",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:pz3ldikki4om6wz3glpqu4uv",
@@ -411,7 +411,7 @@
     "timestamp":"2025-04-06T18:53:16.586000",
     "cid":"bafyreicftxcc6myqbp5uzpvutaml2c4hibsjcymrge6gjkrer2lr4nlaye",
     "uri":"at:\/\/did:plc:pz3ldikki4om6wz3glpqu4uv\/app.bsky.feed.post\/3lm64kxrkj22g",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:ocayweufi644qa3c7z43yxgr",
@@ -420,7 +420,7 @@
     "timestamp":"2025-04-06T19:11:41.081000",
     "cid":"bafyreiaywjklfqg25pfl5xrhamzqlbu3iitx4jrjuclh734rnnebgmbsye",
     "uri":"at:\/\/did:plc:ocayweufi644qa3c7z43yxgr\/app.bsky.feed.post\/3lm65lu2bk42g",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:belsjyeugeapredzdqmjp2q2",
@@ -429,7 +429,7 @@
     "timestamp":"2025-04-08T13:23:10.142000",
     "cid":"bafyreib7z3izjf5hu6rjacrmbj7cbvlkg3fj46wrh6qkprjsees2zuzexa",
     "uri":"at:\/\/did:plc:belsjyeugeapredzdqmjp2q2\/app.bsky.feed.post\/3lmcl23bh3k2l",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:z74pljycvcf54ullzedu2c5m",
@@ -438,7 +438,7 @@
     "timestamp":"2025-04-10T19:00:57.199000",
     "cid":"bafyreid2lz2mmfab33ua7dcexrhfxvd56sgitv45frrbonrk52snxzpnnq",
     "uri":"at:\/\/did:plc:z74pljycvcf54ullzedu2c5m\/app.bsky.feed.post\/3lmi6ud3ges26",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:mheidq6jyh6h4meauzwofn2t",
@@ -447,7 +447,7 @@
     "timestamp":"2025-04-08T12:28:16.305000",
     "cid":"bafyreig64ke3qo45pqh5gjx2tbzmmj2zh4ejpsvilmyy25me2xweeratgy",
     "uri":"at:\/\/did:plc:mheidq6jyh6h4meauzwofn2t\/app.bsky.feed.post\/3lmchyesyr22e",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:jrer4bhgyxm7vz2zkmjhs5sl",
@@ -456,7 +456,7 @@
     "timestamp":"2025-04-15T12:44:51.894000",
     "cid":"bafyreidqtt6jsfxsyw6apaymhif53ajafzgp52mcurga4xcvy7qmuzpb7a",
     "uri":"at:\/\/did:plc:jrer4bhgyxm7vz2zkmjhs5sl\/app.bsky.feed.post\/3lmu46iaajs2k",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:qyjavi6is4cjsh56pk5vhvxv",
@@ -465,7 +465,7 @@
     "timestamp":"2025-04-11T19:45:11.774000",
     "cid":"bafyreigx66rs6gnt6nkawtoldsdv4ew5iofb6if65kwksfv56orc63u6we",
     "uri":"at:\/\/did:plc:qyjavi6is4cjsh56pk5vhvxv\/app.bsky.feed.post\/3lmkrsg642s2f",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:x7rqbpb4zhqcmlbmfnbpzsbn",
@@ -474,7 +474,7 @@
     "timestamp":"2025-04-15T13:36:16.520000",
     "cid":"bafyreie2h6bmrvz5vrrhms7kluvwfcwrxgk6kes7mqcso54esfktq5bruu",
     "uri":"at:\/\/did:plc:x7rqbpb4zhqcmlbmfnbpzsbn\/app.bsky.feed.post\/3lmu72g6tz224",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:ny6vo7wmawsgepj57juq3pcf",
@@ -483,7 +483,7 @@
     "timestamp":"2025-04-11T05:51:01.724000",
     "cid":"bafyreiceqym3pjoifjilsri43gzwlqw4yejqfnuqdw2zy26gad3hxab7ue",
     "uri":"at:\/\/did:plc:ny6vo7wmawsgepj57juq3pcf\/app.bsky.feed.post\/3lmjd6rvjc227",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:2ao5lu5yfujeakelhvnmdv6w",
@@ -492,7 +492,7 @@
     "timestamp":"2025-04-09T16:13:26.662000",
     "cid":"bafyreifwqvexeqotzwq3dbsvoespayrn3q4l4anki6oqkwkmqfuarefpqi",
     "uri":"at:\/\/did:plc:2ao5lu5yfujeakelhvnmdv6w\/app.bsky.feed.post\/3lmfezua3yk2s",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:4pbw4wn2fdumvenxj2krmkg6",
@@ -501,7 +501,7 @@
     "timestamp":"2025-04-08T14:17:43.516000",
     "cid":"bafyreibzny5vdnqzp5cr4nrnrwbb555ef6rmbbf7gv2fdzodrhlh4v4qpy",
     "uri":"at:\/\/did:plc:4pbw4wn2fdumvenxj2krmkg6\/app.bsky.feed.post\/3lmco3zyhac2n",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:5kvz77amy4dkihh7cmjedk7f",
@@ -510,7 +510,7 @@
     "timestamp":"2025-04-08T12:12:02.132000",
     "cid":"bafyreidt32pqh3clciuacnvcu7kzdxt3vcan5nfiu7jxcqoqxaroswwj6u",
     "uri":"at:\/\/did:plc:5kvz77amy4dkihh7cmjedk7f\/app.bsky.feed.post\/3lmch3db6kc2h",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:kod47jh5c7kxgccqrm7vzl5d",
@@ -519,7 +519,7 @@
     "timestamp":"2025-04-09T21:53:36.104000",
     "cid":"bafyreicb6qedziz5bkeqpq4a42dois3hlplagz7eqwvha6fwwcdfehyn2a",
     "uri":"at:\/\/did:plc:kod47jh5c7kxgccqrm7vzl5d\/app.bsky.feed.post\/3lmfy254fyc2n",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:pchsp6nyv5kavektpc2rtoiw",
@@ -528,7 +528,7 @@
     "timestamp":"2025-04-10T19:38:53.490000",
     "cid":"bafyreihyijs6qf33d4od3ew5kqgwbrq654wvxh7y7otkacrlzfwpdiuyvu",
     "uri":"at:\/\/did:plc:pchsp6nyv5kavektpc2rtoiw\/app.bsky.feed.post\/3lmiay7t6322r",
-    "annotation":""
+    "annotation":"no$"
   },
   {
     "repo":"did:plc:w5ruirkmyhbgg2cwehbifaez",
@@ -537,7 +537,7 @@
     "timestamp":"2025-04-11T19:51:39.373000",
     "cid":"bafyreiciyhr7labyqebpzkqkqdg3qs7mrvwz5oggd2lvc5fkidvmh5ulma",
     "uri":"at:\/\/did:plc:w5ruirkmyhbgg2cwehbifaez\/app.bsky.feed.post\/3lmks5ui3lc2z",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:rhserzgqdxnw75ecft3zqpxp",
@@ -546,7 +546,7 @@
     "timestamp":"2025-04-06T17:14:54.951000",
     "cid":"bafyreih3nnj7y4lvd2nnr344iyexhdqtqjastiwfm2xrs5pxgo2o3v4ile",
     "uri":"at:\/\/did:plc:rhserzgqdxnw75ecft3zqpxp\/app.bsky.feed.post\/3lm5x33fw6c2k",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:nk2bqzqnszyqiqkmewr5uyks",
@@ -555,7 +555,7 @@
     "timestamp":"2025-04-11T05:04:58.555000",
     "cid":"bafyreihui5ypilrlnnxjezbdogha7eszay4ajajch6xpcl2iqf3k4ch2ba",
     "uri":"at:\/\/did:plc:nk2bqzqnszyqiqkmewr5uyks\/app.bsky.feed.post\/3lmjamhkiwk27",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:puysacjz5dvhzf73uuv2pbxm",
@@ -564,7 +564,7 @@
     "timestamp":"2025-04-08T14:19:36.151000",
     "cid":"bafyreidfbg73ewt3dgfdva6p6wn2qnhqdhle7o6qkklphrgguk2fozglxi",
     "uri":"at:\/\/did:plc:puysacjz5dvhzf73uuv2pbxm\/app.bsky.feed.post\/3lmco7f6uoc2h",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:mecpmq3shehcuz6ykobpv6yk",
@@ -573,7 +573,7 @@
     "timestamp":"2025-04-11T19:41:21.658000",
     "cid":"bafyreidbxusuvagrvoghyecbnaif7abueduym26ym5h5d5yhbwqt6ghdsq",
     "uri":"at:\/\/did:plc:mecpmq3shehcuz6ykobpv6yk\/app.bsky.feed.post\/3lmkrljknps2e",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:fri7ljw2hnmggpfh5ymz6o35",
@@ -582,7 +582,7 @@
     "timestamp":"2025-04-13T00:27:41.483000",
     "cid":"bafyreihz3gjtbkdcclvfnny5kd7h4k2asbtgdwcsm56xvhcragektghcuy",
     "uri":"at:\/\/did:plc:fri7ljw2hnmggpfh5ymz6o35\/app.bsky.feed.post\/3lmns2hxy2k2y",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:oe6ivekvkkrmxuhniogcz5io",
@@ -600,7 +600,7 @@
     "timestamp":"2025-04-07T00:41:04.302000",
     "cid":"bafyreihydoej4qhly4ohg2utz2ff6z7zirly5r4lr6imkwvlqf3hnbm4cy",
     "uri":"at:\/\/did:plc:3oka4lnllpm4w7fme7ccfiuz\/app.bsky.feed.post\/3lm6pyubvme2p",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:hyooinglxfr4hftzgncirfio",
@@ -609,7 +609,7 @@
     "timestamp":"2025-04-09T15:36:35.059000",
     "cid":"bafyreihvtgy2z4kx5qzzyyx7mo3mobuid7q6iwfhmhgrkqp363oaaoaluq",
     "uri":"at:\/\/did:plc:hyooinglxfr4hftzgncirfio\/app.bsky.feed.post\/3lmfcxxeckc2r",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:ts4essuu7ue534di54sz62ne",
@@ -618,7 +618,7 @@
     "timestamp":"2025-04-09T21:32:33.819000",
     "cid":"bafyreifnuzd76prhqigqsg6wlkn24ffyaiujbqhkko772ygtkeyvosgqaq",
     "uri":"at:\/\/did:plc:ts4essuu7ue534di54sz62ne\/app.bsky.feed.post\/3lmfwul2jth2c",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:tdfoayf3q643okotnuqanllb",
@@ -627,7 +627,7 @@
     "timestamp":"2025-04-08T14:03:21.896000",
     "cid":"bafyreieep6wdl3dxcrv456hiw4jupzu4y76a7dyv67eh2s4eiju56ioyty",
     "uri":"at:\/\/did:plc:tdfoayf3q643okotnuqanllb\/app.bsky.feed.post\/3lmcncdc3us2a",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:shgsg4kwvhktvldnkqaqu6q3",
@@ -636,7 +636,7 @@
     "timestamp":"2025-04-07T00:59:58.082000",
     "cid":"bafyreig4hlqkwybd3djyl6ykghxdwut7zh4pv5t6li4x7faeovxscseofe",
     "uri":"at:\/\/did:plc:shgsg4kwvhktvldnkqaqu6q3\/app.bsky.feed.post\/3lm6r2nsdbs24",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:l6kbawubbl5mdp7cxwsyugkb",
@@ -645,7 +645,7 @@
     "timestamp":"2025-04-08T11:49:43.339000",
     "cid":"bafyreiccoxou624ysc3x4vuvod3twxpwmgqxprwwo65ea32i3ui77jvoa4",
     "uri":"at:\/\/did:plc:l6kbawubbl5mdp7cxwsyugkb\/app.bsky.feed.post\/3lmcftamiuc2k",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:mgcsgpxg36pglodoyfmmls36",
@@ -654,7 +654,7 @@
     "timestamp":"2025-04-13T00:46:00.381000",
     "cid":"bafyreihokxzfecwrzxhzetxghfoja6xv2h43kpiyiog5ahoeeece5dbjja",
     "uri":"at:\/\/did:plc:mgcsgpxg36pglodoyfmmls36\/app.bsky.feed.post\/3lmnt37z4js2a",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:irtuz5ga77wkpe3j4c5zjufi",
@@ -663,7 +663,7 @@
     "timestamp":"2025-04-15T13:01:28.287000",
     "cid":"bafyreihdh2ylov22ldjjchxm2mp7zq4npa4sckb4hagmtywlqcnsrm5uey",
     "uri":"at:\/\/did:plc:irtuz5ga77wkpe3j4c5zjufi\/app.bsky.feed.post\/3lmu545tg6k2p",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:vams2pk2ymwyacx3wv4jxsny",
@@ -672,7 +672,7 @@
     "timestamp":"2025-04-09T21:34:30.831000",
     "cid":"bafyreigj3xwqwaafs4dtzzq2aaggggbnolrt2ci6vqoklfdacp2nksavom",
     "uri":"at:\/\/did:plc:vams2pk2ymwyacx3wv4jxsny\/app.bsky.feed.post\/3lmfwy3l5j22y",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:o6k22at6f66oxpy3cubqt4sf",
@@ -681,7 +681,7 @@
     "timestamp":"2025-04-09T15:45:58.238000",
     "cid":"bafyreibsn5dnr5evb2twtimtu2f53ot27yfaudbdqole433yl662dkjxc4",
     "uri":"at:\/\/did:plc:o6k22at6f66oxpy3cubqt4sf\/app.bsky.feed.post\/3lmfdiroukc2f",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:2eeptu2o2npwufequyyfvrxb",
@@ -690,7 +690,7 @@
     "timestamp":"2025-04-08T13:03:24.301000",
     "cid":"bafyreibmbrvgbjdamkscyb5whtesqkhcapf4nq5buh555wwe7eex2em3mq",
     "uri":"at:\/\/did:plc:2eeptu2o2npwufequyyfvrxb\/app.bsky.feed.post\/3lmcjx56he22u",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:bks7x6mdmsh473sqmlzuvt56",
@@ -699,7 +699,7 @@
     "timestamp":"2025-04-10T19:40:11.936000",
     "cid":"bafyreigjhozdgujbq4vtiyifroudvq7lgan3fantgkajnfhpitcerojkty",
     "uri":"at:\/\/did:plc:bks7x6mdmsh473sqmlzuvt56\/app.bsky.feed.post\/3lmib2jtm4c2e",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:naht47pdkfo5j6qlpzey2mhy",
@@ -708,7 +708,7 @@
     "timestamp":"2025-04-09T21:25:10.286000",
     "cid":"bafyreiad4ze4wvbe3flvjz3ugv63fjqsgaeglziyqgxdm2b2j6mgc7h2tu",
     "uri":"at:\/\/did:plc:naht47pdkfo5j6qlpzey2mhy\/app.bsky.feed.post\/3lmfwhbo7zs2s",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:olvvaydvdxmv6cmyoui53j4k",
@@ -717,7 +717,7 @@
     "timestamp":"2025-04-06T19:22:31.126000",
     "cid":"bafyreiarwfzayrgxhugdy3basxz5antefi4kit3isksoyidvfzr2nkoy24",
     "uri":"at:\/\/did:plc:olvvaydvdxmv6cmyoui53j4k\/app.bsky.feed.post\/3lm667bk22k2o",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:shtwhgni5eah4rswvaefyx2t",
@@ -726,7 +726,7 @@
     "timestamp":"2025-04-06T18:26:12.659000",
     "cid":"bafyreiezesjste2q5nb4pma7ibnvdj772h74zoxbcou2xmnziqdzkpoyhq",
     "uri":"at:\/\/did:plc:shtwhgni5eah4rswvaefyx2t\/app.bsky.feed.post\/3lm632hll2k24",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:jm7cj2x6ybu2vjtu6uq236du",
@@ -735,7 +735,7 @@
     "timestamp":"2025-04-08T13:30:26.449000",
     "cid":"bafyreigrdlhdfbxd724qjaofhfwikr37lt5ox3fxparx6kir4peppukyku",
     "uri":"at:\/\/did:plc:jm7cj2x6ybu2vjtu6uq236du\/app.bsky.feed.post\/3lmclhjxf6g2o",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:5qxwaeadxlnt5resalg37vsv",
@@ -744,7 +744,7 @@
     "timestamp":"2025-04-10T19:48:48.653000",
     "cid":"bafyreifmrxp7rherbwypz4hgmkabieiiywpqmtf6jy43zyq7iq4n5ofblm",
     "uri":"at:\/\/did:plc:5qxwaeadxlnt5resalg37vsv\/app.bsky.feed.post\/3lmibjg52oc2t",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:o66ybtvawlijbbef4hrfe7sg",
@@ -753,7 +753,7 @@
     "timestamp":"2025-04-06T17:35:41.644000",
     "cid":"bafyreih74e5oxyhwg5agnbjfzbuwjzakkf7odni3wfzzbx4jbqf4pwuksa",
     "uri":"at:\/\/did:plc:o66ybtvawlijbbef4hrfe7sg\/app.bsky.feed.post\/3lm5ya7xfhk2n",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:fjvafi5dza5ncs6awselh5va",
@@ -762,7 +762,7 @@
     "timestamp":"2025-04-09T16:03:01.569000",
     "cid":"bafyreicqqta733olg3lwrpvwuqw5w6h6cvdiovnlwoymhuqg7zam26g5wm",
     "uri":"at:\/\/did:plc:fjvafi5dza5ncs6awselh5va\/app.bsky.feed.post\/3lmfehc7brc2x",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:3enivkqyls2zkcx2ox4q5gs3",
@@ -771,7 +771,7 @@
     "timestamp":"2025-04-09T15:33:01.116000",
     "cid":"bafyreifgtjsvfdt37v6pyfvlc3nqruo63phnnytsnba24y3k5ddjs4ouo4",
     "uri":"at:\/\/did:plc:3enivkqyls2zkcx2ox4q5gs3\/app.bsky.feed.post\/3lmfcrnfqs22a",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:e3oneecaxqg52phwh53es5he",
@@ -780,7 +780,7 @@
     "timestamp":"2025-04-11T04:46:33.711000",
     "cid":"bafyreidwk7p6yvwyb2msougjk7vld62qubqz7u3roaav2nv4eg4a5mlkri",
     "uri":"at:\/\/did:plc:e3oneecaxqg52phwh53es5he\/app.bsky.feed.post\/3lmj7ljz7qc2i",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:tikwzvr6vxqz4y5rmamslgbi",
@@ -789,7 +789,7 @@
     "timestamp":"2025-04-06T18:04:41.525000",
     "cid":"bafyreicdzkbbdxempzcr34v726zpk434wws4irwd34xuqnqw3txjxxqe6u",
     "uri":"at:\/\/did:plc:tikwzvr6vxqz4y5rmamslgbi\/app.bsky.feed.post\/3lm5zu3pcjc2x",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:zoleerybojylhyu6setu36xo",
@@ -798,7 +798,7 @@
     "timestamp":"2025-04-11T20:40:55.692000",
     "cid":"bafyreiayz42slymkkppj4xkz4wbubue6rhclc2jcxocu3h3e5rtrvbuweu",
     "uri":"at:\/\/did:plc:zoleerybojylhyu6setu36xo\/app.bsky.feed.post\/3lmkuvzusvs25",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:6ugkxvqsesoyn3o2kurefjkt",
@@ -807,7 +807,7 @@
     "timestamp":"2025-04-12T23:42:21.521000",
     "cid":"bafyreid2unkyaur5yklh7hgcbifd4bwmtyyxgu6pjye4jimu5wtw52uqru",
     "uri":"at:\/\/did:plc:6ugkxvqsesoyn3o2kurefjkt\/app.bsky.feed.post\/3lmnpjfvbbs2l",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:vlhaoucwhf2gefdvz4e5s7d2",
@@ -816,7 +816,7 @@
     "timestamp":"2025-04-08T12:22:47.632000",
     "cid":"bafyreibfgi37ewc436uecevq6icknaqbtiq44kw3nlyyt52mimxzjpgdsa",
     "uri":"at:\/\/did:plc:vlhaoucwhf2gefdvz4e5s7d2\/app.bsky.feed.post\/3lmchokjkuk2h",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:vac5xxjo33tmqsgekxzhnncy",
@@ -825,7 +825,7 @@
     "timestamp":"2025-04-15T12:42:47.926000",
     "cid":"bafyreifcwcvgzqnwehpgbuleb27ivz57vzlqpxppe3mt7upvlq4dot2ctu",
     "uri":"at:\/\/did:plc:vac5xxjo33tmqsgekxzhnncy\/app.bsky.feed.post\/3lmu42qw7rk26",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:npmgukcde5rslpi5j4x7zfq2",
@@ -834,7 +834,7 @@
     "timestamp":"2025-04-08T12:30:04.197000",
     "cid":"bafyreib5nvwpmfwne3fwkxqqmw6qmvswjccrqpra7xrhk6is6xapnzk624",
     "uri":"at:\/\/did:plc:npmgukcde5rslpi5j4x7zfq2\/app.bsky.feed.post\/3lmci2hyqqs2q",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:xhg3g7gs4weqwqrbw6ollfsu",
@@ -843,7 +843,7 @@
     "timestamp":"2025-04-15T12:31:18.867000",
     "cid":"bafyreifnf4c4ibryjgszzgxz5p4ehmwtfbxm2q4azanzdmhtj4oup5i3xq",
     "uri":"at:\/\/did:plc:xhg3g7gs4weqwqrbw6ollfsu\/app.bsky.feed.post\/3lmu3g5cmg22f",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:gvebwta77v5obvxwewoxco77",
@@ -852,7 +852,7 @@
     "timestamp":"2025-04-14T12:31:03.496000",
     "cid":"bafyreihefrny5rnh46igoq55yned6pgfeqc6xl3oxn2se6bhw7hxseydw4",
     "uri":"at:\/\/did:plc:gvebwta77v5obvxwewoxco77\/app.bsky.feed.post\/3lmrkwu7w322p",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:en6anxapyquhoc3jiukn77yh",
@@ -861,7 +861,7 @@
     "timestamp":"2025-04-12T23:39:36.296000",
     "cid":"bafyreiazppvfrasvn2367teeqza3eaeaup2rfkgguiunbzoz5enbrfytqq",
     "uri":"at:\/\/did:plc:en6anxapyquhoc3jiukn77yh\/app.bsky.feed.post\/3lmnpehwxy224",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:okq723x5zpbsnf6junmrn67z",
@@ -870,7 +870,7 @@
     "timestamp":"2025-04-13T00:03:30.526000",
     "cid":"bafyreiduhwcsuusabmb4sncxqmpbzxhrcqa55vvivdbxubvdy5d3p4yywa",
     "uri":"at:\/\/did:plc:okq723x5zpbsnf6junmrn67z\/app.bsky.feed.post\/3lmnqp7jzx227",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:f3o2t4ljyq34x6dppnjsrge4",
@@ -879,7 +879,7 @@
     "timestamp":"2025-04-15T12:52:26.692000",
     "cid":"bafyreief3knwpdonyjwd3st5pciefiypo6x57pdfemivqpszgr57pjle3e",
     "uri":"at:\/\/did:plc:f3o2t4ljyq34x6dppnjsrge4\/app.bsky.feed.post\/3lmu4lkuddk2k",
-    "annotation":""
+    "annotation":"yes"
   },
   {
     "repo":"did:plc:tuzpjsdtgp4peqlmuvmt7cp4",
@@ -888,7 +888,7 @@
     "timestamp":"2025-04-09T22:06:38.690000",
     "cid":"bafyreigyydltyvoxpjkj7xc4qbjde2jiizwqlylharheycldw32h2rhxo4",
     "uri":"at:\/\/did:plc:tuzpjsdtgp4peqlmuvmt7cp4\/app.bsky.feed.post\/3lmfyrikhw22w",
-    "annotation":""
+    "annotation":"no"
   },
   {
     "repo":"did:plc:jn3fideahqtqzfslupurcogr",
@@ -897,6 +897,6 @@
     "timestamp":"2025-04-11T05:59:46.019000",
     "cid":"bafyreiagr7fw7i5amm76kssvp2l3l37uwi3vf6kand6hora5ckf5lii5nq",
     "uri":"at:\/\/did:plc:jn3fideahqtqzfslupurcogr\/app.bsky.feed.post\/3lmjdoggn5c27",
-    "annotation":""
+    "annotation":"no"
   }
 ]
