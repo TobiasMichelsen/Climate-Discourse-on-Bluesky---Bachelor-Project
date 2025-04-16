@@ -159,7 +159,7 @@
     "timestamp": "2025-04-06T17:23:13.281000",
     "cid": "bafyreictlxv2m7acmw7ttk3yv2rhxyv7jurgb3slfnvhyhyk3wkc2sed7m",
     "uri": "at:\/\/did:plc:d6gfmwqotkciuavbft576tvz\/app.bsky.feed.post\/3lm5xjw7y522h",
-    "annotation": ""
+    "annotation": "no"
   },
   {
     "repo": "did:plc:z7uv3u3d7grufi5i5ptqufst",
@@ -420,7 +420,7 @@
     "timestamp": "2025-04-08T13:00:31.861000",
     "cid": "bafyreigakz2mjrop7fb3ewba7ryy3hmyvs4cwxj7iwvtba54wy7sgwjpiq",
     "uri": "at:\/\/did:plc:cpzklo64eudwtwvbgqieopnf\/app.bsky.feed.post\/3lmcjs2fyhc2m",
-    "annotation": ""
+    "annotation": "no"
   },
   {
     "repo": "did:plc:o3ceufl4wmkuq75qmgmsvyx5",
