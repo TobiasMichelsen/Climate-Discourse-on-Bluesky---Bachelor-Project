@@ -109,10 +109,10 @@ for (min_cluster_size, min_samples, metric, nr_topics,
     ]
 
     if not existing.empty:
-        print(f"Skipping already completed: {run_key}")
+        print(f"Skipping already completed: {run_key}", flush=True)
         continue
 
-    print(f"\nRunning: {run_key}")
+    print(f"\nRunning: {run_key}",flush=True)
     start = time.time()
 
     if metric == "cosine":
@@ -172,8 +172,8 @@ for (min_cluster_size, min_samples, metric, nr_topics,
             **run_key,
             "n_topics": n_topics,
             "outliers": n_outliers,
-            "outlier_pct": round(n_outliers / n_total * 100, 2)
-            }
+            "outlier_pct": round(n_outliers / n_total * 100, 2),
+            "time": duration}
 
         log_df = pd.concat([log_df, pd.DataFrame([log_entry])], ignore_index=True)
         log_df.to_csv(log_path, index=False)
@@ -184,8 +184,8 @@ for (min_cluster_size, min_samples, metric, nr_topics,
         os.makedirs(save_dir, exist_ok=True)
 
         topic_model.save(os.path.join(save_dir, "model"))
-        df_before.to_csv(os.path.join(save_dir, "topics_before_reduction.csv"), index=False)
-        df_after.to_csv(os.path.join(save_dir, "topics_after_reduction.csv"), index=False)
+        df_before.to_json(os.path.join(save_dir, "topics_before_reduction.json"), orient= "records", lines=True)
+        df_after.to_json(os.path.join(save_dir, "topics_after_reduction.json"), orient= "records", lines=True)
 
         with open(os.path.join(save_dir, "topic_info.json"), "w") as f:
             json.dump(topic_info.to_dict(orient="records"), f, indent=2)
