@@ -24,8 +24,6 @@ for filename in os.listdir(input_path):
     df_whole = pd.concat(df_whole,df)
 
 
-
-
 #HYPERPARAMETERS: EMBEDDING
 
 embedding_models = ["all-MiniLM-L6-v2"]
@@ -55,6 +53,9 @@ log_path = os.path.expanduser("~/BachProj/Classification/BERTopic/logs/bertopic_
 
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 
+
+#LOGS
+
 log_columns = [
 "embedding_model", "metric", "min_cluster_size", "min_samples",
 "nr_topics", "umap_neighbors", "umap_components", "umap_min_dist",
@@ -68,8 +69,10 @@ else:
     
     log_df = pd.DataFrame(columns=log_columns)
     log_df.to_csv(log_path, index=False)
+    
+# MAIN LOOP    
 
-texts_to_embed = climate_df.tolist()
+texts_to_embed = df_whole.tolist()
 
 for embed_model in embedding_models:
     print(f"\nEmbedding model: {embed_model}")
