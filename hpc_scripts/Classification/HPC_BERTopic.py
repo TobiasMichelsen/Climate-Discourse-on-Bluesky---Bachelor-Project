@@ -16,12 +16,12 @@ import glob
 
 #DATA
 df_whole = pd.DataFrame()
-input_path = "~/BachProj/data/climate_classified"
+input_path = "../../data/climate_classified"
 for filename in os.listdir(input_path):
     df = pd.read_json(f"{input_path}/{filename}")
     df = df[df["label"] == "yes"]
     df = df[df["score"] >= .99]
-    df_whole = pd.concat(df_whole,df)
+    df_whole = pd.concat([df_whole,df], ignore_index=True)
 
 
 #HYPERPARAMETERS: EMBEDDING
@@ -49,7 +49,7 @@ umap_min_dist = [0.0, 0.25]
 
 nr_topics_vals = [None, 12, 15, 20] 
 
-log_path = os.path.expanduser("~/BachProj/Classification/BERTopic/logs/bertopic_grid_log.csv")
+log_path = os.path.expanduser("logs/bertopic_grid_log.csv")
 
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 
@@ -180,7 +180,7 @@ for (min_cluster_size, min_samples, metric, nr_topics,
 
         model_name = f"{embed_model}_{metric}_c{min_cluster_size}_s{min_samples}_nt{nr_topics}_u{n_neighbors}-{n_components}-{min_dist}"
         
-        save_dir = f"~/BachProj/Classification/BERTopic/logs/{model_name}"
+        save_dir = f"logs/{model_name}"
         os.makedirs(save_dir, exist_ok=True)
 
         topic_model.save(os.path.join(save_dir, "model"))
