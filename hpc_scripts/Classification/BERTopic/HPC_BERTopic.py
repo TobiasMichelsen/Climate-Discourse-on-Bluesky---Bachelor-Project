@@ -11,6 +11,7 @@ from sklearn.preprocessing import normalize
 import os
 import csv
 import glob
+import torch
 
 
 
@@ -22,6 +23,7 @@ for filename in os.listdir(input_path):
     df = df[df["label"] == "yes"]
     df = df[df["score"] >= .99]
     df_whole = pd.concat([df_whole,df], ignore_index=True)
+    print(df_whole.shape,flush = True)
 
 
 #HYPERPARAMETERS: EMBEDDING
@@ -54,6 +56,9 @@ log_path = os.path.expanduser("logs/bertopic_grid_log.csv")
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 
 
+
+
+
 #LOGS
 
 log_columns = [
@@ -69,17 +74,39 @@ else:
     
     log_df = pd.DataFrame(columns=log_columns)
     log_df.to_csv(log_path, index=False)
-    
-# MAIN LOOP    
 
+#Checkpoint control
+
+counter_combinations = len(log_df)
+max_combinations = 3456
+proportion = counter_combinations / max_combinations
+
+
+# MAIN LOOP
+    
 texts_to_embed = df_whole["text"].tolist()
 
+
+device = "cuda" if torch.cuda.is_available() else "cpu"
+print(f"Using device: {device}",flush=True)                                     #PRINT
+
+batch_size = 64  # You can adjust based on HPC memory
+
 for embed_model in embedding_models:
-    print(f"\nEmbedding model: {embed_model}")
-    model = SentenceTransformer(embed_model)
-    embeddings_local = model.encode(texts_to_embed, show_progress_bar=True)
-
-
+    print(f"\nStarting embedding with model: {embed_model}",flush=True)            #PRINT 
+    model = SentenceTransformer(embed_model, device = device)
+    
+    start_embed = time.time()
+    embeddings_local = model.encode(
+        texts_to_embed,
+        show_progress_bar=True,
+        batch_size=batch_size,
+        convert_to_numpy=True
+    )
+    embed_time = round(time.time() - start_embed, 2)
+    print(f"Embedding done for model '{embed_model}' in {embed_time}s", flush=True)             #PRINT
+    
+    
 for (min_cluster_size, min_samples, metric, nr_topics,
      n_neighbors, n_components, min_dist) in itertools.product(
     min_cluster_sizes, min_samples_vals, distance_metrics,
@@ -177,11 +204,17 @@ for (min_cluster_size, min_samples, metric, nr_topics,
 
         log_df = pd.concat([log_df, pd.DataFrame([log_entry])], ignore_index=True)
         log_df.to_csv(log_path, index=False)
+        
+        
+        print(f"Completed {len(log_df)} models so far.", flush=True)                                                                        #PRINT
+
 
         model_name = f"{embed_model}_{metric}_c{min_cluster_size}_s{min_samples}_nt{nr_topics}_u{n_neighbors}-{n_components}-{min_dist}"
         
         save_dir = f"logs/{model_name}"
         os.makedirs(save_dir, exist_ok=True)
+        
+        
 
         topic_model.save(os.path.join(save_dir, "model"))
         df_before.to_json(os.path.join(save_dir, "topics_before_reduction.json"), orient= "records", lines=True)
@@ -189,8 +222,15 @@ for (min_cluster_size, min_samples, metric, nr_topics,
 
         with open(os.path.join(save_dir, "topic_info.json"), "w") as f:
             json.dump(topic_info.to_dict(orient="records"), f, indent=2)
-
-        print(f"Done | Topics: {n_topics}, Outliers: {n_outliers} ({log_entry['outlier_pct']}%) | Time: {duration}s")
+            
+        counter_combinations += 1
+        
+        if max_combinations >= 10 and counter_combinations % (max_combinations // 10) == 0:
+            print(f"Progress: {counter_combinations}/{max_combinations} models completed ({int(proportion * 100)}%)", flush=True)                   #PRINT
+        
+        
+        
+        print(f"Done | Topics: {n_topics}, Outliers: {n_outliers} ({log_entry['outlier_pct']}%) | Time: {duration}s",flush=True)                    #PRINT
 
     except Exception as e:
-        print(f"Failed for config: {run_key} — {e}")
+        print(f"Failed for config: {run_key} — {e}",flush=True)
