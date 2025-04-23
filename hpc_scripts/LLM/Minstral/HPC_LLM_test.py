@@ -4,7 +4,7 @@ import pandas as pd
 import pickle
 import datetime
 
-input_path = "~/BachProj/data/climate_classified"
+input_path = "../..//data/climate_classified"
 keep_running = True
 counter = 0
 concat_df = pd.DataFrame()
@@ -13,7 +13,7 @@ while keep_running:
         start_time = datetime.datetime.now()
         print(f"processing {filename}..\nstart at: {start_time}", flush=True)
         counter += 1
-        if counter > 20:
+        if counter > 3:
             keep_running = False
             break
         df = pd.read_json(f"{input_path}/{filename}")    

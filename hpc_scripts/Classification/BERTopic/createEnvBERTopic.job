@@ -1,0 +1,18 @@
+#!/bin/bash
+#SBATCH --job-name=setup_BERTOPIC_env
+#SBATCH --output=setup_env.%j.out
+#SBATCH --error=setup_env.%j.err
+#SBATCH --cpus-per-task=2        # Schedule two cores
+#SBATCH --time=10:00:00
+#SBATCH --partition=scavenge
+
+module load Python/3.12.3-GCCcore-13.3.0  # Load your preferred version
+
+# Create virtual environment
+python3 -m venv ~/envs/BERTopic_env
+
+# Activate and install dependencies
+source ~/envs/BERTopic_env/bin/activate
+pip install --upgrade pip
+pip install bertopic sentence-transformers pandas hdbscan umap scikit-learn
+pip freeze > BERTopic_requirements.txt
