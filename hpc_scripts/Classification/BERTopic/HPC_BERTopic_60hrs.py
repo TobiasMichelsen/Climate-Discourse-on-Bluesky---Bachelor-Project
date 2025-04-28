@@ -90,7 +90,7 @@ texts_to_embed = df_whole["text"].tolist()
 device = "cuda" if torch.cuda.is_available() else "cpu"
 print(f"Using device: {device}",flush=True)                                     #PRINT
 
-batch_size = 64  # You can adjust based on HPC memory
+batch_size = 32  # You can adjust based on HPC memory
 
 for embed_model in embedding_models:
     print(f"\nStarting embedding with model: {embed_model}",flush=True)            #PRINT 

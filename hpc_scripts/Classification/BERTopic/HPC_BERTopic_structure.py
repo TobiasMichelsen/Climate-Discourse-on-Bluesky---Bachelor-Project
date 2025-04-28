@@ -28,28 +28,28 @@ for filename in os.listdir(input_path):
 
 #HYPERPARAMETERS: EMBEDDING
 
-embedding_models = ["all-MiniLM-L6-v2"]
+embedding_models = ["all-MiniLM-L6-v2", "paraphrase-MiniLM-L6-v2"]
 
 #HYPERPARAMETERS: HDBSCAN
 
-min_cluster_sizes = [50, 100, 150]
+min_cluster_sizes = [5]
 
-min_samples_vals = [10,30,50]
+min_samples_vals = [1]
 
 distance_metrics = ["cosine"]
 
 #HYPERPARAMETERS: UMAP
 
-umap_neighbors = [15, 30]
+umap_neighbors = [2]
 
-umap_components = [5, 10, 15]
+umap_components = [5]
 
-umap_min_dist = [0.0, 0.25]
+umap_min_dist = [0.0]
 
 
 #TOPIC REDUCTION
 
-nr_topics_vals =  [12, 18] 
+nr_topics_vals =  [18] 
 
 log_path = os.path.expanduser("logs/bertopic_grid_log.csv")
 
