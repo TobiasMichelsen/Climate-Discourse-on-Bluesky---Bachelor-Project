@@ -12,7 +12,39 @@ import csv
 import torch
 import gc
 
-# DATA
+from gensim.models import CoherenceModel
+from gensim.corpora import Dictionary
+
+# Functions
+def compute_coherence_score(topic_model, documents, top_n_words=10):
+    topics = topic_model.get_topics()
+    topic_words = [
+        [word for word, _ in topics[topic_id][:top_n_words]]
+        for topic_id in topics.keys() if topic_id != -1
+    ]
+    tokenized_docs = [doc.split() for doc in documents]
+    dictionary = Dictionary(tokenized_docs)
+    coherence_model = CoherenceModel(
+        topics=topic_words,
+        texts=tokenized_docs,
+        dictionary=dictionary,
+        coherence='c_v'
+    )
+    return coherence_model.get_coherence()
+
+def compute_topic_diversity(topic_model, top_n_words=10):
+    topics = topic_model.get_topics()
+    topic_words = [
+        [word for word, _ in topics[topic_id][:top_n_words]]
+        for topic_id in topics.keys() if topic_id != -1
+    ]
+    all_words = [word for words in topic_words for word in words]
+    unique_words = len(set(all_words))
+    total_words = len(all_words)
+    return unique_words / total_words if total_words > 0 else 0
+
+# --- DATA ---
+
 df_whole = pd.DataFrame()
 input_path = "../../data/climate_classified"
 for filename in os.listdir(input_path):
@@ -22,26 +54,25 @@ for filename in os.listdir(input_path):
     df_whole = pd.concat([df_whole, df], ignore_index=True)
     print(df_whole.shape, flush=True)
 
-# HYPERPARAMETERS: EMBEDDING
+#Hyperparameters
+
 embedding_models = ["all-MiniLM-L6-v2"]
 
-# HYPERPARAMETERS: HDBSCAN
-min_cluster_sizes = [25, 50, 75, 100, 125, 150]
-min_samples_vals = [5, 10, 25, 50]
-distance_metrics = ["euclidean", "manhattan", "cosine"]
+min_cluster_sizes = [50, 100]
+min_samples_vals = [5, 10]
+distance_metrics = ["cosine"]
 
-# HYPERPARAMETERS: UMAP
-umap_neighbors = [15, 30]
-umap_components = [5, 7, 9, 11, 13, 15]
-umap_min_dist = [0.0, 0.25]
+umap_neighbors = [15]
+umap_components = [5, 7]
+umap_min_dist = [0.0]
 
-# TOPIC REDUCTION
-nr_topics_vals = [12, 15, 20]
+nr_topics = 15
 
-log_path = os.path.expanduser("logs/bertopic_grid_log.csv")
+
+
+log_path = os.path.expanduser("logs/bertopic_grid_log_local.csv")
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 
-# LOGS
 log_columns = [
     "embedding_model", "metric", "min_cluster_size", "min_samples",
     "nr_topics", "umap_neighbors", "umap_components", "umap_min_dist",
@@ -54,12 +85,11 @@ else:
     log_df = pd.DataFrame(columns=log_columns)
     log_df.to_csv(log_path, index=False)
 
-# Checkpoint control
 counter_combinations = len(log_df)
-max_combinations = 3456
+max_combinations = 4
 proportion = counter_combinations / max_combinations
 
-# MAIN LOOP
+# --- MAIN LOOP ---
 texts_to_embed = df_whole["text"].tolist()
 device = "cuda" if torch.cuda.is_available() else "cpu"
 print(f"Using device: {device}", flush=True)
@@ -82,10 +112,10 @@ for embed_model in embedding_models:
     embed_time = round(time.time() - start_embed, 2)
     print(f"Embedding done for model '{embed_model}' in {embed_time}s", flush=True)
 
-    for (min_cluster_size, min_samples, metric, nr_topics,
+    for (min_cluster_size, min_samples, metric,
          n_neighbors, n_components, min_dist) in itertools.product(
         min_cluster_sizes, min_samples_vals, distance_metrics,
-        nr_topics_vals, umap_neighbors, umap_components, umap_min_dist
+        umap_neighbors, umap_components, umap_min_dist
     ):
 
         run_key = {
@@ -93,7 +123,7 @@ for embed_model in embedding_models:
             "metric": metric,
             "min_cluster_size": min_cluster_size,
             "min_samples": min_samples,
-            "nr_topics": nr_topics,
+            "nr_topics": nr_topics,  # fixed
             "umap_neighbors": n_neighbors,
             "umap_components": n_components,
             "umap_min_dist": min_dist
@@ -155,6 +185,7 @@ for embed_model in embedding_models:
                 "text": texts_to_embed,
                 "topic": topics
             })
+
             topic_model.reduce_topics(texts_to_embed, nr_topics=nr_topics)
 
             topic_info = topic_model.get_topic_info()
@@ -163,9 +194,8 @@ for embed_model in embedding_models:
             n_total = sum(topic_info.Count)
             duration = round(time.time() - start, 2)
 
-            # New metrics
-            coherence = topic_model.get_coherence()
-            diversity = topic_model.get_topic_diversity()
+            coherence = compute_coherence_score(topic_model, texts_to_embed)
+            diversity = compute_topic_diversity(topic_model)
 
             log_entry = {
                 **run_key,
@@ -182,9 +212,8 @@ for embed_model in embedding_models:
 
             print(f"Completed {len(log_df)} models so far.", flush=True)
 
-            # Track top 5 models
             saved_models.append((coherence + diversity, topic_model, run_key))
-            saved_models = sorted(saved_models, key=lambda x: x[0], reverse=True)[:5]
+            saved_models = sorted(saved_models, key=lambda x: x[0], reverse=True)[:1]
 
             counter_combinations += 1
             proportion = counter_combinations / max_combinations
@@ -201,7 +230,7 @@ for embed_model in embedding_models:
             del topic_model
             gc.collect()
 
-# Save top 5 models after all combinations
+# --- SAVE BEST MODEL ---
 for idx, (score, model, params) in enumerate(saved_models):
     save_dir = f"logs/top_models/model_{idx+1}"
     os.makedirs(save_dir, exist_ok=True)
@@ -210,7 +239,6 @@ for idx, (score, model, params) in enumerate(saved_models):
     with open(os.path.join(save_dir, "params.json"), "w") as f:
         json.dump(params, f, indent=2)
     
-    # Save the associated topic assignments (including seq)
     df_topics = pd.DataFrame({
         "seq": df_whole["seq"].tolist(),
         "text": texts_to_embed,
