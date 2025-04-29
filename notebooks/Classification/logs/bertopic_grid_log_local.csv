@@ -1,0 +1,9 @@
+embedding_model,metric,min_cluster_size,min_samples,nr_topics,umap_neighbors,umap_components,umap_min_dist,n_topics,outliers,outlier_pct,time_sec,coherence,diversity
+all-MiniLM-L6-v2,cosine,50,5,15,15,5,0.0,5,11,0.36,9.26,0.4396,0.6
+all-MiniLM-L6-v2,cosine,50,5,15,15,7,0.0,5,7,0.23,9.1,0.4396,0.6
+all-MiniLM-L6-v2,cosine,50,10,15,15,5,0.0,5,15,0.5,8.67,0.4619,0.6
+all-MiniLM-L6-v2,cosine,50,10,15,15,7,0.0,5,5,0.17,8.73,0.4396,0.6
+all-MiniLM-L6-v2,cosine,100,5,15,15,5,0.0,3,10,0.33,8.56,0.4835,0.7
+all-MiniLM-L6-v2,cosine,100,5,15,15,7,0.0,3,5,0.17,8.92,0.5185,0.7
+all-MiniLM-L6-v2,cosine,100,10,15,15,5,0.0,3,10,0.33,8.71,0.4835,0.7
+all-MiniLM-L6-v2,cosine,100,10,15,15,7,0.0,3,5,0.17,9.22,0.5185,0.7

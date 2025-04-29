@@ -1,0 +1,10 @@
+{
+  "embedding_model": "all-MiniLM-L6-v2",
+  "metric": "cosine",
+  "min_cluster_size": 100,
+  "min_samples": 5,
+  "nr_topics": 15,
+  "umap_neighbors": 15,
+  "umap_components": 7,
+  "umap_min_dist": 0.0
+}
