@@ -28,7 +28,7 @@ for filename in os.listdir(input_path):
 
 #HYPERPARAMETERS: EMBEDDING
 
-embedding_models = ["all-MiniLM-L6-v2", "paraphrase-MiniLM-L6-v2"]
+embedding_models = ["all-MiniLM-L6-v2"]
 
 #HYPERPARAMETERS: HDBSCAN
 
