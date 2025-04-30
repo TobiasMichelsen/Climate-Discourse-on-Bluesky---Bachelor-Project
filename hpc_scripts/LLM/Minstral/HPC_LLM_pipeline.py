@@ -6,8 +6,8 @@ import datetime
 from huggingface_hub import login
 
 #variables
-input_path = "../BERTopic/oldLogs"
-filename = "all-MiniLM-L6-v2_cosine_c150_s30_nt18_u20-15-0.0/topics_after_reduction.json"
+input_path = "../BERTopic/logs"
+filename = "all-MiniLM-L6-v2_cosine_c100_s5_nt18_u5-5-0.0/topics_before_reduction.json"
 keep_running = True
 counter = 0
 concat_df = pd.DataFrame()
@@ -37,10 +37,13 @@ for i in df.topic.unique(): ###read text
     
     df_cluster = df[df.topic == i]
     print(f"shape: {df_cluster.shape}", flush=True)
-    df_text = df_cluster["text"]
-    sampled_df = df_text.sample(n=100, random_state=42)
-    text_counter = 0                    
-    for text in sampled_df:
+    sampled_df = df_cluster.sample(n=100, random_state=42)
+                        
+    text_counter = 0
+    for j in range(sampled_df.shape[0]):
+        cur_row = sampled_df.iloc[j]
+        text = cur_row.text
+        seq = cur_row.seq
         prompt_start = datetime.datetime.now()
         prompt = f"""
         You are a helpful assistant that classifies text into climate-related categories.
@@ -70,15 +73,15 @@ for i in df.topic.unique(): ###read text
         response:
         """
         try:
-            response = pipe(prompt, max_new_tokens=100)[0]["generated_text"]
+            response = pipe(prompt, max_new_tokens=50)[0]["generated_text"]
             response = response.split("response:")[-1].strip()
         except Exception as e:
             print(f"error prompting Minstral:\ntext:\n{text}\nerror:\n{e}", flush=True)
             continue
-        out_df = pd.DataFrame({"cluster":[i],"text": [text], "response": [response]})
+        out_df = pd.DataFrame({"seq":[seq],"cluster":[i],"text": [text], "response": [response]})
         concat_df = pd.concat([concat_df, out_df])
         if text_counter % 10 == 0:
-            with open("data/LLM_classified_df_test.pkl", "wb") as f:
+            with open("data/LLM_classified_df.pkl", "wb") as f:
                 pickle.dump(concat_df, f)
         text_counter += 1
         prompt_time = datetime.datetime.now() - prompt_start
