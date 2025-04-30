@@ -65,8 +65,9 @@ umap_components = [5, 7, 9, 11, 13]
 umap_min_dist = [0.0, 0.25]
 
 nr_topics = 15
+# Every job gets a separate csv log file:
 
-log_path = os.path.expanduser("logs/bertopic_grid_log_local.csv")
+log_path = os.path.expanduser("logs/bertopic_grid_log_Large.csv")
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 
 log_columns = [
