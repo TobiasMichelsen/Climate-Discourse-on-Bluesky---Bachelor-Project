@@ -8,7 +8,6 @@ from hdbscan import HDBSCAN
 from umap import UMAP
 from sklearn.preprocessing import normalize
 import os
-import csv
 import torch
 import gc
 
@@ -67,8 +66,6 @@ umap_min_dist = [0.0, 0.25]
 
 nr_topics = 15
 
-
-
 log_path = os.path.expanduser("logs/bertopic_grid_log_local.csv")
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 
@@ -95,8 +92,6 @@ print(f"Using device: {device}", flush=True)
 
 batch_size = 64
 
-saved_models = []
-
 for embed_model in embedding_models:
     print(f"\nStarting embedding with model: {embed_model}", flush=True)
     model = SentenceTransformer(embed_model, device=device)
@@ -122,7 +117,7 @@ for embed_model in embedding_models:
             "metric": metric,
             "min_cluster_size": min_cluster_size,
             "min_samples": min_samples,
-            "nr_topics": nr_topics,  # fixed
+            "nr_topics": nr_topics,
             "umap_neighbors": n_neighbors,
             "umap_components": n_components,
             "umap_min_dist": min_dist
@@ -179,12 +174,6 @@ for embed_model in embedding_models:
 
         try:
             topics, _ = topic_model.fit_transform(texts_to_embed, embeddings_used)
-            df_topics = pd.DataFrame({
-                "seq": df_whole["seq"].tolist(),
-                "text": texts_to_embed,
-                "topic": topics
-            })
-
             topic_model.reduce_topics(texts_to_embed, nr_topics=nr_topics)
 
             topic_info = topic_model.get_topic_info()
@@ -210,17 +199,15 @@ for embed_model in embedding_models:
             log_df.to_csv(log_path, index=False)
 
             print(f"Completed {len(log_df)} models so far.", flush=True)
-
-            saved_models.append((coherence + diversity, topic_model, run_key))
-            saved_models = sorted(saved_models, key=lambda x: x[0], reverse=True)[:1]
+            print(f"Done | Topics: {n_topics}, Outliers: {n_outliers} ({log_entry['outlier_pct']}%) | "
+                  f"Coherence: {coherence:.4f} | Diversity: {diversity:.4f} | Time: {duration}s", flush=True)
 
             counter_combinations += 1
             proportion = counter_combinations / max_combinations
 
             if max_combinations >= 10 and counter_combinations % (max_combinations // 10) == 0:
-                print(f"Progress: {counter_combinations}/{max_combinations} models completed ({int(proportion * 100)}%)", flush=True)
-
-            print(f"Done | Topics: {n_topics}, Outliers: {n_outliers} ({log_entry['outlier_pct']}%) | Coherence: {coherence:.4f} | Diversity: {diversity:.4f} | Time: {duration}s", flush=True)
+                print(f"Progress: {counter_combinations}/{max_combinations} models completed "
+                      f"({int(proportion * 100)}%)", flush=True)
 
         except Exception as e:
             print(f"Failed for config: {run_key} — {e}", flush=True)
@@ -228,19 +215,5 @@ for embed_model in embedding_models:
         finally:
             del topic_model
             gc.collect()
-
-# --- SAVE BEST MODEL ---
-for idx, (score, model, params) in enumerate(saved_models):
-    save_dir = f"logs/top_models/model_{idx+1}"
-    os.makedirs(save_dir, exist_ok=True)
-    model.save(os.path.join(save_dir, "model"))
-    
-    with open(os.path.join(save_dir, "params.json"), "w") as f:
-        json.dump(params, f, indent=2)
-    
-    df_topics = pd.DataFrame({
-        "seq": df_whole["seq"].tolist(),
-        "text": texts_to_embed,
-        "topic": model.topics_
-    })
-    df_topics.to_json(os.path.join(save_dir, "topics_with_seq.json"), orient="records", lines=True)
+            if torch.cuda.is_available():
+                torch.cuda.empty_cache()
