@@ -54,14 +54,14 @@ for filename in os.listdir(input_path):
     print(df_whole.shape, flush=True)
 
 # Hyperparameters
-
-embedding_models = ["all-MiniLM-L6-v2", "paraphrase-MiniLM-L6-v2"]
-min_cluster_sizes = [50, 75, 100]
-min_samples_vals = [5, 10, 25]
-distance_metrics = ["cosine", "manhattan"]
-umap_neighbors = [15]
-umap_components = [5, 7, 9]
-umap_min_dist = [0.0]
+#Combinations: 2x2x2x2x2=32 // Low
+embedding_models = ["all-MiniLM-L6-v2"]
+min_cluster_sizes = [500, 1000]
+min_samples_vals = [50, 100]
+distance_metrics = ["cosine","manhattan"]
+umap_neighbors = [20,30]
+umap_components = [7, 9]
+umap_min_dist = [0.0,0.5]
 nr_topics = 15
 
 # Every job gets a separate csv log file:
@@ -82,7 +82,7 @@ else:
     log_df.to_csv(log_path, index=False)
 
 counter_combinations = len(log_df)
-max_combinations = 16
+max_combinations = 32
 proportion = counter_combinations / max_combinations
 
 # --- MAIN LOOP ---
