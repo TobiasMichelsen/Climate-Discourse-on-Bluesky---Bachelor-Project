@@ -25,9 +25,7 @@ print("Device name:", torch.cuda.get_device_name(0) if torch.cuda.is_available()
 print("CUDA available:", torch.cuda.is_available(), flush=True)
 print("Device count:", torch.cuda.device_count(), flush=True)
 print("Current device:", torch.cuda.current_device() if torch.cuda.is_available() else "No CUDA", flush=True)
-if not torch.cuda.is_available():
-    print("CUDA is not available. Exiting program.")
-    sys.exit(1)  # or sys.exit("CUDA not available")
+
 
 
 
@@ -63,8 +61,9 @@ for i in df.topic.unique(): ###read text
         prompt = f"""
         You are a helpful assistant that classifies text into climate-related categories.
         categories with example sentences:
-        1. Renewable Energy - "Solar panels are being installed across rooftops in suburban neighborhoods to cut emissions.", "Offshore wind farms are generating increasing amounts of electricity for coastal cities.", "Hydropower projects in mountainous regions are being optimized to reduce ecological disruption."
-        2. Fossil Fuels - "Oil prices continue to rise amid geopolitical tensions and supply constraints.", "Coal-fired power plants are still a major source of electricity in developing countries.", "Natural gas pipelines face resistance due to concerns over methane leaks and climate impact."
+        
+        1. Fossil Fuels - "Oil prices continue to rise amid geopolitical tensions and supply constraints.", "Coal-fired power plants are still a major source of electricity in developing countries.", "Natural gas pipelines face resistance due to concerns over methane leaks and climate impact."
+        2. Waste - "Plastic waste continues to pollute oceans despite global efforts.", "Electronic waste is piling up as device lifespans shrink.", "Cities are expanding composting and recycling programs to reduce landfill use."
         3. Agriculture -  "Crops are failing due to prolonged droughts intensified by climate change.", "Farmers are adopting regenerative agriculture to restore soil health and biodiversity.", "Livestock farming contributes significantly to methane emissions globally."
         4. Lifestyle - "People are embracing minimalist living to reduce their carbon footprint.", "Eco-friendly fashion brands are promoting sustainable wardrobes among young consumers.", "Tiny homes are gaining popularity as a low-impact housing solution."
         5. Diet - "Plant-based diets are gaining popularity for their environmental benefits.", "Reducing meat consumption is linked to lower greenhouse gas emissions.", "Consumers are increasingly choosing locally sourced and organic food."
@@ -76,11 +75,11 @@ for i in df.topic.unique(): ###read text
         11. Justice - "Communities of color are disproportionately affected by environmental hazards.",  "Indigenous groups are fighting for land rights threatened by mining operations.", "Low-income neighborhoods often lack access to clean air and water."
         12. Science - "Scientists warn that ice sheets are melting faster than expected.", "New climate models predict more rapid warming in the next two decades." , "Research teams are developing carbon capture technologies to reduce emissions."
         13. Politics - "The new administration reversed several environmental protections.", "International climate agreements are facing delays due to political gridlock.", "Policy debates continue over subsidies for fossil fuel industries."
-        14. Waste - "Plastic waste continues to pollute oceans despite global efforts.", "Electronic waste is piling up as device lifespans shrink.", "Cities are expanding composting and recycling programs to reduce landfill use."
-         
-        Your response should only contain the corresponding categories without explanations, if you think a text belongs to multiple categories return up to three in priority order
+        14. Solar Energy - "A new solar farm in the Mojave Desert is expected to power 50,000 homes annually.", "Government subsidies are making rooftop solar panels more accessible to low-income households.", "Scientists have developed more efficient photovoltaic cells that work even in low light."
+        15. Wind Energy - "Massive offshore wind turbines are now operational off the coast of Scotland.", "Community wind projects are helping rural areas become energy independent.", "Wind power provided over 20% of electricity in Denmark last year."
+        16. Hydropower - "Upgrades to the Three Gorges Dam are boosting hydroelectric capacity without increasing ecological disruption.", "Small-scale hydropower installations are being piloted in Himalayan villages.", "Drought conditions are affecting the electricity output of hydropower plants in Brazil."
         
-
+        Predict the most fitting category for each text from the above list.
         Classify the following:
         {text}
 
