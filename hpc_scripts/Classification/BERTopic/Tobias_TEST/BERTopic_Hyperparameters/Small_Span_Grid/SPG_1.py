@@ -66,7 +66,7 @@ nr_topics = 15
 
 # Every job gets a separate csv log file:
 
-log_path = os.path.expanduser("logs/bertopic_grid_log_Balanced.csv")
+log_path = os.path.expanduser("logs/bertopic_grid_log_1.csv")
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 
 log_columns = [

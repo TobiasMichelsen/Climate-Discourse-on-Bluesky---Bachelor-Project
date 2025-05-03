@@ -54,19 +54,19 @@ for filename in os.listdir(input_path):
     print(df_whole.shape, flush=True)
 
 # Hyperparameters
-#Combinations: 3x2x2x3=36 // Low
+#Combinations: 2x2x2x2x2=32 // Low
 embedding_models = ["all-MiniLM-L6-v2"]
-min_cluster_sizes = [100, 150, 200]
-min_samples_vals = [25, 50]
-distance_metrics = ["cosine"]
-umap_neighbors = [10,15]
-umap_components = [5, 7, 9]
-umap_min_dist = [0.0]
+min_cluster_sizes = [500, 1000]
+min_samples_vals = [50, 100]
+distance_metrics = ["cosine","manhattan"]
+umap_neighbors = [20,30]
+umap_components = [7, 9]
+umap_min_dist = [0.0,0.5]
 nr_topics = 15
 
 # Every job gets a separate csv log file:
 
-log_path = os.path.expanduser("logs/bertopic_grid_log_Balanced.csv")
+log_path = os.path.expanduser("logs/bertopic_grid_log_4.csv")
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 
 log_columns = [

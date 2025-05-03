@@ -55,18 +55,18 @@ for filename in os.listdir(input_path):
 
 # Hyperparameters
 #Combinations: 2x2x2x2x2=32 // Low
-embedding_models = ["all-MiniLM-L6-v2"]
-min_cluster_sizes = [500, 1000]
-min_samples_vals = [50, 100]
-distance_metrics = ["cosine","manhattan"]
+embedding_models = ["all-MiniLM-L6-v2","paraphrase-MiniLM-L6-v2"]
+min_cluster_sizes = [300, 600]
+min_samples_vals = [25, 50]
+distance_metrics = ["cosine"]
 umap_neighbors = [20,30]
 umap_components = [7, 9]
-umap_min_dist = [0.0,0.5]
+umap_min_dist = [0.0]
 nr_topics = 15
 
 # Every job gets a separate csv log file:
 
-log_path = os.path.expanduser("logs/bertopic_grid_log_Balanced.csv")
+log_path = os.path.expanduser("logs/bertopic_grid_log_3.csv")
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 
 log_columns = [
