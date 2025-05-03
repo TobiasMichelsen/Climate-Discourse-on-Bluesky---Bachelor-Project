@@ -80,9 +80,9 @@ df_result = pd.DataFrame({
         })
 
 # --- Save Model ---
-save_path = "logs/"
+save_path = "logs"
 os.makedirs(os.path.dirname(save_path), exist_ok=True)
-topic_model.save(save_path)
+topic_model.save(f"{save_path}/model")
 print(f"Saved BERTopic model to: {save_path}")
 df_result.to_json(os.path.join(save_path, "all_clusters.json"), orient= "records", lines=True)
 
