@@ -16,6 +16,11 @@ concat_df = pd.DataFrame()
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 os.makedirs("data", exist_ok=True)  
 
+#check torch verison
+print("Torch version:", torch.__version__)
+print("Torch CUDA version:", torch.version.cuda)
+print("Device name:", torch.cuda.get_device_name(0) if torch.cuda.is_available() else "No CUDA")
+
 #CUDA check
 print("CUDA available:", torch.cuda.is_available(), flush=True)
 print("Device count:", torch.cuda.device_count(), flush=True)
@@ -23,6 +28,8 @@ print("Current device:", torch.cuda.current_device() if torch.cuda.is_available(
 if not torch.cuda.is_available():
     print("CUDA is not available. Exiting program.")
     sys.exit(1)  # or sys.exit("CUDA not available")
+
+
 
 #Initialize model
 HUGGINGFACE_TOKEN = "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"
