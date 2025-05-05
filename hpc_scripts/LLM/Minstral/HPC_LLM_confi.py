@@ -60,14 +60,14 @@ for i in df.topic.unique(): ###read text
         prompt_start = datetime.datetime.now()
         prompt = f"""
         You are a helpful assistant classifying climate-related texts into one or more relevant categories from a fixed list. 
-        For each input, return up to three categories that clearly apply, with a confidence score (between 0.0 and 1.0) indicating the strength of association.
+        For each input, return the categories that clearly apply, with a confidence score (between 0.0 and 1.0) indicating the strength of association.
         categories with example sentences:
         
         - Activism: "Thousands marched in the climate strike demanding government action."
         - Agriculture: "Crops are failing due to prolonged droughts intensified by climate change."
         - Diet: "Plant-based diets are gaining popularity for their environmental benefits."
         - Disaster: "Wildfires have devastated thousands of acres in California."
-        - Fossil Fuels: "Oil prices continue to rise amid geopolitical tensions and supply constraints."
+        - Fossil: "Oil prices continue to rise amid geopolitical tensions and supply constraints."
         - Health: "Air pollution is linked to rising asthma rates in urban areas."
         - Hydropower: "Drought conditions are affecting the electricity output of hydropower plants in Brazil."
         - Justice: "Communities of color are disproportionately affected by environmental hazards."
@@ -75,20 +75,22 @@ for i in df.topic.unique(): ###read text
         - Nature: "Pollinators like bees are disappearing, threatening global food security."
         - Politics: "The new administration reversed several environmental protections."
         - Science: "Scientists warn that ice sheets are melting faster than expected."
-        - Solar Energy: "Government subsidies are making rooftop solar panels more accessible."
+        - Solar: "Government subsidies are making rooftop solar panels more accessible."
         - Waste: "Cities are expanding composting and recycling programs to reduce landfill use."
         - Weather: "Global temperatures hit a new record high this year."
-        - Wind Energy: "Community wind projects are helping rural areas become energy independent."
+        - Wind: "Community wind projects are helping rural areas become energy independent."
 
         Instructions:
         - Carefully analyze the text.
-        - Select up to three categories that apply.
+        - Select all the categories that apply.
         - For each, assign a confidence score based on how clearly the topic is discussed.
+        - Output only the categories with confidence scores 
         - Output should be in this format:
-        example: {"Fossil Fuels": 0.9,"Politics": 0.8}
+        example: {{"Fossil Fuels": 0.9,"Politics": 0.8}}
         
         Classify this text:
         {text}
+        response:
         """
         try:
             response = pipe(prompt, max_new_tokens=50)[0]["generated_text"]
