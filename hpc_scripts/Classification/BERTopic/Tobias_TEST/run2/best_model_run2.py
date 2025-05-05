@@ -25,7 +25,7 @@ print(f"{datetime.datetime.now()} starting data loading..")
 input_path = "../../run1/logs"
 filename = "all_clusters.json"
 
-df = pd.read_json(f"{input_path}/{filename}")
+df = pd.read_json(f"{input_path}/{filename}", lines=True)
 df = df.loc[df.topic == 0]
 df_whole = df[["seq", "text"]]
 print(f"loaded {filename}")
