@@ -5,7 +5,7 @@
 #SBATCH --error=Run2_5.%j.err        # Error file
 #SBATCH --cpus-per-task=4                    # Number of CPU cores
 #SBATCH --mem=32G                            # Memory
-#SBATCH --gres=gpu:a30:1                    # GPU request
+#SBATCH --gres=gpu:v100:1                    # GPU request
 #SBATCH --time=36:00:00                      # Max run time
 #SBATCH --partition=acltr                    # Partition
 #SBATCH --mail-type=FAIL                     # Email on failure
