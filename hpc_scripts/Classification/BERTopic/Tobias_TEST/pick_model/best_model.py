@@ -22,7 +22,7 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 
 # --- Load and Filter Data ---
 print(f"{datetime.datetime.now()} starting data loading..")
-input_path = "../../data/climate_classified"
+input_path = "../../run1/logs"
 df_whole = pd.DataFrame()
 for filename in os.listdir(input_path):
     df = pd.read_json(f"{input_path}/{filename}")
@@ -39,12 +39,12 @@ seqs = df_whole["seq"].tolist()
 # --- Hardcoded Best Hyperparameters ---
 embed_model_name = "all-MiniLM-L6-v2"
 metric = "cosine"
-min_cluster_size = 1000
-min_samples = 300
-n_neighbors = 15
+min_cluster_size = 200
+min_samples = 50
+n_neighbors = 20
 n_components = 7
 min_dist = 0.0
-nr_topics = 15
+nr_topics = 50
 
 # --- Load Embeddings ---
 print(f"{datetime.datetime.now()} creating embedding..")
@@ -86,6 +86,7 @@ topic_model = BERTopic(
 )
 print(f"{datetime.datetime.now()} inherence with the model..")
 topics, _ = topic_model.fit_transform(texts_to_embed, embeddings)
+topic_model.reduce_topics(texts_to_embed,nr_topics=nr_topics)
 topic_info = topic_model.get_topic_info()
 
 df_result = pd.DataFrame({
@@ -100,7 +101,7 @@ save_path = "logs"
 os.makedirs(save_path, exist_ok=True)
 topic_model.save(f"{save_path}/model")
 print(f"Saved BERTopic model to: {save_path}")
-df_result.to_json(os.path.join(save_path, "all_clusters.json"), orient= "records", lines=True)
+df_result.to_json(os.path.join(save_path, "best_model_run2.json"), orient= "records", lines=True)
 
 
 with open(os.path.join(save_path, "topic_info.json"), "w") as f:
