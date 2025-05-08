@@ -1,0 +1,16 @@
+embedding_model,metric,min_cluster_size,min_samples,nr_topics,umap_neighbors,umap_components,umap_min_dist,n_topics,outliers,outlier_pct,time_sec,coherence,diversity
+all-MiniLM-L6-v2,cosine,20,6,15,9,7,0.0,1118,36263,40.37,169.36,0.3314,0.8002
+all-MiniLM-L6-v2,cosine,40,6,15,7,7,0.0,526,38622,43.0,137.7,0.3434,0.762
+all-MiniLM-L6-v2,cosine,40,6,15,7,11,0.0,536,39145,43.58,170.07,0.3451,0.761
+all-MiniLM-L6-v2,cosine,40,6,15,9,7,0.0,487,42220,47.0,156.71,0.3511,0.7583
+all-MiniLM-L6-v2,cosine,40,8,15,7,7,0.0,513,39970,44.5,142.15,0.346,0.7622
+all-MiniLM-L6-v2,cosine,40,8,15,7,11,0.0,519,40434,45.01,171.1,0.3491,0.762
+all-MiniLM-L6-v2,cosine,40,8,15,9,7,0.0,470,42925,47.79,155.42,0.3545,0.7591
+all-MiniLM-L6-v2,cosine,40,8,15,9,11,0.0,447,44179,49.18,170.39,0.3513,0.7626
+paraphrase-MiniLM-L6-v2,cosine,40,6,15,7,11,0.0,459,42128,46.9,192.77,0.3573,0.7521
+paraphrase-MiniLM-L6-v2,cosine,40,6,15,9,7,0.0,424,46502,51.77,158.28,0.3567,0.7583
+paraphrase-MiniLM-L6-v2,cosine,40,6,15,9,11,0.0,417,47409,52.78,166.9,0.3592,0.7635
+paraphrase-MiniLM-L6-v2,cosine,40,8,15,7,7,0.0,447,43237,48.13,141.7,0.3501,0.7494
+paraphrase-MiniLM-L6-v2,cosine,40,8,15,7,11,0.0,442,44113,49.11,154.62,0.3527,0.7554
+paraphrase-MiniLM-L6-v2,cosine,40,8,15,9,7,0.0,405,48376,53.85,146.43,0.3569,0.7598
+paraphrase-MiniLM-L6-v2,cosine,40,8,15,9,11,0.0,405,49085,54.64,158.68,0.364,0.756

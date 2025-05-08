@@ -22,18 +22,16 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 
 # --- Load and Filter Data ---
 print(f"{datetime.datetime.now()} starting data loading..")
-input_path = "../../run1/logs"
-filename = "all_clusters.json"
+input_path = "../data/run1_results"
+filename = "run1_result.json"
 
 df = pd.read_json(f"{input_path}/{filename}", lines=True)
-df = df.loc[df.topic == 0]
-df_whole = df[["seq", "text"]]
-print(f"loaded {filename}")
+df = df[df.topic == 0]
+df_whole = df[["cid", "text"]]
+print(f"loaded {filename}",flush=True)
 
 texts_to_embed = df_whole["text"].tolist()
-seqs = df_whole["seq"].tolist()
-
-# --- Set Device ---
+cids = df_whole["cid"].tolist()
 
 
 # --- Hardcoded Best Hyperparameters ---
@@ -52,7 +50,7 @@ model = SentenceTransformer(embed_model_name, device=device)
 embeddings = model.encode(
     texts_to_embed,
     show_progress_bar=True,
-    batch_size=64,
+    batch_size=32,
     convert_to_numpy=True
 )
 embeddings = normalize(embeddings, norm="l2")  # Needed for cosine distance
@@ -71,8 +69,10 @@ hdbscan_model = HDBSCAN(
     min_cluster_size=min_cluster_size,
     min_samples=min_samples,
     metric="euclidean",  # cosine metric requires L2-normalization
-    cluster_selection_method="eom"
+    cluster_selection_method="eom",
+    prediction_data=True
 )
+
 
 # --- Fit BERTopic ---
 print(f"{datetime.datetime.now()} loading model..")
@@ -86,23 +86,22 @@ topic_model = BERTopic(
 )
 print(f"{datetime.datetime.now()} inherence with the model..")
 topics, _ = topic_model.fit_transform(texts_to_embed, embeddings)
-topic_model.reduce_topics(texts_to_embed,nr_topics=nr_topics)
+topic_model.reduce_topics(texts_to_embed, nr_topics=nr_topics)
+topics = topic_model.transform(texts_to_embed, embeddings=embeddings)[0]
 topic_info = topic_model.get_topic_info()
 
 df_result = pd.DataFrame({
-            "seq": seqs,
+            "cid": cids,
             "text": texts_to_embed,
             "topic": topics
         })
 
 # --- Save Model ---
 print(datetime.datetime.now(),"saving model..")
-save_path = "logs"
+save_path = "../data/run2_results"
 os.makedirs(save_path, exist_ok=True)
-topic_model.save(f"{save_path}/model")
 print(f"Saved BERTopic model to: {save_path}")
-df_result.to_json(os.path.join(save_path, "best_model_run2.json"), orient= "records", lines=True)
-
+df_result.to_json(os.path.join(save_path, "run2_result.json"), orient= "records", lines=True)
 
 with open(os.path.join(save_path, "topic_info.json"), "w") as f:
     json.dump(topic_info.to_dict(orient="records"), f, indent=2)
