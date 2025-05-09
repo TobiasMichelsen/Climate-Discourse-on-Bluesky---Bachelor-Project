@@ -1,0 +1,105 @@
+{
+  "topic": 1028,
+  "samples": [
+    {
+      "cid": null,
+      "text": "LKN issues Hydrologic Outlook ESF at Apr 10, 110 AM PDT ...WARMER TEMPERATURES INCREASING SNOWMELT... via IEMbot Additional Details Here.",
+      "gpt_label": "Weather"
+    },
+    {
+      "cid": null,
+      "text": "Lake Wind Advisory issued April 16 at 943PM MDT until April 16 at 1000PM MDT by NWS Glasgow MT Additional Details Here.",
+      "gpt_label": "Weather"
+    },
+    {
+      "cid": "bafyreib57drrilo4hugerbchwtzptki66bu2gcu4k3hfrzw4cq62g5t7uq",
+      "text": "OKX cancels Coastal Flood Statement Richmond Staten Is., Southern Nassau, Southwest Suffolk NY and Eastern Essex, Eastern Union, Hudson NJ . at Sat, 12 Apr 2025 172907 0000 via IEMbot Additional Details Here.",
+      "gpt_label": "Weather"
+    },
+    {
+      "cid": "bafyreibopowo2ce35cmmfl7vuhfhl4iwtltay3quhuudm5npm5bndkp6r4",
+      "text": "FSD issues Air Quality Alert AQA at Apr 17, 728 AM CDT at Thu, 17 Apr 2025 122827 0000 via IEMbot Additional Details Here.",
+      "gpt_label": "Weather, Waste"
+    },
+    {
+      "cid": "bafyreibnzjph44arwm2l4zbpbr5srg37fmhv2pezwkwkpe5xyh454ta7pu",
+      "text": "OAX issues Air Quality Alert AQA at Apr 15, 159 PM CDT at Tue, 15 Apr 2025 185922 0000 via IEMbot Additional Details Here.",
+      "gpt_label": "Weather, Waste"
+    },
+    {
+      "cid": "bafyreigg2lebqws6ujjkgykmomv5kjzrsdkewecqyfxe6ugl7rkqmlbtti",
+      "text": "EAX issues Hazardous Weather Outlook HWO at Apr 18, 431 AM CDT Link",
+      "gpt_label": "Weather"
+    },
+    {
+      "cid": null,
+      "text": "Lake Wind Advisory issued April 7 at 726PM MDT until April 8 at 800PM MDT by NWS Glasgow MT Additional Details Here.",
+      "gpt_label": "Weather"
+    },
+    {
+      "cid": null,
+      "text": "Lake Wind Advisory issued April 8 at 234AM MDT until April 9 at 900PM MDT by NWS Glasgow MT Additional Details Here.",
+      "gpt_label": "Weather"
+    },
+    {
+      "cid": "bafyreia6imilncddi4tbdwbjdwdaexyzsamel3pic6f6nawslv6xy67dzi",
+      "text": "CAE issues Damage Survey PNS Max EF1 at Apr 8, 0225 UTC ...Climate Summary for March 2025... via IEMbot Additional Details Here.",
+      "gpt_label": "Weather"
+    },
+    {
+      "cid": null,
+      "text": "LKN issues Hydrologic Outlook ESF at Apr 7, 107 PM PDT ...WARMER TEMPERATURES INCREASING SNOWMELT... via IEMbot Additional Details Here.",
+      "gpt_label": "Weather"
+    },
+    {
+      "cid": null,
+      "text": "DLH issues Public Information Statement PNS at Apr 12, 943 PM CDT ...NOAA ALL HAZARDS RADIO IN LEADER ON LOW POWER... via IEMbot Additional Details Here.",
+      "gpt_label": "Disaster, Weather"
+    },
+    {
+      "cid": "bafyreiczij6olmmwrs2pgit5wlwic7xzimycptllvo6z3esxdnqukm3ale",
+      "text": "GID issues Air Quality Alert AQA at Apr 15, 159 PM CDT at Tue, 15 Apr 2025 190020 0000 via IEMbot Additional Details Here.",
+      "gpt_label": "Weather"
+    },
+    {
+      "cid": "bafyreihqhpm2rdzfgwzbaibh7437ttmcbsjg5qe6huixht2n7io7jmh35m",
+      "text": "HGX issues Air Quality Alert AQA at Apr 11, 302 PM CDT ...Ozone Action Day... via IEMbot Additional Details Here.",
+      "gpt_label": "Weather, Waste"
+    },
+    {
+      "cid": "bafyreiei2s4w37vmla2wqjirpfxouqugftqhdmriaoi5cpvvtxaalxf42m",
+      "text": "Air Quality Alert issued April 11 at 302PM CDT by NWS HoustonGalveston TX Additional Details Here.",
+      "gpt_label": "Weather"
+    },
+    {
+      "cid": "bafyreicyerg55gslfecsbffqcdaihr2oblyesd7igygbi7x7qkusdpkhma",
+      "text": "Air Quality Alert issued April 17 at 130PM CDT by NWS OmahaValley NE Additional Details Here.",
+      "gpt_label": "Weather"
+    },
+    {
+      "cid": "bafyreicbfmtexfmaxfhtx2yhpfosskn4ljadunykmdfqqd2tk4yim32dwu",
+      "text": "5AM WED Most of us are trending in the right direction, but Omaha has joined us in the \"Moderate\" category. Moderate means \"the air quality is acceptable. There may be a risk for some people, particularly those who are unusually sensitive to air pollution.\"",
+      "gpt_label": "Weather, Lifestyle"
+    },
+    {
+      "cid": "bafyreifu2ik6hcxx7nftxq3cbj4sovrv3fibx3jmyqq53xh7dvnljimbru",
+      "text": "PSR issues Air Quality Alert AQA at Apr 17, 750 AM MST ...AIR QUALITY ALERT DUE TO HARMFUL PARTICLE POLLUTION LEVELS FROM WINDBLOWN DUST... via IEMbot Additional Details Here.",
+      "gpt_label": "Weather, Waste"
+    },
+    {
+      "cid": null,
+      "text": "LKN issues Hydrologic Outlook ESF at Apr 11, 219 PM PDT ...WARMER TEMPERATURES INCREASING SNOWMELT... via IEMbot Additional Details Here.",
+      "gpt_label": "Weather"
+    },
+    {
+      "cid": "bafyreieccl4uuxgpy64f5f4mai746yw34xfma4fftt7rtkpx3fsyctxe7y",
+      "text": "Air Quality Alert issued April 15 at 159PM CDT by NWS OmahaValley NE Additional Details Here.",
+      "gpt_label": "Weather"
+    },
+    {
+      "cid": "bafyreifsw6zimz2hxdo7arhk6neo7hvqib72driplquy2r7udyb7x7b3su",
+      "text": "Air Quality Alert issued April 11 at 314PM CDT by NWS AustinSan Antonio TX Additional Details Here.",
+      "gpt_label": "Weather"
+    }
+  ]
+}

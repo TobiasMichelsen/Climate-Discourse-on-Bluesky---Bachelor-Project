@@ -1,0 +1,105 @@
+{
+  "topic": 1000,
+  "samples": [
+    {
+      "cid": "bafyreidik2uzjsgbho6hl5neo6rarigh5uwt3gc34zuxivn3mzba53oz74",
+      "text": "I mean, on the electrification and increasing of renewable share of electricity, markets have been doing a lot of good and politics at least nothing bad.",
+      "gpt_label": "Renewable, Politics, Electricity"
+    },
+    {
+      "cid": "bafyreig5oevdj7mpkfwqs2pcbpuhpxrh47dard5dppboj2dzx6r2q2w23i",
+      "text": "Many people believe Alaska\u2019s long winters and frequent cloud cover make solar energy unfeasible, but the state is actually a great candidate for solar power. environmentamerica.orgalaskacente...",
+      "gpt_label": "Renewable, Weather"
+    },
+    {
+      "cid": "bafyreigccww7ezzeb2hhd6fncrds2vazhqtdgyixvcakk72jzj77csk3ta",
+      "text": "I met with Olly Paish, the designer of the hydro scheme at Cromford Mills, to talk about how hydroelectricity is a stable energy generator that serves our communities for many years due to its long lifespan. By reviewing the regulations around hydro scheme, we make these schemes more accessible.",
+      "gpt_label": "Renewable, Electricity"
+    },
+    {
+      "cid": "bafyreigyfgqcz4igeqoz6xb4ylyggkgnvwfzsgmtw3rjgn3uguxfbdnjpq",
+      "text": "there is a very solid right-wing argument for distributedlocal power generation, and renewables are the simplest, cheapest and fastest way to get that going",
+      "gpt_label": "Renewable, Politics"
+    },
+    {
+      "cid": "bafyreiegr33jgrmabtjnv4h7ihkiaezb2tcjp7apsfdrbuvb2ak3hc2aii",
+      "text": "Whaddyasay we start bombing the shit outta russkie energy infrastructure again guys? NAFOExpansionIsNonnegotiable",
+      "gpt_label": "This text does not fit any of the provided climate-related categories."
+    },
+    {
+      "cid": "bafyreid4p7wku2rgp6yj6tyuj6kuhl5q5ah4phcvb4zmqepihrynnmgnru",
+      "text": "People complain about the \"ugliness\" of solar farms. If we take into account mining, transportation, and the storage and disposal of waste, coal requires more land use per gigawatt hour of production than solar ourworldindata.orgland-use-per...",
+      "gpt_label": "Renewable, Fossil, Waste"
+    },
+    {
+      "cid": "bafyreidirnao23umozlpnxzrx46ljxdrwwtf6jnua6vw7l45zsrqxjcbjq",
+      "text": "It really should be easier to compare pricing for energy providers.",
+      "gpt_label": "Electricity"
+    },
+    {
+      "cid": "bafyreidunjxsv5kj3zggssu7je2nt3rmbbrloqmwagnhxswowgwqtbywqu",
+      "text": "Generating electricity with solar and wind will require more imports than using abundant gas and coal resources in the U.S., but reduced dependence on foreign oil will be a big advantage as transportation is electrified. Professor Steve Davis stanforddoerr.bsky.social",
+      "gpt_label": "Renewable, Fossil, Electricity, Transportation"
+    },
+    {
+      "cid": "bafyreibcg5m3jskg34wevgkjwxibl65owhgmievhipt4nbliexsvkmjlvm",
+      "text": "We will be sharing information from past and future events periodically here. So If you are interested about what we do, please subscribe to our monthly newsletter www.iges.or.jpennewssubs... ClimateResearch Policymaking Publications Transition Energy",
+      "gpt_label": "Politics, Renewable"
+    },
+    {
+      "cid": "bafyreieevlcwg32vr52iuykk7rfphj2p4rm5ye7vqtba7aqkw5w6pzty4e",
+      "text": "Wind and solar generation overtook coal in the US last year report Utility Dive www.utilitydive.comnewswind-so...",
+      "gpt_label": "Renewable, Fossil"
+    },
+    {
+      "cid": "bafyreihfcsqndeymgihsm56qytagdxcnjo2r3fud4d6tmh6cuyovr6tzfm",
+      "text": "\"India is standing on the cusp of a solar energy transformation. On the other side of this revolution is the promise of a positive change in energy security that will also reshape the daily life for millions of citizens.\"",
+      "gpt_label": "Renewable, Electricity"
+    },
+    {
+      "cid": "bafyreic6je2la7pp4t6ext7bpwuc75haudl6y75fvqd6vu2wjvrynicqoa",
+      "text": "At oessystemsolutions.bsky.social, we're dedicated to helping you save energy and boost your savings! Simple steps, like switching to LED lighting and optimizing your thermostat, can make a big difference. EnergyConservation Sustainability electricians vosb supportlocal omaha",
+      "gpt_label": "Renewable, Electricity"
+    },
+    {
+      "cid": "bafyreibdywayjfrwhfth6hulvqicwhp2gbeegavjvpf4pfveqgrgikprqu",
+      "text": "Thinking of switching your energy supplier? There\u2019s more to it than just the price tag. Before you make a move, check out these 7 must-know tips- including scams to avoid and hidden charges www.dailyrecord.co.u...",
+      "gpt_label": "This text falls under the category of \"Renewable\" as it pertains to energy supply and tips related to making informed choices about energy sources."
+    },
+    {
+      "cid": "bafyreiesdwco7z7x5aiyjjcktmg5vrncbiawf6u2o2m4wmzvafhqfb4pp4",
+      "text": "Listen to johnffarrell.bsky.social and me chat about local transmission and the regulatory gap on the Local Energy Rules podcast! Thanks for having me on energysky",
+      "gpt_label": "Renewable, Politics"
+    },
+    {
+      "cid": "bafyreigajv5leq4xclh2a2hudtachheb3rgcmf2ftsghtleyv4luwdyeji",
+      "text": "just to echo this, some industry analysts see transition speeding up heres one that argues fossil fuels are highly traded, renewables much less so. With trade under threat, there will be a dash to renewables for security reasons, not climate change concerns www.carlyle.comglobal-insig...",
+      "gpt_label": "Fossil, Renewable"
+    },
+    {
+      "cid": "bafyreifv2o7muxlgs3sdbvum5jqwyyzzsopcgpw5lvlbqti24zxqhe5igy",
+      "text": "EPP fooling nobody here. energyandcleanair.orgpublication...",
+      "gpt_label": "This text does not fit into any of the provided categories. Let's assign it a new category name: \"Uncategorized\"."
+    },
+    {
+      "cid": "bafyreicbiw6kdpohzuyuphxs6b22dwhlnsffzpr27ufc3oer7ylr464lr4",
+      "text": "I dunno I just really like big hydroelectric dams because they combine big public work schemes and concrete.",
+      "gpt_label": "Nature, Renewable"
+    },
+    {
+      "cid": "bafyreiflapmqsfcxz4qby64hehzvnrdwpq42sukkkem3ddqcmyfdlturn4",
+      "text": "I'm sure it's a complete coincidence the govt is cutting funding to study these kinds of improvements from the electrification of transportation",
+      "gpt_label": "Politics, Transportation"
+    },
+    {
+      "cid": "bafyreifgbrpvjls2qzlhytcztfj23cs4lrvkqkyslzhwahdxlodlbay55i",
+      "text": "The less we have to rely on gas peakers, the better it will be for consumers and the planet. Well implemented, Labor\u2019s home battery policy could help the transition to a cleaner grid and shrink our dependence on a fossil fuel industry. climatecrisis australia www.theguardian.comenvironment...",
+      "gpt_label": "Renewable, Fossil"
+    },
+    {
+      "cid": "bafyreifzwci3fvjgnix4a4sk5lamz6sl56wrkwns6m2oucdxgbrbqjhlca",
+      "text": "My power co, the same one who just hit us with a 20% increase in the cost of bottled gas, is sending me emails on how to save 10 a year with lightbulbs. Meanwhile they\u2019re posting financials like this. I can think of other ways we could spend less on power, and it\u2019s not through OUR behaviour",
+      "gpt_label": "Politics, Electricity"
+    }
+  ]
+}
