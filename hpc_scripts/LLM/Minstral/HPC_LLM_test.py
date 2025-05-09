@@ -6,6 +6,7 @@ import datetime
 from huggingface_hub import login
 import torch
 import sys
+import random
 
 #variables
 input_path = "../BERTopic/logs"
@@ -40,6 +41,23 @@ model = AutoModelForCausalLM.from_pretrained(model_id, device_map="auto")
 
 pipe = pipeline("text-generation", model=model, tokenizer=tokenizer)
 
+#randomize the order of the categories
+categories = [
+    '- Activism: "Thousands marched in the climate strike demanding government action.", "Youth-led campaigns are pressuring lawmakers to enact stronger climate policies.", "Environmental activists chained themselves to construction equipment to protest deforestation."',
+    '- Agriculture: "Crops are failing due to prolonged droughts intensified by climate change.", "Pollinators like bees are disappearing, threatening global food security.", "Rising temperatures are affecting livestock health and reducing dairy production on farms."',
+    '- Disaster: "Wildfires have devastated thousands of acres in California.", "Flooding from intense storms has displaced hundreds of families across the region.", "A powerful hurricane made landfall, causing widespread destruction and power outages."',
+    '- Nature: "Biodiversity is very important for a healthy ecosystem and we should be looking after wildlife.", "Mass extinction of plants and animals is a real danger we have to consider", "Trees are magnificent creatures and I believe are a key element in combating climate change."',
+    '- Fossil: "Oil prices continue to rise amid geopolitical tensions and supply constraints.", "New coal-fired power plants are being built despite international climate agreements.", "Natural gas usage has surged as countries transition away from coal and nuclear energy."',
+    '- Lifestyle: "People are embracing minimalist living to reduce their carbon footprint.", "Plant-based diets are gaining popularity for their environmental benefits.", "Air pollution is linked to rising asthma rates in urban areas."',
+    '- Politics: "The new administration reversed several environmental protections.", "Communities of color are disproportionately affected by environmental hazards.", "Lawmakers are debating a new bill aimed at cutting national carbon emissions by 2030."',
+    '- Renewable: "Government subsidies are making rooftop solar panels more accessible.", "Community wind projects are helping rural areas become energy independent.", "Drought conditions are affecting the electricity output of hydropower plants in Brazil."',
+    '- Waste: "Cities are expanding composting and recycling programs to reduce landfill use.", "Single-use plastics are being banned in several countries to combat environmental pollution.", "Innovative startups are turning food waste into sustainable packaging materials."',
+    '- Weather: "Global temperatures hit a new record high this year.", "An unprecedented heatwave swept across Europe, breaking temperature records.", "Heavy rainfall and flash floods have disrupted transportation in the region."',
+    '- Nuclear: "Nuclear energy is key for our future as we transition to low-carbon power sources.", "Debates continue over the safety and waste management of nuclear power plants.", "Several countries are investing in next-generation nuclear reactors to meet climate goals."',
+    '- Electricity: "Electricity demand is expected to surge with the rise of electric vehicles and heat pumps.", "Power outages are becoming more frequent due to aging electrical grids and extreme weather.", "Renewables now supply a growing share of global electricity production."',
+    '- Construction: "Green construction practices are reducing the carbon footprint of new buildings.", "Urban expansion is driving increased demand for sustainable construction materials.", "The construction industry faces pressure to cut emissions and improve energy efficiency."',
+    '- Transportation: "Public transportation systems are expanding to reduce urban congestion and pollution.", "Electric vehicles are transforming the future of transportation infrastructure.", "Transportation remains a major source of greenhouse gas emissions globally."'
+]
 
 
 
@@ -48,42 +66,31 @@ start_time = datetime.datetime.now()
 while keep_running:
     for i in df.topic.unique(): ###read text
         cluster_start_time = datetime.datetime.now()
-        if counter >= 2:
-            keep_running = False
-            break
         counter += 1
         df_cluster = df[df.topic == i]
         print(f"shape: {df_cluster.shape}", flush=True)
-        sampled_df = df_cluster.sample(n=10, random_state=42)
-                            
+        n = int(len(df_cluster) * 0.05)
+        n = max(min(n, 500), 10)  # between 10 and 500 samples ##change back to a counter logic with lower samples for testing
+        sampled_df = df_cluster.sample(n=n, random_state=42)                    
         text_counter = 0
         for j in range(sampled_df.shape[0]):
             cur_row = sampled_df.iloc[j]
             text = cur_row.text
             prompt_start = datetime.datetime.now()
+            
+            random_order_categories = random.sample(categories, len(categories))
             prompt = f"""
             You are a helpful assistant classifying climate-related texts into one or more relevant categories from a given list. 
             
             Classify this text:
             {text}
             
-            list of categories with few shot examples:
-            [
-            - Activism: "Thousands marched in the climate strike demanding government action.", "Youth-led campaigns are pressuring lawmakers to enact stronger climate policies.", "Environmental activists chained themselves to construction equipment to protest deforestation."
-            - Agriculture: "Crops are failing due to prolonged droughts intensified by climate change.", "Pollinators like bees are disappearing, threatening global food security.", "Rising temperatures are affecting livestock health and reducing dairy production on farms."
-            - Disaster: "Wildfires have devastated thousands of acres in California.", "Flooding from intense storms has displaced hundreds of families across the region.", "A powerful hurricane made landfall, causing widespread destruction and power outages."
-            - Nature: "
-            - Fossil: "Oil prices continue to rise amid geopolitical tensions and supply constraints.", "New coal-fired power plants are being built despite international climate agreements.", "Natural gas usage has surged as countries transition away from coal and nuclear energy."
-            - Lifestyle: "People are embracing minimalist living to reduce their carbon footprint.",  "Plant-based diets are gaining popularity for their environmental benefits.", "Air pollution is linked to rising asthma rates in urban areas."
-            - Politics: "The new administration reversed several environmental protections.", "Communities of color are disproportionately affected by environmental hazards.","Lawmakers are debating a new bill aimed at cutting national carbon emissions by 2030."
-            - Renewable: "Government subsidies are making rooftop solar panels more accessible.", "Community wind projects are helping rural areas become energy independent.", "Drought conditions are affecting the electricity output of hydropower plants in Brazil."
-            - Waste: "Cities are expanding composting and recycling programs to reduce landfill use.", "Single-use plastics are being banned in several countries to combat environmental pollution.", "Innovative startups are turning food waste into sustainable packaging materials."
-            - Weather: "Global temperatures hit a new record high this year.", "An unprecedented heatwave swept across Europe, breaking temperature records.", "Heavy rainfall and flash floods have disrupted transportation in the region."
-            ]
+            list of categories with three example sentences:
+            {random_order_categories}
 
             Instructions:
             - Carefully analyze the text.
-            - Select the three most relevant categories, strictly from the above list.
+            - Select up to the three most relevant categories, from the above list.
             - Output should be in this format:
             ["Waste","Politics"]
             

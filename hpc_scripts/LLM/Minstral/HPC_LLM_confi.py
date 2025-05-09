@@ -60,9 +60,8 @@ for i in df.topic.unique(): ###read text
         prompt_start = datetime.datetime.now()
         prompt = f"""
         You are a helpful assistant classifying climate-related texts into one or more relevant categories from a fixed list. 
-        For each input, return the categories that clearly apply, with a confidence score (between 0.0 and 1.0) indicating the strength of association.
         categories with example sentences:
-        
+        [
         - Activism: "Thousands marched in the climate strike demanding government action."
         - Agriculture: "Crops are failing due to prolonged droughts intensified by climate change."
         - Diet: "Plant-based diets are gaining popularity for their environmental benefits."
@@ -79,14 +78,15 @@ for i in df.topic.unique(): ###read text
         - Waste: "Cities are expanding composting and recycling programs to reduce landfill use."
         - Weather: "Global temperatures hit a new record high this year."
         - Wind: "Community wind projects are helping rural areas become energy independent."
+        ]
 
         Instructions:
         - Carefully analyze the text.
-        - Select all the categories that apply.
+        - Select all the categories, strictly from the above list that apply.
         - For each, assign a confidence score based on how clearly the topic is discussed.
         - Output only the categories with confidence scores 
         - Output should be in this format:
-        example: {{"Fossil Fuels": 0.9,"Politics": 0.8}}
+        {{"Fossil Fuels": 0.9,"Politics": 0.8}}
         
         Classify this text:
         {text}
