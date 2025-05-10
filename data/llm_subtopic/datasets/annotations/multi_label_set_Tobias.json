@@ -1,0 +1,1306 @@
+[
+  {
+    "cid": "bafyreieunt4vsytxmoqdsju4wtad5i7qkpryzttxjzi4oglo7v5hgynhbi",
+    "text": "Interesting example of different approaches and commitment and the result from that. Do you have the numbers from methane emissions from the production as I believe that this could change the overall picture significantly or confirm?",
+    "topic": "Fossil",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreidtyczp2pxcjm4eqshxwtimeyebeurtjdmtalbf7ello5wlcrsro4",
+    "text": "Beautiful piece of Apple wood tgwoodworking woodturner latheturning woodworking woodworker handmade wood handmadeisbettermade woodhandmade smallbusinessowneruk notonthehighsteet woodworkart sustainable zerowaste nature",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreif7ocqcanj33o2sbzlkcgtyesioz266ymfgszep5asvqe5r3vw7be",
+    "text": "You know it's a stinkfest when the half time bonus points look like Scottish summer temperatures ARSBRE FPL",
+    "topic": "Disaster",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreielxk5a5z3l23t2uullfe5sotz7ndam53svj3qtrrtibarlicjada",
+    "text": "Trump is promoting 'clean coal' NO SUCH THING in the US, the green economy employs approximately 10 times more people than the fossil fuel industry, with green jobs totaling nearly 9.5 million. The fossil fuel sector employs around 900,000 people. NOT a GREEN SCAM DONNY WHY are you so STUPID!",
+    "topic": "Fossil",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreidmyaobcssgn4l7fdaftlxpjyttyqep7qhpoue7tglzdl4guixipy",
+    "text": "Woodburning became a problem in Herts in 2015, increasing every year since. Smoke Control Areaslegislation is out of date, not fit for purpose does not protect public health. It's also a misconception that it's only a problem in winter months, woodburning still happening in April its not cold.",
+    "topic": "Disaster",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreieoiso5k6varfeiwizogap6xhfhhga47226kymcqcr2jxnwuzce6m",
+    "text": "I will never understand the assertion that oatnut milks are better for the environment. You have to process SOOO much oat to get just one gallon of milk from it. A cow meanwhile just eats grass all day and naturally makes pure milk.",
+    "topic": "Agriculture",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreif4mga7f6prgegdmq7d7dcc2ldw25s43jky7ggd4wmsbnynk2u66e",
+    "text": "Trump thinks he can bully European businesses into buying more LNG from the U.S. Europe already has pipelines to Norway and Algeria that can supply gas at ambient temperatures. And Europe is investing in heat pumps that can heat homes and businesses more efficiently.",
+    "topic": "Fossil",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigslzfroyaquked6tpney2ovi2it4wquv3ngiusjc5x2qp7i5moki",
+    "text": "I have learned that her apartment does actually have a 120V outlet outside which could make EV ownership very possible. EV Infrastructure doesn't need to be complicated!",
+    "topic": "Transportation",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreibwbrluyj3xz2a2qdxzoideizb4jdjtkisvme5rmix4qw5zjosf2m",
+    "text": "Where Bees Won’t Go How Cockroaches, Bats, and Beetles Pollinate the World’s Plants and Crops Beyond Bees The Unsung Heroes of Global Pollination onixonpoint.substack.compwhere-bees...",
+    "topic": "Nature",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": null,
+    "text": "BRO issues Wind Advisory valid at Apr 18, 900 AM CDT for Coastal Cameron, Coastal Kenedy, Coastal Willacy, Inland Cameron, Inland Kenedy, Inland Willacy, Northern Hidalgo, Souther... at Fri, 18 Apr 2025 070905 0000 via IEMbot Additional Details Here.",
+    "topic": "Weather",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreia3naj7r4y6laora7hndm3b7itvgiy2cs7xl7nrwozl3duemncage",
+    "text": "Pour Moi Energy Cut Out Vest Top The Energy range by Pour Moi brings you innovative gym wear that is fashion-forward and functional. This Cut off vest top is designed to fit looser while still flatt... BUY NOW! 24.00 httpslingerie.score.bargainspantspour-moi-energy-cut-out-vest-top?id4977746",
+    "topic": "Waste",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifqdvnfc3ssiacinfvhr4fuemcttzeywlpjdcrrlcp75yleudwwcy",
+    "text": "I bought an electric fly swatter because Vancouver doesn't believe in window screens, and it is the MOST SATISFYING purchase I've made in a while.",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiabj6dfy5kwvtqt7zleipbezd3kit53hz3vbly6fdylbua5svjb2e",
+    "text": "New vid alert! Let's Play Powerwash Simulator Part 6 It's Clean Up Time! www.youtube.comwatch?vmdze...",
+    "topic": "Waste",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigccg2j6ltfkcjytvokobiz5ayigmdr5jzco5rflnmi6wqgkfmtl4",
+    "text": "Fresh Recurrent post because it's just too good. Recurrent takes tens of thousands of EVs and compares their data monthly to provide what I'd argue is the most objective data set out there. No weird scenario down to 0 trips at 75 mph, just tens of thousands of EVs, let's dig in long one D.",
+    "topic": "Transportation",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreicknwyonvfnfr43vsjdvk7i6zyc3dd5pbulmhyulgmoi7oninoory",
+    "text": "These Fire Hazard Severity Zone maps evaluate hazard, not riskwhat’s the difference? Hazard Long-term fire behavior drivers, like topography and climate. Risk Potential damage based on current conditions, including recent changes.",
+    "topic": "Disaster",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiahl5kb3bliiztmlcqbqwrudruq5cryiguzhldwehy377vcamzf3y",
+    "text": "Wood burning stoves are contributing to air pollution. Why are they not banned? WoodBurningStoves AirPollution",
+    "topic": "Disaster",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreieu3n32efveampfezizwopp5jvv56lrxirc4lkj6atp45lcedtdlm",
+    "text": "FB7.Low.33.2 Day and night averaged downward shortwave sunlight radiation over summer increased by over 20 Wm! Net downward radiation increased by 15 Wm! Most of this is attributed to reductions in aerosols www.nature.comarticless43... x.comLeonSimons8...",
+    "topic": "Lifestyle",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifub5mn4ypmxyse7zs55qdkk22d22i3fyex7azs3w7rb6wdojkuhi",
+    "text": "Euronews.com 'Pain’ of climate change was clear in Europe last year, experts say www.euronews.comgreen20250...",
+    "topic": "Weather",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreid2nt5ek7u4lqodftqdydm7777hpwkvre3xdo5yyhj7hm47djvrk4",
+    "text": "Deposit systems are much more effective than other recycling and waste reduction programs, and therefore more cost-efficient! Let's modernize the system. It's time for a Bigger Better Bottle Bill. Learn more bottlebill40.org",
+    "topic": "Waste",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreih3wouyhca4rosq7marjx65n2o6nwxlp35ia6qc3cvt4ik37uexfa",
+    "text": "13 New Government figures show leisure is now the most common reason for travelling by train. Rail enriches our lives and supports the leisure sector. Every time a traveller chooses rail it reduces road traffic, pollution and carbon emissions... www.gov.ukgovernmentn...",
+    "topic": "Transportation",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreihkjyfdrn27m7bmia6sswr4e66nfwl5eki72wetoiyb5fgnd2l7wm",
+    "text": "Earth Day Vermont Join us to ensure Vermont stands strong to protect our planet and address climate change. No rollbacks in Vermont. vtpoli vtleg actonclimate actonclimatevt",
+    "topic": "Activism",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifs2wtztoetvfh25unfehltyfgdzqyci6tv663hwzlvqrxoxjrvbu",
+    "text": "A review of 8 comics related to Climate Change Environmentalists from our reviews editor, Kevin Wolf GraphicMedicine www.graphicmedicine.orgcomic-review...",
+    "topic": "Activism",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreievdkunujrngc6txti6qhwbqd5czmt6rssyva5uuoo3joe7qphhai",
+    "text": "Congratulations to ohiostatelaw.bsky.social Prof. lawprofpayne.bsky.social! She and Prof. Joel Eisen authored \"Utilities With Purpose\" which was named one of the top 5 environmental law articles of 2024 at the Environmental Law and Policy Annual Review Conference! law.richmond.edufeaturesart...",
+    "topic": "Activism",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifo6qr2masdnyuvjmijrrphylh4m7dzlvkljgbdrb4trj6g63lqi4",
+    "text": "Join a vibrant and collaborative research environment where we investigate the cellular and molecular mechanisms underlying organismal physiology, development, and responses to environmental challenges- in animals and plantsalgae.",
+    "topic": "Agriculture",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiayzt7ct7du54uhjpufiey2tb6vv2yktxrxfheoc5fcaebegwgmpu",
+    "text": "don't tell harris - but this is exactly what we're going to be doing in seattle not just more housing. better housing. better quality. better livability. and climate adaptive to boot. and yes - it's because we've got 6 story single stair, no parking requirements, and no single family zoning",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreihgodbhmdebelguz3psuy3rci2euo7oq24aqpugxd7bi35yoek6ya",
+    "text": "Maryland's Building Emissions Rules Face Cuts This Session Link to the article",
+    "topic": "Politics",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiekjupdyxtsslbvpjaauorurqos6gvjgckpgq2yj62qgploku6jea",
+    "text": "Gas prices have risen although cost of barrel of oil has dropped Eggs are over 6.00 a dozen despite no bird flu reports everything costs more already because profit is there for the taking. Consumers have little choice but to accept highway robbery. The rich never feel it.",
+    "topic": "Fossil",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreibawjrlliwbgd753kf2k6a2ite7tl7qwiczduexf52nvlyxot4s4e",
+    "text": "Pennsylvania Groups Affected as USDA Cancels Climate-Smart Program -Lancaster Farming More info from EcoSearch",
+    "topic": "Agriculture",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreicoj2n534bkhxupui5mamgdozsbc2vpixgcxnmi7rsumle2jtc3we",
+    "text": "Poilievre not wrong about needing to produce more here. We have better environmental laws - it’s more environmentally friendly to produce things here, like steel in Hamilton or aluminum in Quebec, than in a lot of other places in the world.",
+    "topic": "Politics",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiaqsbsvwqy6syjis4iicmpaanq7s4ku6xgk2vpj4s5xothduphowa",
+    "text": "Check out this new paper from Dr. Tomas and members of our CIC team examining the impacts of social and environmental adversity on mental health outcomes like PTSD, depression, and anxiety.",
+    "topic": "Lifestyle",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiby6bzbl7xrmvtbc63r2kly5yhepxscpfgwlee7lmbc5fxh3cqxii",
+    "text": "That's nuts! I can understand cloning a beloved horse because you love the way it looks- even though you have to accept that it will be completely different in terms of personalitydispositiontraining cuz so much of that is environmental. But designing a bespoke horse from the genes up is creepy AF",
+    "topic": "Nature",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreidsmjdqhhbe4umig3hckjsqdrgtjqql4ccfee3et5nqwqfhdfqe7q",
+    "text": "They are counting on the windfall from the infrastructure needed for the mass removal of people. ICE wants a huge increase in their budget to build a bunch more on-shore facilities",
+    "topic": "Weather",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigd75gndsl2loiugmki2pb6ivmu6cdiczi2s5crkox36y7jt4nhlq",
+    "text": "Which is absolutely nuts that they figured out renewable energy’s value 100 years before the word Energy as we use it was coined.",
+    "topic": "Fossil",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreihix5h4a2bkljpov26yac4ubfeah4poncfvepr62xxh34icjc6c3u",
+    "text": "True - fwiw parts of Texas have naturally occurring excess F in groundwater .. Some will find it interesting to know how HFS acid - the most common form of fluoridation, is sourced in the US. Hint- the phosphate industry is big concerned re potential redesignation to waste stream",
+    "topic": "Waste",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreignnazmvfxnopmpd5tunjkbjaowlqyc7dutgkjzt2ta5ngrkg2eke",
+    "text": "Trump is giving rambling Oval Office monologues about turning the US into a coal-exporting economy, while the world busily eliminates any need for coal",
+    "topic": "Fossil",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifpui2szu5n2jsbdprbr3cfee432exxzgrpprvzsaebb4mgkdtvly",
+    "text": "so they use more gas, emit more pollution, kill more pedestrians, and they make traffic worse. it’s almost like we should’ve banned these things 25 years ago.",
+    "topic": "Lifestyle",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreibrgic3nvd3rk2a373ogbdhttc667ctikatbmew72vqvzv45huuma",
+    "text": "Big no. Green roofs are proven to be an enormous energy reducer. We have to stop this bullshit of not demanding more because Reasons. We need to demand green builds and people need to know it’s worth paying for. It’s 2025. We do not have TIME to not make ecologically productive choices.",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreidk4vph2x3cvaqmlijbbkppvozwuj4drzyjllq7rt7imw7jwsvn6e",
+    "text": "Try not to forget that there is other important news that deserves more attention A severe heatwave engulfed Nawabshah in Pakistan, pushing the mercury to a scorching 47°C 117 F on Friday. The mercury may climb even higher in the coming days, with forecasts predicting a possible high of 49°C.",
+    "topic": "Weather",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreid2te5o6m332bpkh2jx54yeyjthpwpgi2duvrkn6tirj5ymveyrry",
+    "text": "3. How do we create those linkages through joint activities or communication? The 70 million people on Bluesky are a dynamo. Pair doctors with climate scientists, activists with policymakers, youth with elders. Joint webinars, local coalitions, shared data dashboards.",
+    "topic": "Activism",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreidpjkws62wff57hypmkh5lztgatbmst34iivuofonp3z5ihnejhra",
+    "text": "In recent years about 23 of sea level rise was due to the addition of water from land into the ocean by melting ice sheets and glaciers. About 13 came from thermal expansion of seawater. But in 2024, those contributions flipped. ClimateCrisis www.jpl.nasa.govimagespia26...",
+    "topic": "Weather",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigzx5fhv3xxxerxg3o6agaoivqbajyvrezyma5322m2hauanw6kmm",
+    "text": "chefboibex.bsky.social ktriley.bsky.social and others have been working on an incredible new tool to track climate misinformation online. Check it out here tortoisemedia.bsky.social",
+    "topic": "Activism",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreia5rz7u5pkqlkuvznkdalhlb3ssijzjxvzycrvwvs5ksgwqkjvt5m",
+    "text": "It is already embarrassing that I have to spend hours convincing the park board in a top two park system in the country!!! that climate change and green space is more important than parking and that providing parking isn’t their job. Just awful from Abene.",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiarm3xpnzl2gb5o5rqrhre2p7or2bzffefonw5mkakrcqtji23wna",
+    "text": "local man's plan to build affordable housing denied after ghost of 18th-century landowner files environmental objection",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreieqm3lis5vjwt5ngfhvlv6gg4up7a5i6yvqt7m7oq4utzcne4zymu",
+    "text": "Big car firms fined more than 450m for their roles in recycling cartel’ www.rebnews.combig-car-firm... recyclingindustry wastemanagement circulareconomy therecyclingassociation recyclingnews",
+    "topic": "Waste",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreidq5k6xbpases3g3hfnhc67naegs2akrnvfsdn5zse7fwjitcc3zu",
+    "text": "Organic farming promotes healthier living by improving soil health, sustainability, and eco-friendly practices. Transition to a chemical-free, sustainable future today!",
+    "topic": "Agriculture",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiblnps655d5vvpiuxfxqlkp6gkszybbaytreg35etwviehk22gekm",
+    "text": "Is good but why only 2.3 Billion when you give 15 Billion in fossil-fuel rebates? If 4 million solar owners want a battery now they can instead vote Teal, Indy or Green TIG for interest-free loans Labor don't offer and also get these rebates - win-win! auspol renewables macnamara",
+    "topic": "Renewable",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigxskqnc5n2tcanlqjl72aflx6cncanvfxf453weuhbhomt2mvcp4",
+    "text": "Potential strategies could be directly applied’ httpswww.europesays.com1990587 Climate change will likely cause city fires to become more common throughout this century, a new study found.",
+    "topic": "Disaster",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreicwehnr7mkrccorhwj43feteiwtqtqdtksi3atgfq7htnjqfzo7qa",
+    "text": "Map reveals residential wood-burning hotspots in England and Wales www.theguardian.comenvironment...",
+    "topic": "Disaster",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreidpm6zivqnkk2vro42jofb6ml7gan6eqwir4hh5enrzemftx3k5ke",
+    "text": "The White House has just issued an executive order directing the US Attorney General to challenge the enforcement of state laws seeking to address climate change. State AGs in NY and CA must vigorously defend their sovereignty on this issue and reject climate denialism by the federal government",
+    "topic": "Politics",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiam6qknuyuru4z2iejs6lyyl2oaqv7wz5nj235prn4cs2mtgoiqzm",
+    "text": "Poilievre promises to scrap single-use plastics ban and bring back the plastic straw ? www.cbc.canewspolitic...",
+    "topic": "Waste",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigljywkrz3lrqalsojrkyftzslkjph77aybwpdxdeor3hvuktqu24",
+    "text": "What is public health? It's water fluoridation, which dramatically reduces cavities, the most common chronic disease of children ages 6-19. It's especially important for kids in low-income communities. stacks.cdc.govviewcdc164...",
+    "topic": "Waste",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreicfamtwyd3so7ryjhbgsfxwokbbm2vf5prfjn4g3pa3d4nam2xwda",
+    "text": "OCEANIA RECORD HEAT Never ending record heat in Oceania 33.5C Saratmata VANUATU breaks again its April record of highest temperature in history. Records are falling in all Continents,relentless, like no month before.",
+    "topic": "Weather",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreicqxyxyv5fvpckb6n72qewukjofxmwbrppxjjry6b7z6voixbiype",
+    "text": "Plastic straws are the least of our problems PP so out of touch. I’m sure the anticlimate change deniers love this kind of BS www.cbc.canewspolitic...",
+    "topic": "Waste",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiden3fnei6kmcnauovxnr5jufyfe6qypoachyo23hqpfjm4ay5e74",
+    "text": "Pollution from woodburning in Hertfordshire borders London is a nightmare, most installed in recent years. Very few areas are covered by Smoke Control legislation which hasn't been reviewed for 40 years. Woodburning here is out of control. AirPollution WoodBurning Health",
+    "topic": "Disaster",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiaqvim5r7k4mvf46wvyxgvkckvvm36edpv4ewxczwcs6v3fwyss5a",
+    "text": "Air pollution is what really sells houses, everyone in real estate knows this.",
+    "topic": "Lifestyle",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreidcurq6umktx7b2ijhfg7d27mthj2uezj7keg4eldwkoha6vmk5gm",
+    "text": "Trees one day, gone the next . . . why? Ask Blacktown Council, am sure they have to approve tree removal on private premises. No more shady walk down that side of the Road, Bus shelter no longer protected from heat, birdlife less and less nesting places.",
+    "topic": "Nature",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifvhif7mchhzhjzyhu7tpehs42ybuc53edz5pfgxstodknybhbw54",
+    "text": "From NAEI data avg Ecodesign stove emits 2000x CO than avg gas boiler. From Ecodesign spec, CO limit is 1200ppm. Yet gas boiler is considered faulty if it emits 10ppm.Where do you think this goes? Our windows are less than 2m from flue- why do you think that is safe? Only happened when stove in use",
+    "topic": "Disaster",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreicozqvu2sghzig5knwkcuqijde6dmhhjmjrhj3q5tmnkdtzpx76mu",
+    "text": "This post not aging well, according to AFR the gas industry says LNP policy will not result in new gas",
+    "topic": "Politics",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreihn3txrwvqx67savkfkrwlbjazdb6vdatdl3a6n6aaxw66a2ubdva",
+    "text": "The other huge change is that the majority of the scooters and motorcycles are now electric and the traffic noise levels are 14 of what they are in other Asian cities like Hanoi for example. Not to mention the improvement in air quality.",
+    "topic": "Transportation",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreicyxgkhm6bl4htr3rl7qjd3cma63k25vgfp67bi26qm6a6ydvojgq",
+    "text": "The worst part is that this doesn't even make logical or financial sense. Coal isn't just bad for the environment, it's also ludicrously inefficient. This is so blatantly a donor-motivated move by people who got caught holding the coal-mine bag.",
+    "topic": "Fossil",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigqz65kmbw223vh3zns2kd4wdmduuqxgmygzwsmus7uclfumhqt5q",
+    "text": "I managed to get the cap off and the predominant odor coming from inside the bottle is mildew.",
+    "topic": "Nature",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifcmanevbujbm2tv4y77gn37ix75elqmv5um3kdvvcbxeoyvaczm4",
+    "text": "It’s not the greenest city - a surprise compared to other euro capitals - but they are improving",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiamp4d5alldgxn7wkjoj3g636suuv3s5oetv2yrpd2p75aq55koke",
+    "text": "i think my right foot is going through mercury retrograde cuz it looks kinda repulsive.",
+    "topic": "Fossil",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiawgns4v2zhcyygsu32ae7v5drx2kdib4fecck2f6dqu5xwl7qfj4",
+    "text": "Scottish and NI blazes highlight surge in UK wildfires Fire chiefs warn of climate change driving extreme weather in the wake of weekend infernos",
+    "topic": "Disaster",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreic75ajlpq6ovilfvv4e3ey45ez3xy2el4bdco2jwhd4hewzg4e7qi",
+    "text": "The nuggets’ are those exploiting and eating fowl, whilst destroying the biodiversity and climate of our dying planet",
+    "topic": "Agriculture",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreid5qbmcaxlqr67tu5gizycanvhj7v5we64d7mokw7komdah7rejs4",
+    "text": "Seems you don't want to provide alternatives to the most dangerous and polluting forms of transport, and would rather double down on the status quo. I'd call it myopic but that would imply you're actually looking forwards. Evidently you're only capable of looking in the rear view mirror ...",
+    "topic": "Transportation",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiau23gy3frryao2mtwzcq34b3e7zcvmvkjyblgbpyrvppouvfnm64",
+    "text": "Day 78 I gave a talk about EPA regulation to a room full of future natural resource stewards.Day 80 and I read through this gem. This timeline really be upsetting",
+    "topic": "Politics",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreideud46iw3trkpdzt372rtau365uzshsreqp55ldq7zp5zpyhzc3u",
+    "text": "A study shows how SUVs are making traffic worse. More wasted energy, increase in deadly accidents, more weight worsening asphalt conditions, more brake dust... NoMoreSUV not even electric",
+    "topic": "Transportation",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreichx4w3w3j74qs32dm2kmss5ycu6uzvoktiafzxa5s77n5vpti5uq",
+    "text": "22 She holds a Master’s degree in Public Policy from the National Law School of India University, Bangalore, and a Bachelor’s degree in Political Science from the University of Delhi. She talks about the need to confront the urgent challenges of our new climate reality.",
+    "topic": "Activism",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifaa2byw74uwj7qpapn6m7mlrnquw5b5szmr4uudiip3r53ih2vea",
+    "text": "Lynd students explore Camden on annual environmental day News, Sports, Jobs httpswww.europesays.com1996775 Photo by Samantha Davis Lynd middle school students Olivia Hlavka, music teacher Nancy Louwagie, Katherine Maldonado and Shaila",
+    "topic": "Nature",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigxf7xi6aslhlnfzfdjuwf5c53fsnpockw447u4y6oaknjaovifsa",
+    "text": "The issue with sprawl isn't just a matter of transportation costs and climate emissions but political formation. I really think the HOA-ification of America has had severe, underappreciated consequences for our democracy.",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigyjtklkncsce2qbmb4dvx75gtjog6oap2zgcqdg2nvtaitaiwjuq",
+    "text": "Scientists believe these ancient golden arches once guided weary travelers to hot fries, lukewarm shakes, paper-thin patties. Carbon dating suggests the ketchup packets expired sometime around the Eisenhower administration. GoldenArches FastFood AiPhotography",
+    "topic": "Agriculture",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreid4fmex7sk4ejncvepesuo63wklajk7crumbqyeklxrnij5me5q7q",
+    "text": "28,000 of the heaters linked to fires are thought to still be in NZ homes.",
+    "topic": "Disaster",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiazp5o6eljagcup45zdywnz357y7a7l3xxiqwvs3qryetudnjsamu",
+    "text": "Hang on, folks. Flooring, tornadoes and hurricanes are about to get a whole lot worse climatecrisis apnews.comlivedonald-...",
+    "topic": "Weather",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreicvgaeea2hk4xustksmfeuf65ru2lkx34x6wi4rn67m4yhk3hlwqi",
+    "text": "You people stop at nothing. First, you're all green this and green that - gotta get rid of all ICE Internal Combustion Engine vehicles. And then, out of nowhere, you're anti EV because your feelings are hurt over losing an election and being exposed as colossal grifters. Get a life.",
+    "topic": "Transportation",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifu6euz3cmb4beom6jmzaax5scr3xomerv2pzgu4phwspf62jlapy",
+    "text": "The meat industry and eaters appear entrenched in society, tradition, culture, political subsidy etc personal freedoms to exploit animals - eatfarm meat’. Can’t see meaningful change before 3.5C changes the game",
+    "topic": "Agriculture",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreid2poqwggfaz2ryfwwqwsj4zcydmldrfec2zfmcgtyxn2yo7ow75m",
+    "text": "The Norwegian government has commissioned several agencies to develop an Environmental Impact Assessment programme for the proposed power plant based on multiple small modular reactors in the municipalities of Aure and Heim. www.world-nuclear-news.orgarticlespro...",
+    "topic": "Politics",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreie6itq3qtyrj7mmsem256eaib5x7iciuj3byi2qrbxv6ntkmvokfe",
+    "text": "You're asking the wrong question. 4°C is a GLOBAL average with REGIONAL variance - hottercolder. \"7% more moisture with each 1°C plus, assuming it's linear btw, it's not\" would be a GLOBAL average. Variance would still prevail REGIONALLY including extreme rainflooding or drought heatwaves.",
+    "topic": "Weather",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreig2ev7cucgpteqpxsg4xhkl24247dxh26evggm5hwouf5ldrbymkq",
+    "text": "A very shiney cryoEM structure of the MCR Activation Complex from anaerobic archaea. It’s the complex that makes methane. Or as I prefer to call it the Fart Complex . Big congrats to schullerjm.bsky.social and the whole team! ArchaeaSky",
+    "topic": "Fossil",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifubybyidk7wb4lpklcyr7pbr7dtcv75uksorfeqhmsppk3bt5rti",
+    "text": "I have burned peat in the past, which was all cut and dried by myself. It is not only an excellent fuel, but the collection of it is incredibly culturally important where I'm from.",
+    "topic": "Nature",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreia4wazpwalmckuk5ng7qshpzruqudpkq73263wq5bootonnr4zcb4",
+    "text": "Delhi Heatwave Power Demand Reaches 5090 Megawatts In Capital, Likely To Break All Records This Season english.jagran.comindiadelhi-... via ClimateCrisis GlobalWarming SevereWeather Intense Heatwave Delhi Barmer Jodhpur Rajasthan India",
+    "topic": "Weather",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreieqx4emyckoku45h6zejtyly7y5bhc56f22p6woouak623ev2657q",
+    "text": "Yea but this years collapse was way off scale so wtf changed, aside from the climate system?",
+    "topic": "Politics",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreibhs34lzwb6elay2cju3idkrihkn5hmbzjn3v2mmo7esca2mtk6te",
+    "text": "Housing Policy is Transportation Policy is Climate Policy bettercities.substack.comphousing-po...",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigtbg2d3x5v4hpr5vghmmcbtzv4kqohws3pyf3zfyd27wv6gdphze",
+    "text": "What if onions could be our heroes? HUID is on a mission to reduce single waste plastic by exploring the potential of onion skins www.youtube.comshortsehX8B... Hear HUID, and 12 other impressive startups, pitch to investors on 8 May at The Greenhouse Demo Day! Register via link in comments",
+    "topic": "Agriculture",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreig2wey6hzpklsur56mcyxghhc6xg2dtkkyrguq2fv7p6jqq6dtxhq",
+    "text": "Help keep our parks plastic-free! Here’s how 1 Sign up for PlasticFreeParks with 5gyres 5gyres.orgPlasticFreeParks 2 Download the TrashBlitz app 3 Visit any federal land, pick up trash, submit what you find! Why?",
+    "topic": "Waste",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreif5senw7bea5xfpxpk5gbvzvov6bch4xc4b3tyb7pbsm5dcxbtigq",
+    "text": "Gas is cheap, renewables save gas so are also cheap. You know what I mean.",
+    "topic": "Renewable",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigvz4d2puhv7bhyrbhphqpxvvu26xpln4e274js5thzgijpfb34xy",
+    "text": "On Monday Katy Perry will be experiencing extreme temperature fluctuations, leaving the earth's atmosphere and experiencing zero gravity. This wasn't a pop song, it was a prophecy.",
+    "topic": "Politics",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifqmml6ohtz3sos65znupuzuanbzxmxs22tcqtugfcijqg6wrprke",
+    "text": "They appear to want us dragged back into their mainstream materialistic world where they use items which seriously polute the planet in their construction. I will take no lectures from people who fill a bath daily with gallons of water or fill their homes with white goods and copious plastics",
+    "topic": "Waste",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreig3yctiux3quusgua6j5t5u637zldlcajqopqsrcktrmrjkfcwike",
+    "text": "Nigel Farage compares turmoil of Donald Trump’s tariffs to market chaos caused by Liz Truss httpswww.europesays.com1986168 Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The",
+    "topic": "Politics",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiae6cmqcqt6hozlrnm4rj6gxz7xyenliyhyxtyafwhnze4ztwbkwu",
+    "text": "For people inaround Sturt electorate in SA. auspol www.veritycooper.com.auclimatepane...",
+    "topic": "Politics",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreihcxq2w3hltda3rjc7mr7lum4reyaan7gf3rd2u5652zg7ftqzax4",
+    "text": "We teamed up with National Education Nature Park to create a short film, Instagram reel and workshops, equipping students with the tools to boost biodiversity on their school grounds! Head to our website to learn more www.earthminutes.co.uknationaleduc... shortfilm socialmedia workshops",
+    "topic": "Activism",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreibxc7hd2b3zduszn6jewzhh5dis6armybtnmtm4ysgnbxdk3uivb4",
+    "text": "14 Governor Scott and the newly elected Republicans are trying to move our state more in line with MAGA-DOGE. What happened? Scott is 'balancing' the budget by cutting programs school kid's lunches, housing for the homeless, environment regs in order to avoid raising taxes on the wealthy.",
+    "topic": "Nature",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifa24z66ku3ewmjch4hsntawmkydnl5xgglbs64qjgu4ztrru7g24",
+    "text": "It's disappointing that MPRB could not try to get partial designs of the Mall done in time to spend someone else's money to partially implement it. Re-building perfectly good public infrastructure when the mall is due on the capital plan is wasteful spending and bad for the climate.",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreie7ktfvblw27ne26hig57elegnrnlfk62cltatadz53akvbz6oxba",
+    "text": "Each time we use AI we outsource and weaken our cognitive capacity we up our energy consumption, hurting the climate we drop a few more pennies into the pockets of the tech oligarchs we voluntarily give our IP to \"the man\" who owns \"the machine\" we submit to this latent surveillance whatnext",
+    "topic": "Renewable",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiezn3azcljettwrclds3axb46m5glczgypvmwndywkhutgfrmy3je",
+    "text": "A3 Preparing communities for extreme climate events has become increasingly vital, and PHI’s Regional Asthma Management and Prevention program provides resources for communities for both before and during wildfire smoke events NPHWChat",
+    "topic": "Disaster",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreibkwhryumxlrwwhy7odmfsz52qkuzynpjxueu6rmyucj75opv3upe",
+    "text": "If you want to be alert and fight for your values, the Friday Power Lunch is where to learn and link up with those who want to stop the destruction cycle we are facing.",
+    "topic": "Activism",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreicr7w3hni6mvlwffvf4o2r2pvinzy2l6avww3tkhuhsw6qbpyzpku",
+    "text": "It's a new world in the oil industry. Cut supply to raise prices to where you can existmake transition to EVs even faster due to economics. Keep prices low and you burn through cash reserves. And people are already switching to EVs at these prices. Meanwhile, demand destruction continues.",
+    "topic": "Transportation",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreidsmrdgymz34qnrez2zvxi4x5h263m2vlnx7znwq2ew5npbaemboa",
+    "text": "Japanese companies offering tropical escape’ trips to workers with hay fever httpswww.alojapan.com1242626japanese-companies-offering-tropical-escape-trips-to-workers-with-hay-fever Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The",
+    "topic": "Lifestyle",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreietmqpo5gmg7bzshztsq3p3yeuebed63n2jemdk5wxfhjlz2ipmvy",
+    "text": "Got to say she’d love the current climate, breaking economies to transfer more wealth to the wealthy was one of her favourite things.",
+    "topic": "Politics",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreieqqc77gmyqkma5heuakocgxhcft25rarptb6mqamnzbphgnler34",
+    "text": "Family activities, environmental education focus of Cadillac Earth Day event News httpswww.europesays.com1988502 CADILLAC Every year, April 22 marks the anniversary of what many consider the birth of the modern",
+    "topic": "Activism",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreicowiuoqhv2zx2jipncbgxssbi7iqx2zk5qhhlc7vmuovdi5vcy34",
+    "text": "The Delhi government has extended its current electric vehicle policy by 15 days following its expiration on March 31. The new draft policy, which is likely to be announced soon, recommends the phasing out of CNG-driven autorickshaws. According to the draft policy, no CNG autorickshaw",
+    "topic": "Transportation",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreibttyi45k6px7ndezd645vk2cqhutvgljcve5vuvy6jsnx3muj3iy",
+    "text": "I had my old frames reglazed after similarly discovering that they were no longer available. The new lenses are fine but the weather-beaten frames had to be revived by Cubitts",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifaf35il6nrvdi2httm3dq7r4modcelei2gfkt7jn6i5kvgmgn53a",
+    "text": "Musk's artificial intelligence company, xAI, is using 35 methane gas generators to power its \"Colossus\" supercomputer facility, the backbone of its flagship Grok. That's 20 more generators than the 15 xAI filed permits for, and 35 more than it was approved to use. futurism.comelon-musk-me...",
+    "topic": "Fossil",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifitdjiacgyjsagfgriqruqsx5uy5cu64arl45aqt7gysmym77hlm",
+    "text": "I've heard it said that the blandness of English cuisine actually goes back to the time of fresh local food where the climatic conditions just made everything so inherently tasty that nothing much needed to be added. The type of food didn't change but the mass production, factory farming etc. did...",
+    "topic": "Agriculture",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreich3y7afcdsntsg46kj6jy3c5kyfg7pfpsyboltwp4hqnxpec6owq",
+    "text": "New study suggesting nitrogen-fertilised grassland is more likely to trigger hay fever.. www.independent.co.ukclimate-chan...",
+    "topic": "Lifestyle",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreibe6pvoime3ql6m63mj2glnn33mdkzhkguwbf7jp3tqtvqsqmeak4",
+    "text": "New climate change study reveals flooding risk to Queens homes httpswww.europesays.com1979292 New climate change study reveals flooding risk to Queens homes CBS New York Watch CBS News Researchers",
+    "topic": "Weather",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreihm6uxbkojupsyfsew7ro6l4q2k3yeplnn3bylctvwaj2fmgcyndq",
+    "text": "If you're a US citizen, please sign this letter to your senators opposing Trump's \"Fix our Forests\" act. httpswww.cascwild.orgoppose-the-so-called-fix-our-forests-act Here are the forests he wants to cut down",
+    "topic": "Nature",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiezluvrio2od5sx7bs2kfbngvjfb5t6xfreszi7d256nkgr7to37q",
+    "text": "India Issues Heat Alert as Early High Temperatures Hit Northern Regions killbait.comenindia-iss... environment heatwave climatechange",
+    "topic": "Weather",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiabqpbduoqiwumav5rzimiilz7ch5tkztwup6w6ua33svucpgbjrm",
+    "text": "This is bad for Texas overall. It is bad long term for science about how to make Texans safer and healthier. It is extra bad considering we are not far from hurricane season, and thus flooding and wind damage season, and deadly heat season. Texans, please please call your reps.",
+    "topic": "Renewable",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiaphlh3uwmyfzyu6wpzh7omj4sjppyetm3yst5b6k47vrpltdkery",
+    "text": "Remember the disingenuous arguments about congestion pricing about the pollution caused by drivers using the GWB to avoid the tolls. You think those same people care about the pollution caused by cars whose engines are idling on Jersey Ave?",
+    "topic": "Transportation",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigvmeoyg5etlncklbqdgev2lfvwf6p7nhkymbtwjwkmky6zanszn4",
+    "text": "New podcast episode In the latest episode of Cities 1.5 Mayor flipofthecoyne.bsky.social shares stories of Canadian climate refugees. 3 migration specialists share why cities must welcome and prepare for people on the move. Listen here lnk.toCities1.5S5E6",
+    "topic": "Activism",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreidau6ammj5tz4o7upyqqucz6sdyuemsmbmfya2zqiunzoqnhelmze",
+    "text": "Your daily dose of CO2 Over 430 again 12.04.2025 430.36 5.56 or 1.31 % 12.04.2024 424.8. 1.57 or 0.37% 12.04.2023 423.23 4.24 or 1.01% 12.04.2022 418.99 0.52 -0.12 % 12.04.2021 419.51 3.82 or 0.92 % 03.04.2020 415.69 4.23 or 1.03% ClimateCrisis ClimateChange",
+    "topic": "Fossil",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreicec57p37i5afz6ht7bbwwnvwple2uu3vfycvhfgpafywb6mx5vsm",
+    "text": "Got the chance to connect with the Forest Practices Board this morning, as they celebrate their 30 year anniversary. 30 years of hard work, bettering our management of BC’s beautiful forests. Looking forward to working together, toward innovation in the sector! BCForestry",
+    "topic": "Nature",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreig64vkkgpnjokvz72kz3rgw6flbncdcxdwxzrmpwhjptrc6h4qzke",
+    "text": "I know the section well! Lotsa filament and Raspberry Pi boards. Perhaps that easiest place in the city to find heat shrink tubing.",
+    "topic": "Electricity",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreie3dbch2ffkhurlvdthto2f6hcvf6k5dvjokezozlxqd4bg6wpm4a",
+    "text": "US offshore wind farm projects slow as Trump opposition adds to hurdles - www.reuters.comsustainabili...",
+    "topic": "Renewable",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreih2sconu6vf2m6quzk2p5w325cljct2j6wyrscxcjngohcj2rgkla",
+    "text": "Haha! If you look closely you might spot me and a few other green tech YouTubers in this article! That was a fun day last year.",
+    "topic": "Nature",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreicqw2ap7aebnn7f3z6he7h4h2parambd6v2h6m3co5hjr4tsncm6i",
+    "text": "Watford's \"new\" Green Loop cycling route just duplicate signs on old shared paths blocked, as per usual.",
+    "topic": "Transportation",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreibhat5lbdchedzdzmrqjmxdohanejglsrousf4fhfk7uszv6bsjqa",
+    "text": "Lots to go at here, but start with how much co concrete absorbs?",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigixrvhb6ig7xtdioeiaeaofbzxe7cpwiduokwht5timvunnxyv4y",
+    "text": "Exactly this. BBQ's, fire pits, chimneas, people have forgotten how harmful smoke is, regulators utterly toothless. Councils spend millions on rewilding space, planting, maintenance but then keep barriers to the practicalities of gardening, which can achieve more at a fraction of the cost.",
+    "topic": "Disaster",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreif7lkwer6gky34fzid5dlbe6s63sljqzptaahppoosp5tdxwcaxky",
+    "text": "responsible waste management in both urban and rural landscapes. 77 of httpsarxiv.orgabs2504.11557v1",
+    "topic": "Waste",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreie7iyb5vem4biskbnd2g5xdjcocriv53wyz5cnhcbys27ahxwczkq",
+    "text": "People like brick because we have a shitty four seasons climate and brick indicates solidity and indicateds it's not likely to be blown away in a gale see the US.",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreibhw7upmlnejorhncgmfhy63hm4ijh4vwyl5mhvkdswoasvukb7fa",
+    "text": "Its like magic everyone! Astrophotographers can single handily solve the world’s drought problems. All we need to do is mention anything at all on social media that has to do with the astronomical events. auroraborealis weather bluesky or the lack thereof winterstormwarning",
+    "topic": "Weather",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiapvikfy4urewfxszux4pypfdvsl3e6oanmqccafixnbn7yswdr5y",
+    "text": "Changing the structure changes the meaning of the ligand -- a new strategy to freely control Formic acid Hydrogen selectivity with copper nanoclusters. Smart, CO reduction technology! CO2-Reduction Electrocatalysis Nanoclusters doi.org10.1002smll...",
+    "topic": "Renewable",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigoyn3kaclocwb2z7iqyf7f5uczy6xlx4yczt7pohvykswmuuifuq",
+    "text": "Oman, Netherlands, Germany sign historic hydrogen deal httpswww.byteseu.com931420 A groundbreaking Joint Development Agreement JDA has been signed to establish the world’s first liquid hydrogen import corridor, connecting the Sultanate of Oman, the Netherlands, and Germany. This corridor",
+    "topic": "Renewable",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreicz4lfnzu3cbg7d37b6z2z3nkaxugtqp5okrewtlsstam7f3azjea",
+    "text": "The best wood stove fan without electricity is the eco fan Air Max. This fan operates using heat from the stove, circulating warm air efficiently. Wood stove fans enhance heating efficiency in homes. petershamproperties.combest-wood-st...",
+    "topic": "Disaster",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreidq3igsvvls57xl5vfa7vj37i5xmnzpcllc4uloowbjb2b2yhhivy",
+    "text": "AIR QUALITY ALERT April 12-13, 2025 A gusty south wind will pick up this weekend and smoke from prescribed burns in Kansas Flint Hills may affect the air quality in Nebraska. Those who are unusually sensitive to particle pollution may experience health effects.",
+    "topic": "Lifestyle",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiaaafsrmqiewn7bbwckykwrngfi434rzqmltmjgvo6ddefz6jouqm",
+    "text": "As traffic pollution falls in central London, gas boilers now cause 72% of NOx emissions - making clean heat the next big air quality challenge. Learn more about NCAS york.ac.uk research using the BT Tower observatory ncas.ac.ukgas-boilers-...",
+    "topic": "Lifestyle",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreid7p6lhxyaqj5k66lew2wekaxxaeveftxbksphgllcgyybwgfmate",
+    "text": "Fact check Trump falsely claims gas prices hit 1.98 in some states www.cnn.com20250417p...",
+    "topic": "Fossil",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigxcbc74dphw5myxzw73gxwr4lqyjiwzc4y24iltjekp46us62nja",
+    "text": "Solar reflectivity? I like how now everyone wears black it's well, basic.",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigxpdzwgf7tvs3a6papomzfbyngggzwsgb4zxid7cudfalohugptu",
+    "text": "Wastewise Powers Up with UK’s First CASE 651G Loader for Smarter, Greener Operations m4snews.comnewscase-de... CASEConstruction SustainableRecycling HeavyMachineryInnovation",
+    "topic": "Waste",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreibjypobi5oaz56oeyulgiarzbu3zcebadmltszfmmmgemn23qbsje",
+    "text": "Being on a loop supply is a problem, but I guess the move to EV is at least driving the DNOs to address this",
+    "topic": "Transportation",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreidop4i37gb3nkghbtakzddvtltol5k3wo77mnaystz5g23ljdc3by",
+    "text": "The depths that people will go to when justifying their use of wood-burning stoves never fails to amaze me. I used to live in an inner city area where the pollution from wood-burning had me wheezing each winter and since moving I've noticed the difference. This isn't about those with no alternative",
+    "topic": "Disaster",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreih3k462nznw3rcej7n2p7snarshnv2anxxqbpgvqvvhhzena4xdny",
+    "text": "O0000oooo fastest car I ever drove was a '69 Chevelle 454 5-speed, it was green I enjoyed both gasoline embargos, so my car and house purchases were influenced by mileage per gallon.",
+    "topic": "Transportation",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreieknnb6udriyfnknpvwihhqoxucs7dh52okevefdv3ktlz353etre",
+    "text": "Just arrived in Perugia for InternationalJournalism Festival 2025! On Thursday, I'll be speaking on panel that will explore the real links between climate change human rights abuses, and why this context should be center in climate reporting. www.journalismfestival.comprogramme20...",
+    "topic": "Activism",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiefyu45j7o7du5lvqhnlbaegzgxtxyikmnxwvcp5dyviii3f64trq",
+    "text": "I don't want more forest fires literally choking my air, but it's just about the only thing that made normal people fucking pay attention that something has changed",
+    "topic": "Lifestyle",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiecd7zs3h3nqgv3c3kklfbxqqxygoe4xtkgvidd4ukqqj4zvrxc6y",
+    "text": "Even back in the late 70s, when heavily involved in the voluntary conservation movement, was suspicious that recycling might be partly a con, pushed by the packaging industry as cover for its replacement of steel and often reusable glass, with plastic, cardboard and aluminium containers.",
+    "topic": "Waste",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreia25de6jgwfw7h5udgkqjjredtgctgaaumkvlviy5hzrptzg2i7g4",
+    "text": "ensure flexibility because we don’t want to kill housing projects. Seismic codes insurance can be real barriers, more so here than in Toronto, which has a good green roof policy. This is why we can’t mandate all new roofs be green roofs gardens but we can ensure some type of beneficial use.",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigrjlbdpg5y4dxghmlzexjem6eukbxskcbvci5jtyke43dxkinxvy",
+    "text": "the equivalent of what Thailand emitted in 2023. Blue Origin’s New Shepard Rocket uses water vapor and does not emit CO, although that doesn’t eliminate causing damage to the atmosphere.",
+    "topic": "Politics",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreif477rahjm3k64e7egjudlds767vhkbv3ohnnzhxxieu6vncvre7q",
+    "text": "I am a teacher. Both public and private schools admonish teachers for standing up and speaking out. On slavery. On environment and climate change. On welcoming the stranger... Some are sanctioned and dismissed. It is a challenging place to be if you want to keep helping kids.",
+    "topic": "Activism",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiagelcn2wphk6xprir6gb5lpsa5pg7yndlp7trxknllazieuimqna",
+    "text": "You could put up a green house and lights though, although materials costs have dramatically gone up.",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreidlifzwmr2j6c7jflsb7hb2wauxoy366ldxqonek7ubachzxyuplm",
+    "text": "Less than 3m people burn wood in the UK yet cause around the same PM2.5 pollution as 42 million road vehicles. Where is your evidence that filters reduce pollution to safe levels? Very likely they cause more UFP pollution.",
+    "topic": "Disaster",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreih7ulvzbmfpzaelxdt3crc2qtu2sv4v4o4wfx64jyk7vv4ork6roi",
+    "text": "TONIGHT! Join GJEP, biofuelwatch.bsky.social Bay Area coalition for Headwaters in Berkeley at the UU Fellowship Hall for videos, photos and more on Indigenous Rights, Forests and Climate in Chile survivalinternational.org ienearth.bsky.social ran-org.bsky.social 350.org annegjep.bsky.social",
+    "topic": "Nature",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreidylkpidt3elxqd7guvkskjppifvnaof7fjodzrsfy7m6mhydr6z4",
+    "text": "What has been the reasoning behind these messages? The animation of rising water is crystal clear. And we all know it is accelerating. The 12 cm seem small compared to the 10 meter already locked into the system. Still they make a big difference for flat coasts already now.",
+    "topic": "Weather",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": null,
+    "text": "BRO expires Wind Advisory for Coastal Cameron, Coastal Willacy, Inland Cameron, Inland Willacy TX at Fri, 18 Apr 2025 000202 0000 via IEMbot Additional Details Here.",
+    "topic": "Weather",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreigyrhtufwy47kjrawvqmfaha4cd5yqyoetaqqf5p3bccdijwyufq4",
+    "text": "For the record Nuclear is cleaner and safer than coal, and creates more power. But yeah cough cough coal",
+    "topic": "Fossil",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreidbnj4ajxiyrzzmojiv3sgi4vpk3yzbatrcj3th2ycloloumbcwgu",
+    "text": "Veganism is a rights movement. Environmental benefits and health benefits of veganism come second to this. Lead with your morals. Follow with the facts and figures.",
+    "topic": "Agriculture",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiejwjpnwowu6uzasynemwcjhylbxknnqgqv2cf3ocqh6aj32z6unu",
+    "text": "A planned Cambridge bus route will cut through Coton Orchard, one of the region’s last traditional orchards. Owner Anna Gazeley speaks out on risks to biodiversity the environment Aidan Baker eastangliabylines.co.uk aidanbaker.bsky.social",
+    "topic": "Nature",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreif2ewsh3okunllbds26no6mqiq4mnsghu674bhzjadepstuzakq2m",
+    "text": "Might be perfect. Bringing back coal is an asinine, impossible objective. Might as well assign them to register horse and buggies.",
+    "topic": "Fossil",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreicpvfjmc4m6usigpzggvplibs6qi23n4ii7tqvzrz2b3iu7ty7wse",
+    "text": "Sadly, the MM did not happen. Here are estimated forcings for the detrended for AGW residual warming for 2023 and 2024. I realize you haven't a clue what that means, but basically they show that 2023 and 2024 would have been record breaking hot years even if we had gone into a GSM.",
+    "topic": "Weather",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreihgngtidpaquohu6bxj25xj6fw4d3wkcpojl2o7qtzmy4wzckewfa",
+    "text": "in the early 1940's, 40% of electricity was generated with renewables hydroelectric. Last year, for the first time in over 80 years, the electricity for the planet was over 40% from renewables hydroelectric, wind and solar. In the last 3 years we doubled solar power generation. Keep it up!",
+    "topic": "Renewable",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreihl5zljt2v3jzl6yi6446mcivd5qvwxfdklvf22ric6t5edsyomv4",
+    "text": "The Midwest has a future worth fighting for! Please join us at ELPC’s annual gala to support our work to protect the Midwest’s environment from the Great Lakes to the Great Plains. ELPC Gala 2025 Offshore Rooftop - Navy Pier June 6th, 530pm elpc.orgevents2025g...",
+    "topic": "Activism",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreiasrwvvdl7i7b34hsplz6xlls2li2kgu6c66oy6sht4fq75gczgre",
+    "text": "The idea that economic growth is the key to human prosperity is a myth that has been used to justify the exploitation of the environment and the most vulnerable members of society",
+    "topic": "Politics",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreibgcnpdowkvy4hxqhjsgqyz5y3ym2iq34ql66hegjyepzp6azrqxm",
+    "text": "Critics argue that proposals to extend the life of existing coal power plants often neglect this decline in reliability. For instance, modeling conducted by Frontier Economics assumed unrealistic efficiency rates for these aging plants. If more realistic estimates were used, analysts found that",
+    "topic": "Fossil",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreieo3bvhn5pz4fzmnwz4ahjzrle56cro3fq6ng42g6mgrc7rbsjoi4",
+    "text": "Carpool to protests today if you can because this administration could care less about the environment",
+    "topic": "Activism",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifjr6nwpfyomh5v66dtwfiwxxx7oham6l4scolwllhqqmyonxvz4e",
+    "text": "things can always be worse. it is a position of privilege. i realize that and am thankful for that. but \"so depressed i'm barely keeping up with personal hygiene or basic responsibilities\" is never an enjoyment zone. i wish i could say it is purely due to the political climate but it is not",
+    "topic": "Lifestyle",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreibmsyc2cls3u3v3qwrzd5flpk3ql7u6ew7lca7xvp63tnr4amzgg4",
+    "text": "Dr. Patrick Hart was sentenced to 12 months in prison for damaging fuel pumps in a climate protest. A human rights expert called it blatantly disproportionate. The real damage is done by fossil fuel companies every dayyet they walk free. ClimateJustice www.bbc.comnewsarticle...",
+    "topic": "Activism",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifjyqokswfrr5ewfgq2y2dv6xjxivix3s5sdioixarupugwz3otr4",
+    "text": "The Daily Dose via latimes.com As of 2024, California now has more EV charging ports than gas nozzles! In total there are 178,500 EV ports compared to around 120,000 estimated gas nozzles, according to the California Energy Commission.",
+    "topic": "Transportation",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreifw742txptmayzt5hgsi33shz3oojexuvviark3oc25skeslklbom",
+    "text": "Also suddenly wondering how well fume extractors really work, cause you know, leaded solder Especially like the cheapy \"it pulls the smoke through a carbon filter and that's about it\" ones because that's what I have and it probably doesn't do shit...",
+    "topic": "Disaster",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreieeo6eaglbobdzphfr3iiwczibrjad7ws26c3we6oiuomzqkgmep4",
+    "text": "Rhode Island spent the last 2 years studying plastic bottle waste, this week they published their final report! It recommends both a modern Bottle Bill and an Extended Producer Responsibility law. Read the full report here www.rilegislature.govcommissions... rhodeisland bottlebill epr",
+    "topic": "Waste",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreih36kymsvwzz5h3ymj7tkg33pohctevvm2sjmpbwch3k25fwjub3y",
+    "text": "Are they healthy to eat? Or do they just taste good? How does kíllíng them off affect the environment? Is it even worth the economic expense write them out?",
+    "topic": "Agriculture",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreidiklk4b74qmdxaja3ccx2dbut2f5wcgy6524ijlfvedipverza4i",
+    "text": "2m Temperature Anomaly for Jan and Feb 2025. April data become available by the beginning of May.",
+    "topic": "Weather",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreihcmgs6hx7wotvzvzb2prfnprsg7oh74nxio5rtkghczoh4temxsa",
+    "text": "Get expert epoxy flooring installation in Calgary! We deliver top-quality, low-maintenance, and customizable floors for homes and businesses. - concreteinspirations.ca EpoxyFloorCoating Epoxygaragefloor",
+    "topic": "Construction",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  },
+  {
+    "cid": "bafyreibp2dhkovqmwsk2i3cuekuvliqdfo5zm3vzv42rx3p6a3n5cp35wy",
+    "text": "new publication How to square the circle? A conceptual framework synergising strategies for circular agriculture to tackle climate change and enhance overall on-farm sustainability open access link link.springer.comarticle10.1...",
+    "topic": "Agriculture",
+    "mode": "multi_label",
+    "annotation": "",
+    "instruction": "Correct / Partial / Incorrect"
+  }
+]
