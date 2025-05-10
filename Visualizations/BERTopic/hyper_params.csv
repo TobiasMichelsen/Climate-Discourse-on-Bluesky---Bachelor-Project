@@ -1,0 +1,5 @@
+Run,min_cluster_size,min_samples,n_neighbors,n_components,min_dist
+1,1000,300,15,7,0.0
+2,200,50,20,7,0.0
+3,200,50,20,11,0.0
+4,100,25,20,11,0.0
