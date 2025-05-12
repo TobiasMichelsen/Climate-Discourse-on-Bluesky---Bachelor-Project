@@ -13,7 +13,7 @@
       "HATTIESBURG Apr 16 Climate Report High 80 Low 44 Precip 0.0\" Snow 0.0\" at Wed, 16 Apr 2025 220944 0000 via IEMbot Additional Details Here.",
       "ZeroWater 32-Cup Ready-Read 5-Stage Water Filter Pitcher Dispenser for 27.99, reg 45! coupon on page Buy via Amazon"
     ],
-    "annotated_label":"",
+    "annotated_label":"no",
     "source_run":"run1"
   },
   {
@@ -30,7 +30,7 @@
       "The fantasy space as a whole is in an infantile state compared to many adjacent, more mature evaluation processes. Hundreds of millions of dollars are spent in support structures around energy optimization. Borrow from industries that are ahead and you'll never need to worry about keeping pace in FF",
       "Ecological Violence, Financial Violence, Real Estate Violence, Health Care Violence, Employment Violence, Legal Violence perpetrated through the Police and Justice System, Economic Violence, Climate and Environmental Violence, Domestic Violence."
     ],
-    "annotated_label":"",
+    "annotated_label":"yes",
     "source_run":"run1"
   },
   {
@@ -47,7 +47,7 @@
       "ROCKFORD IL Apr 18 Climate Report High 75 Low 54 Precip 0.08\" Snow 0.0\" Snow Depth 0\" at Sat, 19 Apr 2025 063635 0000 via IEMbot Additional Details Here.",
       "PASCO WA Apr 13 Climate Report High 63 Low 28 Precip 0.0\" Snow Missing at Mon, 14 Apr 2025 003441 0000 via IEMbot Additional Details Here."
     ],
-    "annotated_label":"",
+    "annotated_label":"no",
     "source_run":"run1"
   },
   {
@@ -64,7 +64,7 @@
       "Trenger vi elektrisitet? Ja absolutt. Men kan vi erstatte dagens globale forbruk av fossilt karbon med strøm? Nei, alt krever fossilt karbon i hele prosessen råstoffer må utvinnes, fraktes og foredles - maskiner må vedlikeholdes, rivesresirkuleres og erstattes. Det er ikke noe energiskifte",
       "La bioenergia amb captura i emmagatzematge de carboni és una tecnologia que permet la lluita contra el canvi climàtic. La Càtedra URV Fundación Repsol de Transició Energètica i AVEBIOM tracten en un seminari web els desafiaments d'implementar-la. openroom.fundacionrepsol.comeseventos2..."
     ],
-    "annotated_label":"",
+    "annotated_label":"no",
     "source_run":"run1"
   }
 ]
