@@ -1,7 +1,7 @@
 [
   {
-    "topic":"-1",
-    "sample_texts":[
+    "topic": "-1",
+    "sample_texts": [
       "Earth Week deals Justification to shop RT if you’ve ever said It’s sustainable, so it doesn’t count.",
       "So what, it should just be outsourced to the global south? We should burn tons of carbon importing trinkets?",
       "Wales The Welsh government is seeking views on changes to planning laws to make it easier for residents to install air-source heat pumps and to charge electric vehicles. Consultation closes 1 July. www.gov.waleschanges-perm...",
@@ -13,12 +13,12 @@
       "Maybe billionaires will realize they fucked up when their private jets are nosediving into warming oceans, coastal storms rising sea levels because they gutted NOAA the real-time weather data aviation experts rely on to keep planes mid-air, gone! Y’all not making it to those bunkers, baby.",
       "Big news from Homeworld We’ve published over 50 problem statements from proposals submitted to our second Garden Grants program, focused on greenhouse gas removal."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"0",
-    "sample_texts":[
+    "topic": "0",
+    "sample_texts": [
       "I mean, on the electrification and increasing of renewable share of electricity, markets have been doing a lot of good and politics at least nothing bad.",
       "Many people believe Alaska’s long winters and frequent cloud cover make solar energy unfeasible, but the state is actually a great candidate for solar power. environmentamerica.orgalaskacente...",
       "I met with Olly Paish, the designer of the hydro scheme at Cromford Mills, to talk about how hydroelectricity is a stable energy generator that serves our communities for many years due to its long lifespan. By reviewing the regulations around hydro scheme, we make these schemes more accessible.",
@@ -30,12 +30,12 @@
       "We will be sharing information from past and future events periodically here. So If you are interested about what we do, please subscribe to our monthly newsletter www.iges.or.jpennewssubs... ClimateResearch Policymaking Publications Transition Energy",
       "Wind and solar generation overtook coal in the US last year report Utility Dive www.utilitydive.comnewswind-so..."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"1",
-    "sample_texts":[
+    "topic": "1",
+    "sample_texts": [
       "This is a critical moment in the fight for our Earth. The United States’ drastic foreign aid cuts upend climate impact, and the Paris Climate Agreement withdrawal is a sign of more challenges to come. It’s time to answer the call. Give today bit.lyra-earthday2025.",
       "Absolutely. Happens all the time with climate change, economics, and immigration, less openly but happens with topics like healthcare. \"Les technocrates\" were the 80s equivalent to today's \"les wokes.\" As I write this I realize French politics may rely more heavily on dog whistles than Anglo's?",
       "Opinion Will Trump Come for the Climate Movement on Earth Day? After decimating federally funded climate science, the administration is targeting those who take that science and try to turn it into change. www.commondreams.orgopiniontrum...",
@@ -47,12 +47,12 @@
       "\"Prosecutors say the operation was aimed at gathering information to foil lawsuits against the fossil fuel industry over damage communities have faced from climate change.\" www.npr.org20250415n...",
       "Who’s leading the charge? Enbridge 106 meetings Suncor 94 meetings were the most active lobbyists. Watch out as Environmental Defense exposes more of Big Oil’s dirty tricks. It’s time to end their influence and put people planet first. Read the full report here"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"10",
-    "sample_texts":[
+    "topic": "10",
+    "sample_texts": [
       "I don't want more forest fires literally choking my air, but it's just about the only thing that made normal people fucking pay attention that something has changed",
       "Might want to research the Grest Smog event , London 1952 rolling back all clean air protections for crap , cheap energy Trump signs orders to allow coal-fired power plants to remain open - The Guardian",
       "Thicket Road, Bromley. \"London's Cleanest Air\" yesterday. Lovely walk to the park. Gridlock, beeping, angry speeding, arguments, residents yelling, mopeds on pavements, clipped cars. Every one of these fcukers belongs on the main road. No roadworks, diversions, cycle lanes or LTNs to blame either",
@@ -64,12 +64,12 @@
       "The program is on Sunday. When released at the surface eg, from a coal plant, aerosols do cool locally last about a week. However, they are deadly. When released in the stratosphere, they cool regionallyglobally last about a year are generally safe from a health point of view.",
       "My AtmosSci colleagues with a climate focus are in for a rough time - Probably couldn’t fund my thesis work today, cloud microphysics and aerosol interactions are woke now."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"11",
-    "sample_texts":[
+    "topic": "11",
+    "sample_texts": [
       "It has a lands package for Prime Time, which is probably overkill but figured it couldn't hurt to include for now. It's basically Mono Green Devotion from Pioneer meets Wheelers older mono green stompy list. I'm kinda super digging it right now? But it might be a bit slow. Time will tell",
       "The Green Room Awards Association has announced that the 42nd Annual Green Room Awards will take place at Melbourne's Comedy Theatre on Monday 5 May 2025. artsreview.com.auevent-detail...",
       "Feed \"Greener Insights\" By Lee Hill on Monday, April 14, 2025",
@@ -81,12 +81,12 @@
       "Development Sketches Notes - Dancing Green www.patreon.compostsdevelo...",
       "Dammit Philly Get it right ZeroHour AEW AEWDynasty wrestlesky"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "no",
+    "source_run": "run4"
   },
   {
-    "topic":"12",
-    "sample_texts":[
+    "topic": "12",
+    "sample_texts": [
       "Brazil allocates USD 1.9 billion to climate fund politics brazil environmentalism anba.com.brenbrazil-al...",
       "\"From now on, we will be united. Declaring to the that, if it depends on us, the COP in the Amazon will be the symbol of a decisive turn in climate negotiations and mobilizations Indigenous leaders must be represented at the UN climate summits COP29 COP30 COP31 beyond. 350.orgip-at-cop30",
       "Bibles, bullets and beef Amazon cowboy culture at odds with Brazil’s climate goals Amazon rainforest httpswww.europesays.com2003027 Mauro Lúcio Costa rides around his ranch in the city of Tailandia, Pará state. Photograph Pilar Olivares Yellowstone",
@@ -98,12 +98,12 @@
       "The December 2025 deadline is closing in. If the people supplying JBS don’t think it’s achievable and some are still selling deforestation-linked cattle what does that say? Read the full investigation with theguardian.com and reporterbrasil.org.br unearthed.greenpeace.org20250417j...",
       "in4u.orgwater-securi... Brazil takes a major leap towards a HealthierFuture with a 22.7M investment in WaterSecurityInfrastructure! This initiative will expand rural sanitation infrastructure, upgrade water monitoring networks, and benefit 6,000 households. RuralSanitation BrazilInvests"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"13",
-    "sample_texts":[
+    "topic": "13",
+    "sample_texts": [
       "Integrating sustainability facets into the early stages of new product development - a critical review Hunger, Tom Arnold, Marlen Gabriele Engesser, Sven van den Boogaart, K. Gerald",
       "I’m not sticking up for anyone. The Greens pretend they want higher royalties from gas in fact they want to shut it down we get billions from coal wake up. Greens have moved to the centre left with Labor they’re playing you",
       "Welcome green shoots’ warm March weather gives 1.1% lift to UK retail sales Tariffs Trump httpswww.theguardian.combusiness2025apr15welcome-green-shoots-warm-march-weather-gives-11-lift-to-uk-retail-sales",
@@ -115,12 +115,12 @@
       "The Greens have an idea it might not be perfect but it’s an idea that if we truly had politicians who gave a damn about us and not their careers or wealth or future careers then they would work together to fine tune it. Once upon a time the govts of the day provided water gas electricity 1",
       "Ah, look, a green number. That must be good looks up what VIX is Oh. Nevertheless"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"14",
-    "sample_texts":[
+    "topic": "14",
+    "sample_texts": [
       "www.blueskypacks.comstarter-pack... unitedforclimate.blogspot.com202504clim... CLIMATE POLICIES OF 'WORLD LEADERS' Explore the climate policies shaped by leaders like Trump, Putin, Johnson and Trudeau and their impact on environmental efforts.",
       "Trump wants our Northwest Passage too, to control shipping routes as climate change causes more Arctic ice to melt.",
       "I just assumed Trump was going to rape the place for minerals after the ice melts due to global heating, which he's going to make sure happens as fast as possible.",
@@ -132,12 +132,12 @@
       "The minerals found in Greenland are used in laptops, smartphones, weapons, clean energy technology, electric vehicles and elsewhere across the economy.",
       ".. Security Sector Reform Ukraine supports the investigation and prosecution of international crimes committed in Ukraine and that includes environmental crimes. We also aim to build a stronger international resolve to ensure accountability for environmental crimes that can have so devastating .."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"15",
-    "sample_texts":[
+    "topic": "15",
+    "sample_texts": [
       "Minnesota educators MNSG wants to hear from you! Take our 10-mins Educator Needs Assessment to help our education team develop more effective WaterScience programming resources. Plus, it's an opportunity to win one of three 50 gift cards! EduSky z.umn.edumnsg-EduSurv...",
       "What's on in Cork for BiodiversityWeek2025? All events are free to attend, but some need to booked in advance. Don’t miss out book your place early! Find details of these events and more on our events calendar. Choose 'Cork' in the location dropdown menu. biodiversityweek.ieevents-calen...",
       "Strathcona Spring Clean 2025 Neighborhood was out in force. Hats off to the Strathcona Community Council for leading the way.",
@@ -149,12 +149,12 @@
       "Lmaoo im from west oakland. That could have went LEFT fasho.",
       "Managed to drag the kids there a couple of years ago and we found a Green Man there. Lovely place to walk around."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "no",
+    "source_run": "run4"
   },
   {
-    "topic":"16",
-    "sample_texts":[
+    "topic": "16",
+    "sample_texts": [
       "China will now kill the US on EV vehicles Meanwhile Trump is talking about coal",
       "Dear Canada great time to buy solar panels and batteries from China",
       "BYD - China's leading EV maker has recently overtaken Tesla in sales. Central Asian govts are giving tax breaks for a green infrastructure expansion. China is looking to the region to substitute US imports with Chinese exports. China is leading in green initiatives the US is destroying it.",
@@ -166,12 +166,12 @@
       "First Solar Stock What's The Catch? Government httpswww.forbes.comsitesgreatspeculations20250415first-solar-stock-whats-the-catch",
       "GM CAMI Plant Shuts Down InIngersoll Due To Low EV Demand. 500 Jobs Out Of 1200 Are To Be Cut Starting April 14. . autoworkers ingersoll automobile manfacturing ev electricvehicle demand economy jobs ontario tariffs production canadians gm"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"17",
-    "sample_texts":[
+    "topic": "17",
+    "sample_texts": [
       "The ARINFCDO Round Table series began in Arusha, Tanzania, unpacking the report, Assessing the Effectiveness of Climate Adaptation in East Africa. Calls for stronger research-policy links, better finance equity true community inclusion. ClimateAdaptation Effectiveness EA",
       "news.mongabay.com202504palm... environmentaldefenders Cameroon Africa palmoil",
       "24 Tanzania holds trillions of cubic feet of gas, positioning it as one of East Africa’s future energy powerhouses. As it accelerates its gas development strategy, the economic and social benefits are clearfor Tanzania and for forward-thinking investors.",
@@ -183,12 +183,12 @@
       "Not arguing that all is well in the world of energy production consumption. South Africa's rulers still push expansion of coal make it more difficultexpensive to use solar. They have a vested interest in coal. I have a big issue with a broad statements without pinpointing the problem.",
       "The Gambian women showing the way on climate action A new generation of Gambian female educators and activists are fighting for a greener, fairer future. www.dw.comenthe-gambi..."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"18",
-    "sample_texts":[
+    "topic": "18",
+    "sample_texts": [
       "Adding alkalinity to the ocean might enable it to take up more atmospheric CO, but much more research in laboratories, mesocosms, and field studies is needed before considering full-scale deployment. I have some thoughts in this piece.",
       "Problem is, \"sustainable\" fin fish farming and the rapacious need for profits are mutually exclusive. The profits come at the expense of the natural environment. There comes a time when the waters will not be able to support it. Then, the companies will just abandon the pens. Guaranteed.",
       "Climate change and overfishing threaten Vietnam’s ancient tradition of making fish sauce httpswww.europesays.com1998526 Phan Cong Quang makes fish sauce in his home in Nam O fishing village, March 4, 2025, in",
@@ -200,12 +200,12 @@
       "You don't need to worry about atmospheric oxygen we won't run out. However, the decline in the land carbon sink is concerning.",
       "Westpac and CBA accused of greenwashing in 497M loan to salmon farmer Tass... - published 15 Apr 2025 Australia ASX Grafa Sustainability CBA"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"19",
-    "sample_texts":[
+    "topic": "19",
+    "sample_texts": [
       "It can get gross without sheets to change or a way to clean it. Otherwise it hurts nothing.",
       "Good morning, thanks me too, other wise I'll have to consider other methods. And the thought of using hydrogen peroxide in my ears kind of scares me.",
       "i used to use this stuff with 9% 30 vol peroxide and never had any damage issues. just bear in mind that it takes longer to develop and fully lift. I usually check it after 40m but it always maybe an hour. amzn.eud7TsmUK7",
@@ -217,12 +217,12 @@
       "Same here. I just make sure I’m home whenever it’s drying but usually do that overnight. It’s supposed to save energy",
       "That said, when you pre-soak your seeds, you can add 5 tablespoons of 3% hydrogen peroxide, or 12 tsp of citric acid per quart of water to absolutely ensure the seeds are sanitized. Then ensure you use clean water and clean your drip tray daily when you water them."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "no",
+    "source_run": "run4"
   },
   {
-    "topic":"2",
-    "sample_texts":[
+    "topic": "2",
+    "sample_texts": [
       "Climate Change Made Bonkers’ Central Asia Heatwave 10C Hotter httpswww.europesays.com1974033 Our heatwave studies often detect changes of 2 to 4°C, so 10°C is quite frankly bonkers, said Ben",
       "Downpours drench homeless survivors of Myanmar quake www.ecr.co.zanewsnewsdo... ClimateCrisis SeismicActivity Earthquake Tremblor DeathToll Migrants Workers Debris Bangkok Mandalay Myanmar Thailand SoutheastAsia",
       "La Nina exits after three weak months, leaving Earth in neutral climate state World",
@@ -234,12 +234,12 @@
       "Following the Canadian ensemble wsupport from the US and Euro versions SW BC including VI and much of the US coastal PAC NW is forecast to be the driest place in terms of departure from climatology in N America for the week ahead.",
       "The La Niña that never truly was, is over. Here’s what comes nextThe Climate Prediction Center update calls for neutral conditionsneither La Niña nor El Niñofor the coming months. That means different climate patterns www.sfchronicle.comweatherarti... jackjlee.bsky.social sfchronicle.com"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"20",
-    "sample_texts":[
+    "topic": "20",
+    "sample_texts": [
       "FFS make sure it's not rice from California! They reuse waste water from oil drilling for irrigation. The truly stupid part is they've created a regulation that doesn't allow fracking water to be used. Both carry almost the exact same toxins.",
       "I’m out of my depth wrt British energy costs. All I can do is wish you luck and tell you fracking is probably a bad call.",
       "Next comes fracking upstate and coal burning plants. Too many morons in this country for anything better to happen.",
@@ -251,12 +251,12 @@
       "Fracking is never a good idea. Unbelievable. Has she seen the damage and repercussions as a result of fracking?",
       "SANTA BARBARA, Calif. In an action cheered by state environmentalists, the California Coastal Commission has voted to fine a Texas-based oil firm 18 million for failing to obtain necessary permits and reviews in its controversial push to revive oil production off the Gaviota Coast. After"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"21",
-    "sample_texts":[
+    "topic": "21",
+    "sample_texts": [
       "Ron DeSantis Worried Bill Banning Chemtrails And 'Weather Manipulation' Doesn't Go Far Enough www.wonkette.compron-desant... Woman sprays vinegar at the sky to dissipate chemtrails’ YouTube LMAO!",
       "Environmentalists are holding events called \"love fests\" at Florida's state parks. They want lawmakers to prevent developments like pickleball courts and golf courses. www.wusf.orgenvironment...",
       "ProudBlueMomSky Yes! Another Win For Our Environment! Our Protests Worked, thank you Everyone! The Florida house passed the Park Preservation Act No Golf Courses or Pickle ball courts in Our State Parks www.wftv.comnewslocalf...",
@@ -268,12 +268,12 @@
       "Ok yeah I agree after reading again. So is the reporting online. Thats doesn’t mean not following the permit emission. But to be fair some companies will use this to not do any calculations at all and nobody would know they didn’t.",
       "The only bad thing about climate change wiping Florida off the fucking map is that means that all the worlds worst people will have to go somewhere else"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"22",
-    "sample_texts":[
+    "topic": "22",
+    "sample_texts": [
       "tml Something made of wood must have been faster and more environmentally friendy to build?",
       "Do the pins of your window screens look like this? 3D print new handles and heat-set them on! Printed in PETG. Will be interesting to see how well it holds up to the sunlight over time. 3Dprinting",
       "forgot to add the picture here too, how could this happen. anyways, Charcoal walking seriously towards something.",
@@ -285,12 +285,12 @@
       "A University of Cape Town-led project is testing heat-reflective roof paint to cool homes and protect the health of low-income African communities in a warming world.",
       "Oh I’d love to have woodworking skills. There’s a few things I’d like to make for the house a unit for the tv fitting the telly up on the wall, building shelves. Etc. I’m hitting my limit fitting shelving and even then it petrifies me."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "no",
+    "source_run": "run4"
   },
   {
-    "topic":"23",
-    "sample_texts":[
+    "topic": "23",
+    "sample_texts": [
       "Also the 'back on track' thing is a line lifted straight from the Project 2025 handbook",
       "If only there had been a tv news channel host that talked about Project 2025 and Trumps plans nightly. Maybe people could have been warned.",
       "1985 Greenhouse gasses cause the planet to heat up and is detrimental to the earth. 2025 LOL I scorched the earth making an AI barbie doll of myself",
@@ -302,12 +302,12 @@
       "I wonder if the year 2030 limit is in the N64 original that the GameCube version is ported from. Technically it's an epoch, akin to classic Mac OS and Palm OS they too have a year 2030 issue.",
       "\"...by 2100, ninety-seven per cent of the world’s countries are predicted to be below replacement.\" Okay, but several countries by current lines will also be uninhabitable from flooding, desertification, heat, or salt in their crop lands. We'll have less land to put people ON."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"24",
-    "sample_texts":[
+    "topic": "24",
+    "sample_texts": [
       "Improved Air Quality Enhanced ventilation reduces concentrations of harmful pollutants, contributing to healthier living conditions. Thermal Comfort Natural cooling through airflow and shading mitigates extreme heat, making outdoor spaces more comfortable.",
       "actually now that i think about it, i wonder what is more energy-efficient for dehumidification a combo of ACresistive heater or a dedicated closed-loop dehumidifier paired with an AC for offsetting its heat output into the room cause if its the former then oh boy do i have a fun idea",
       "No idea how it got implemented there, but at least here in Chile, you can take the device from the wind shield and leave it at home, or put it on a metal box, or a shielded bag, and the tracking risk is gone in that aspect. In fact, lots of people do that and cover their plates to avoid paying.",
@@ -319,12 +319,12 @@
       "That 4,500 sq ft dehumidifier works pretty well to take moisture out of the air, but laughably I did the math again and realized it's only mean for about 1,000 sq ft. That's just how Chinese business culture works fuck the consumer and bribe to stifle repercussions.",
       "We are excited to announce the launch of Clean Air Library HRM! Clean Air Library lends free air purifiers to community members hosting events. Let us help you make your gatherings safer and more accessible. Go to the link in our bio to learn more or to request a rental. Current pick-up locations"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "no",
+    "source_run": "run4"
   },
   {
-    "topic":"25",
-    "sample_texts":[
+    "topic": "25",
+    "sample_texts": [
       "No, I'm saying Bitcoin's value is determined by stock market bets that commodities will become more expensive in the future, and increasing climate chaos with massive air pollution and destroying freshwater supplies is a sure way to ensure future scarcity. It's why AI dicks are usually crypto, too.",
       "Bhutan profited millions from crypto investments, even paying salaries! Now, they're exploring \"green\" crypto mining using hydropower, aiming to ditch fossil fuels. Could this set a new standard for sustainable digital assets? crypto Bhutan greenmining blockchain news",
       "Is your eye on where the money really is? An insightful article by none other than our beloved Captain Thessalonica Hydroship!!! medium.comthessalonic... bitcoin crypto finance blockchain energy gas LNG carboncredits",
@@ -336,12 +336,12 @@
       "Crypto tanking is one of the only potential positives of the current market collapse. It's all a giant grift, and the environmental toll it takes to \"work\" is far greater than any small positives may accompany it.",
       "I seem to recall reading so.e eye-watering figures about Crypto's energy demands. Should be banned."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"26",
-    "sample_texts":[
+    "topic": "26",
+    "sample_texts": [
       "\"They are killing us... They're increasing the amount of smog that is in our community by 30 to 60%. They're also putting 16.7 tons of formaldehyde into the air with these 35 turbines that they don't have a single permit to use\"justinjpearson.bsky.social unprecedented.ghost.ioarchiveelon...",
       "xAI is using 35 methane gas burning turbines, said Pearson, who is the director of the advocacy group Memphis Community Against Pollution. They have submitted a permit to our Shelby county health department for 15, yet they are using double that amount with no permit.",
       "Musk's xAI polluting air in Memphis with more gas turbines than allowed, advocate says www.cnbc.com20250410e...",
@@ -353,12 +353,12 @@
       "Elon Musk’s xAI in Memphis is illegally running 35 methane-burning turbines, pumping toxic pollution into already suffering communities. This blatant disregard for the law and the health of residentsespecially in Black neighborhoodsis a disgrace and must be stopped immediately.",
       "Aliens coming? Or Elon Msk pollution serious httpswww.ufofeed.com120423aliens-coming-or-elon-m%F0%9F%A4%AEsk-pollution-serious Aliens coming? Or Elon Msk pollution serious by Abject-Point-6236"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"27",
-    "sample_texts":[
+    "topic": "27",
+    "sample_texts": [
       "The trick is to just bar anyone from drivingcycling who wants an Audi full disclosure - I drive an Audi",
       "I saw one in my City today. God they're ugly things. Even though mine is gas, I will take my Chrvy Malibu over it any day.",
       "Diesel fuel is uh not the worst pollutant on a truck but like",
@@ -370,12 +370,12 @@
       "I'm still over here driving diesel trucks and big V8s. I need you to go buy a tesla so I don't have to feel as bad. You can counter act my carbon print.",
       "Last month my wife had the dealership do hers while it was in for maintenance. They goofed and disconnected the battery so they had to drive it around a while before doing the emissions thing. Brilliant!"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"28",
-    "sample_texts":[
+    "topic": "28",
+    "sample_texts": [
       "LKN issues Hydrologic Outlook ESF at Apr 10, 110 AM PDT ...WARMER TEMPERATURES INCREASING SNOWMELT... via IEMbot Additional Details Here.",
       "Lake Wind Advisory issued April 16 at 943PM MDT until April 16 at 1000PM MDT by NWS Glasgow MT Additional Details Here.",
       "OKX cancels Coastal Flood Statement Richmond Staten Is., Southern Nassau, Southwest Suffolk NY and Eastern Essex, Eastern Union, Hudson NJ . at Sat, 12 Apr 2025 172907 0000 via IEMbot Additional Details Here.",
@@ -387,12 +387,12 @@
       "CAE issues Damage Survey PNS Max EF1 at Apr 8, 0225 UTC ...Climate Summary for March 2025... via IEMbot Additional Details Here.",
       "LKN issues Hydrologic Outlook ESF at Apr 7, 107 PM PDT ...WARMER TEMPERATURES INCREASING SNOWMELT... via IEMbot Additional Details Here."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "no",
+    "source_run": "run4"
   },
   {
-    "topic":"29",
-    "sample_texts":[
+    "topic": "29",
+    "sample_texts": [
       "Wondering if the peeps purchased at Easter were made last June, just to have time to produce two billion?",
       "Had a chat about chocolate prices with a MAGA. I explained that chocolate isn't something we can grow because it needs a tropical climate. She didn't believe me, citing all that chocolate coming from Switzerland.",
       "I stocked up on chocolate yesterday. Even without tariffs, chocolate and coffee are doomed because of climate changes affecting both plants.",
@@ -404,12 +404,12 @@
       "Ring-necked Duck Riparian Preserve - Gilbert AZ ------------------ www.scottflahertyphoto.com birds birdsofinstagram duck ringneckedduck wildlife wildlifeofinstagram wildlifephotography wildlifeonearth photography climatechangeisreal climateaction climateactionnow blueesky",
       "From today's DailyNewsDigest \"While UK shoppers pay 50 per cent more for some chocolate products this Easter, farmers living in poverty at the other end of the supply chain are getting little financial benefit at the farm gate.\" the-independent.com www.independent.co.ukclimate-chan..."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"3",
-    "sample_texts":[
+    "topic": "3",
+    "sample_texts": [
       "A new video - what is Sustainability at Cascadia College? youtu.betqKx8eDO7nI?...",
       "EfES thought for today... BigOil produces free resources competitions for schools in the UK. \"Wonderverse\" from Equinor \"Energising Futures\" by BP are promoted by the National Schools Partnership. They downplay the need for radical urgent ClimateAction. Better free materials are available!",
       "From Individual Climate Guilt to Collective Action A podcast conversation with 'Against Purity' author Dr Alexis Shotwell moralfootprint.substack.compfrom-indiv...",
@@ -421,12 +421,12 @@
       "Happy Student Employee Appreciation Week! Thank you Raegan for supporting the team in so many ways and all the best as you finish up your senior year studying environmental earth science sustainability! In the fall she plans to attend law school to focus on environmental law.",
       "Jennifer McKelvie looks to be headed for a win in Ajax. She is a geoscientist who currently chairs Toronto’s Infrastructure and Environment Committee. Before entering civic politics in 2018, she brokered partnerships between industry and academia and environmental research in the non-profit sector."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"30",
-    "sample_texts":[
+    "topic": "30",
+    "sample_texts": [
       "It's amazing how the stench of sulfur emanates from the TV whenever Wormtongue gives these fireside chats from hell.",
       "Came home to a terrible smell in my bedroom with no obvious source. A simple problem, but not something many would recognise Sewer gas. Because I don't use my ensuite, eventually all the water in the traps dried up, creating an open pipe straight from the sewer into the house. Stinky gas go up.",
       "Recreational use of nitrous oxide or whippits is booming, Michigan data in Morbidity and Mortality Weekly Report MMWR showed.",
@@ -438,12 +438,12 @@
       "things I learned today pH that measures acidity or alkalinity stands for potential of Hydrogen",
       "High Empress Nitrous Oxide, ruler of Turmoil Zone. STH SonicOC SonicScorched"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "no",
+    "source_run": "run4"
   },
   {
-    "topic":"31",
-    "sample_texts":[
+    "topic": "31",
+    "sample_texts": [
       "Hay fever seems worse than expected. Does anyone else find this? I think some wind-pollinated species are flowering ealier than normal, adding to the regular ones now, because of the high temperatures. That comes after Hazel flowering late due to weather.",
       "Allergy alert says ash, and I’m like Volcano stuff? That’s weird. And then finally I remember ash is a tree and I’m really smart.",
       "Allergies Hay Fever? Got spring allergies? Doctors share tips for managing your symptoms pollen mold particulates airpollution climatechange www.npr.org20250419n...",
@@ -455,12 +455,12 @@
       "Yes, Climate Change Really is Making Your Hay Fever Worse - TIME",
       "If you think allergy season is bad now, just wait It’s going to get much worse given climate change. bit.ly3XUyAzA"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"32",
-    "sample_texts":[
+    "topic": "32",
+    "sample_texts": [
       "en.wikipedia.orgwikiHoneybee Bee decline is due to climate. A beehive and colony needs water. Agriculture and industry are largely to blame for the decline in viability of honey bee populations. Monocultural green deserts are not the same as natural corridors of biodiversified wilderness...",
       "Stop spraying poison! Seriously folks, the climate change is bad enough - but toxic chemicals, too?! No amount of money, oil or things can replace the role bees play on our planet. More Bees Please!",
       "Coffee Cup Trivia. Bees will fly the farthest to get to which of the following? Pic Nic Chicken Nectar Water Pollen",
@@ -472,12 +472,12 @@
       "Our planet, our future... \"Parasites, loss of habitat, climate change and pesticides threaten to wipe out as much as 70% or more of the nation’s honeybee colonies this year.\" environment ClimateChange nature GlobalWarming life www.nytimes.com20250412b...",
       "Your sip a saved bee! At BeeTastic Beans Teas, every cup you enjoy donates 2 to bee conservation. Taste the buzz, support our planet, and repost to BeeTheChange for a sweeter, more sustainable tomorrow! EcoFriendly bee-tastic.com"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"33",
-    "sample_texts":[
+    "topic": "33",
+    "sample_texts": [
       "An efficient, renewable fuel made from food scraps and other waste products might sound too good to be true. So, why does bio-LNG receive so little attention in discussions about potential alternative fuels for trucks? Read more bit.ly43Qp6cj volvotrucks gaspowered bioLNG sustainability",
       "The only story i Can find re Brookfield aviation fuel. Has to do with them investing in Efuel green fuel maker Infinium in Sept 2024. Investing to have better cleaner air fuel is NOT making a profit off of expensive air fuel at the cost of air travelers. davidwcochrane.bsky.social cdnpoli",
       "I mean, at least I can contribute meaningfully as biofuel. Don't waste your industrial potential - become biofuel today!",
@@ -489,12 +489,12 @@
       "What happened in the third ALFA Capacity Building Seminar? If you missed it, watch the recording and explore the power of biogas in building a more sustainable world www.youtube.comwatch?vbsCg...",
       "HoSt Energy Signs Contracts with Five Bioenegy for Biogas Facilities www.renewableenergymagazine.combiogashost-..."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"34",
-    "sample_texts":[
+    "topic": "34",
+    "sample_texts": [
       "Well, not you, clearly. Your hands are clean in all this. That said, I share your tears. There is so much wrong with what's going, not least of all siphoning off funds for schools, environmental protections, medicare, human dignity, and foreign aid and for what? A better golf course in Florida?",
       "Betting Trump is such a vandal he lets it hit 35, his Golf Clubs are not going to be cheap, CarbonTitanium.",
       "If they put their heads together, couldn't they reshape the game of golf to accommodate the panels? Let's have crazy solar golf.",
@@ -506,12 +506,12 @@
       "Pave it over and make it housing. Golf courses as a whole are a water suck.",
       "Best time ever to put up new coal plants next to the White House and Mar-a-Lago and every golf course, right next to the new toxic waste plants."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"35",
-    "sample_texts":[
+    "topic": "35",
+    "sample_texts": [
       "Review bombing won't work in this climate. It still game me a giggle to fill it out.",
       "Another one. Damn. You online revolutionaries are so cute with your rage and impotence. Yeah. Ignoring genocide and climate collapse. You got me tiger. What happened to you little man? No role models to teach how to think? Is it just blind emotion and hyperbole? Big boy tip for the day. Grow up.",
       "Great initiative. Could really use some of the funny though. Anyone have a link to a standup special or bits that illustrate what genuinely hilarious climate humour looks like?",
@@ -523,12 +523,12 @@
       "It is incredible, in a year where Disney has bent over backwards to pander to bigots, transphobes and the alt-right, stripping trans characters from their properties and deleting environmental subplots, that Russell T. Davies got Disney money to say, Planet of the Incels.",
       "Exciting mail day! Can't wait to read smart people writing about comics in contexts of environmental and political systems of power mbumatay.bsky.social ohiostatepress.bsky.social"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"36",
-    "sample_texts":[
+    "topic": "36",
+    "sample_texts": [
       "Most of the wider gas network beyond a limited spine closes under NZ. The network is expensive and mostly unnecessary for residual need.",
       "Forest owners say taking forestry out of the Emissions Trading Scheme would have widespread implications for New Zealand's climate goals.",
       "NZ Green Party nzpol We are building a future where we do more, faster, to protect our planet and make sure everyone is treated equally. more newsweather bots",
@@ -540,12 +540,12 @@
       "New Zealand’s gross emissions fell by 2% between 2022 and 2023, marking the fourth consecutive year-on-year decrease. As in 2022, strong hydro genera...",
       "Totally misleading headline... Nations need to good green faster... insidegovernment.co.nzstudy-finds-..."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"37",
-    "sample_texts":[
+    "topic": "37",
+    "sample_texts": [
       "It's also a reminder that these morons all have central planner brain If it is true that El Salvador has easy access to geothermal energy the state should build that infrastructure and then provide cheep electricity to private industry to use to develop El Salvadors economy",
       "Apparently, Nayib Bukele is in the process of selling El Salvador to Xi Jinping, but no one is reporting on that, or Bukele’s climate destroying cryptocurrency mining schemes. Wikipedia",
       "They have money for Concentration Camps but not for school lunches.",
@@ -557,12 +557,12 @@
       "aoc.bsky.social Go! Please get the prisoners out of San Salvador for proper vetting. We are in nightmare. At 90, can only write GOTV postcards and hope Social Security continues. It’s time to remember the Statue of Liberty and act accordingly. Climate change must be faced by US too. Thank you.",
       "youtube.comwatch?vXVf... CAN anyone say \" Auschuwitz Concentration Camp\" ????? He and his entire cabinet must be removed now, this gas gone too far and at some point, it may be unstoppable. And what will you tell your kids, your grandkids when they ask why was this allowed to happen?"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"38",
-    "sample_texts":[
+    "topic": "38",
+    "sample_texts": [
       "Agreed!! Not that there isn't depressionmental illness that's primarily caused by biological issues that need to be addressed w medication.. But, there is a LOT of depression that is situational environmental. Which is why therapy works why removing stressors helps as well.",
       "this also isnt something i can exactly heal yet because the trauma causing the behaviour is being inflicted actively and on a daily basis, and is beyond my capacity to engage with consciously. im not in a position to leave the environment in question either. i gotta say it creates quite a conundrum",
       "Thinking about how the cycle of life is like Do nothing depression do things overwhelmed meltdowns do nothing repeat",
@@ -574,12 +574,12 @@
       "It also helps to know, if your anxiety stems from your environment example, toxic work environment then nothing is wrong with you. You're supposed to feel anxious when \"monsters\" I.e., unreasonable boss are near.",
       "part of growing in my relationship with my chronic illness and disability is realizing i can’t do research the same way i was doin before.. that switch up is a lot not that the current climate would allow for either way"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "no",
+    "source_run": "run4"
   },
   {
-    "topic":"39",
-    "sample_texts":[
+    "topic": "39",
+    "sample_texts": [
       "The discussion will also explore EarthPercent’s Sounds Right campaign to harness the power of music to support environmental causes. This QA will be recorded.",
       "ngl fellas between the climate and my shop opening being denied the art motivation is at an all-time low, I think next comm opening may be awhile after I open YCH in a few days",
       "My artwork featured in last week’s Earth Pathways diary page. I went swimming in this spot last week.",
@@ -591,12 +591,12 @@
       "More art at ESCMIDGlobal Art Gallery Climate Change Infection www.escmid.orgcongress-eve...",
       "In January a colleague and I tried out something we called a climate cafe listening and music circle, using musical instruments to express feelings about the climate ecological crisis. It went so well we’re doing it again on 3 May. If you’re in or around Oxford UK do join meetu.pseNRsbbH43G..."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"4",
-    "sample_texts":[
+    "topic": "4",
+    "sample_texts": [
       "The fact that he calls it an epidemic tells you right from the off this isn't rooted in evidence. He also doesn't recognize that there could be causes that aren't environmental. He's giving away his predetermined conclusion.",
       "Zeldin tours the U.S. to promote EPA partnerships as deep cuts loom - The Daily Climate www.dailyclimate.orgzeldin-tours...",
       "Ha ha ha, you’re so funny Dotard and President Musk cancelled medical research and flooded the U.S. with more chemicals by lifting pollution caps on coal processors, repealed 1970s Clean Water Act, lifted bans on hundreds of forever chemicals in our food, clothing, cookware, packaging.",
@@ -608,12 +608,12 @@
       "Just one of the reasons we need a functioning government back. Also notice the greenwashing. \"Among those found to contain the toxins were Crest, Sensodyne, Tom’s of Maine, Dr Bronner’s, Davids, Dr Jen and others.\" www.theguardian.comus-news2025...",
       "It's the entry point to more bullshit, but it's dangerous in its own. Ever had a family member start suggesting essential oils to grandpa instead of medication for heart conditions and then go in on homeopathy and antivax and climate denialism, and that was all well before Trump entered politics?"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"40",
-    "sample_texts":[
+    "topic": "40",
+    "sample_texts": [
       "Is ESG investing really dead? This week on the pod, Georgia Hall helps separate the signal from the noise, explaining why the US won't see a coal boom and why a bit of turbulance in ESG markets may not be a bad thing. www.terrainfirma.co.ukis-esg-reall...",
       "Thematic investing A winwin for private equity and the planet ESG investing is focused on input, whereas impact investing is centered on output www.mckinsey.comindustriesp...",
       "But the sector also faces major transitions Sustainability ESG compliance SME consolidation Digital innovation. 23",
@@ -625,12 +625,12 @@
       "With EFL 1 seen as an objective for ytfc , the GCQs are - How long to sustainability ? Cautious or a gamble ?",
       "Want to improve ESG performance and cut costs in your APAC industrial operations? This webinar with Stephanie Krishnan from IDC reveals how having a solid data infrastructure across the value chain can help. Learn about KPIs, data integration, and real-world examples. Watch here bit.ly4iu3Tcw"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"41",
-    "sample_texts":[
+    "topic": "41",
+    "sample_texts": [
       "Threat-salience. Politically, nothing can be done about Gaza, about climate change, about human rights anywhere until the MAGa regime is beaten. The stakes are global and local, life and death and people can't focus on much else. Yet goddamit I'm crushed by Gaza. Every damn day. It's unspeakable.",
       "Over a year of constant bombing and still no concern what damage all these bombs are doing to the earth let alone the poor people of Gaza. The life systems of our planet could be seriously jeopardised by humankind’s destructive power. The environmental impact of relentless bombing goes beyond Gaza.",
       "Gita retweeting Palestinian gofundmes as genocide carbon offsets because you don't like boycotts. like. Boycotts are proven and effective. I'm sorry that it's inconvenient for you.",
@@ -642,12 +642,12 @@
       "\"The ruling class’s desire to preserve a liberal democratic society that is free from ecological breakdown extends only to a future reserved for themselvesan ever-decreasing minority of multi-millionaires and billionaires. Meanwhile..Gaza is a sign of what is to come\" mondoweiss.net202411pale...",
       "We stopped the Palestinian genocide, we stopped climate apocalypse, we stopped all those bad things and more, because we read the article about the protest, maybe we even walked around on the weekend ourselves We did it folks, let’s not let it all fall apart in the discourse"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"42",
-    "sample_texts":[
+    "topic": "42",
+    "sample_texts": [
       "This definitely isn’t the best time to be transitioning, but earlier today I was overcome by an enormous gratitude that I get to transition at all. I think that’s the energy we’re carrying forward",
       "When you refused to put a fully staffed transition team in place immediately following the election, you don't get to claim \"transition problems\" as an excuse for anything, dumbass.",
       "\"Jackass in Chief concedes 'transition problems' as markets plunge\"",
@@ -659,12 +659,12 @@
       "Trump \"There will be a transition cost and transition problems.\"",
       "svelte's been really good when I've been using it, the 4-5 transition was ROUGH but that's not a problem for you"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"43",
-    "sample_texts":[
+    "topic": "43",
+    "sample_texts": [
       "Oh nice, combined with the fact that rising temps deplete the nutritional values of rice something that our former Dept of Ag was studying -- impacts of climate change upon crops this will be devastating to hundreds of millions of people.",
       "As I recall, Mao ordered the mass slaughter of starlings that were eating the grain. But they were also eating the insects and this caused an environmental disaster far worse than the loss of grain to starlings. So maybe not this poster. No.",
       "Heavy metal, the wrong kind, gets into rice under climate change. Sadly, not music to my ears. Also note that this study is using compound effects, and increasingly we should pay attention to these factors",
@@ -676,12 +676,12 @@
       "Half the World’s People Depend on Rice. New Research Says Climate Change Will Make it Toxic insideclimatenews.orgnews1604202... ClimateChange Rice GlobalWarming CarbonDioxide Arsenic ClimateScience CO2 HealthRisks",
       "Methane-emissions from paddy-based rice production is a major contributor to climate change from cropping globally. Work is under way to make this important plant agriculture and food component more sustainable plantscience climatechange www.abc.net.aunews1050760..."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"44",
-    "sample_texts":[
+    "topic": "44",
+    "sample_texts": [
       "Geoengineering could fight climate changeif scientists can get the public on their side Science AAAS www.science.orgcontentarti...",
       "Interesting how scientists from 170 countries met today talking about the catastrophic effects the geoengineering and SRM programs are having on the world's weather. Both are now human right violations around the world, but will America follow, too much money to be made!",
       "For crying out loud, we are now calling geoengineering climate repair. As has been explained over and over and over again, geoengineering will never be a meaningful climate solution because the only way to stop greenhouse gas caused warming is to stop emitting greenhouse gases. 1n",
@@ -693,12 +693,12 @@
       "Because of the many risks of solar geoengineering, we urgently need an International Non-Use Agreement on Solar Geoengineering, which is supported by 550 academics and 2000 civil society organizations. More information at www.solargeoeng.org.",
       "As I wrote last year, solar geoengineering without international consensus on the guardrails and guidelines is a very dangerous prospect gift link www.bloomberg.comopinionarti..."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"45",
-    "sample_texts":[
+    "topic": "45",
+    "sample_texts": [
       "It's appalling if estates were still deliberately heather burning during a nationwide high fire risk, not only putting lives and livelihoods in near by settlements in danger but also destroying wildlife, releasing carbon putting a burden on the fire service and tax payers for a sport of privilege",
       "Reminder If you're interested in the resilience of UK peatlands to future climatic and land-use changes - please make sure you buy a ticket and attend our workshop on the 6th May in London or online. More information can be found in the link below. We look forward to seeing you there!",
       "I suppose all these problems are pronounced using the traditional model in peatland forestry. Wetland trenching affects water quality directly, on top of the clear-cutting practice. bsky.appprofileaarn...",
@@ -710,12 +710,12 @@
       "what happens at the lowest point of the UK? peat soil disappears farmland food ecology",
       "An interesting read as we consider the role of ditches in managing water levels, especially in lowland agricultural peatlands to reduce degradation and carbon emissions."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"46",
-    "sample_texts":[
+    "topic": "46",
+    "sample_texts": [
       "I’m like 5 hours in or so and it seems like the RNG complaint is more of, sometimes it’s difficult to tell if RNG is the issue or I’m missing something which seems like a difficult design to fix without spoiling the experience.",
       "so i'm a couple hours into playing Blue Prince and I know this is going to be a solid meta-puzzler because i just glanced at a seemingly unremarkable detail in the environment, did a double take, and said \"mother FUCKER\" out loud",
       "AWESOME BLUE GUY SO COOL SO BLUE SO AWESOME oh and c00lkid too i guess",
@@ -727,12 +727,12 @@
       "My first program was in matlab! It was a \"Yes\"\"No\" app with RNG on the back-end, so you'd \"ask\" a question and depending on the RNG output you'd get a \"yes\"\"no\".",
       "I feel like the biggest tip is the incredibly mild spoiler that if you feel like you’re constantly getting cucked by RNG, just hang on with the fruitless feeling exploration for long enough because you will get RNG-mitigating upgrades."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "no",
+    "source_run": "run4"
   },
   {
-    "topic":"47",
-    "sample_texts":[
+    "topic": "47",
+    "sample_texts": [
       "Feed \"National Zero\" By Spartan on Wednesday, April 16, 2025",
       "Feed \"RenewEconomy\" By Matt Pollard AM Jonson on Tuesday, April 8, 2025",
       "Feed \"RenewEconomy\" By Royce Kurmelovs on Monday, April 7, 2025",
@@ -744,12 +744,12 @@
       "Lana Del Rey Queen of the Gas Station Song Concept Art, Digital, July 2023",
       "Feed \"RenewEconomy\" By Sophie Vorrath Giles Parkinson on Tuesday, April 8, 2025"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "no",
+    "source_run": "run4"
   },
   {
-    "topic":"48",
-    "sample_texts":[
+    "topic": "48",
+    "sample_texts": [
       "Looking for U.S. residency? The US green card by investment is a proven option that combines capital growth with immigration benefits under the EB-5 program. Know more at www.eb-5choice.comus-green-car... uspermanentresidencythroughinvestment uspermanentresidency usgreencardbyinvestment",
       "Private Jetfantino. The man who once held a green card for the planet.",
       "They will use this ruling to deport anyone they determine is undesirable. Nuance is never part of their equation. They just look for green lights wherever they may find them.",
@@ -761,12 +761,12 @@
       "For 15 of that a business plan, you can get an EB-5 permanent green card for the whole family.",
       "If green card protections mean nothing, every promise made by the U.S. government is now in question. If this can happen to a green card holder today, it can happen to a citizen tomorrow. This is not a left vs. right issue. It’s a rule-of-law vs. rule-by-fear issue."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "no",
+    "source_run": "run4"
   },
   {
-    "topic":"5",
-    "sample_texts":[
+    "topic": "5",
+    "sample_texts": [
       "EU’s carbon pricing scheme lowers emissions to 50% of 2005 levels httpswww.byteseu.com901738 Key takeaways The EU’s cap-and-trade scheme the Emissions Trading System ETS released data showing that participating sectors have reduced emission to 50 percent of 2005 levels. The",
       "more robust decision-making support on both circularity and sustainability performance. By demonstrating the application in three real-world MMC products, the proposed framework offers a novel approach to simultaneously assess the circularity and 45 of httpsarxiv.orgabs2504.07850v1",
       "Sustainable Investment Forum Europe 2025 -Carbon Tracker Initiative Sustainable More info from EcoSearch",
@@ -778,12 +778,12 @@
       "Right now, it’s the wolf, but what’s next? The EU has long led the world in environmental protection. Today, this legacy is under threat from political forces. We can't let this happen. Keep your HandsOffNature.",
       "We’re getting ready for the ALE4TT Training in Brussels meeting people interested in twintransition! We will be using the LEVERs insights to build national advocacy plans. We explained today how this will be used and gave an overview of the project. LEVERS climate"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"6",
-    "sample_texts":[
+    "topic": "6",
+    "sample_texts": [
       "Buying more TrumpGas is a climate disaster. More fracking, more methane leaks, more money for Trump. Call on European leaders to break free from TrumpGas and double down on a fair, green and secure future. Sign the petition now! act.350.orgsigneurope-...",
       "The only energy emergency’ the American people face is Trump’s efforts to disregard clean air and water safeguards in order to rush through dirty, dangerous fossil fuel projects.\"",
       "That’s a really hard choice. Isn’t AT also a proven liar energy price rises in their last term ? And I thought with regards to his treasury portfolio also quite out of his depth ??",
@@ -795,12 +795,12 @@
       "The oil men were happy to back Trump when he promised to remove restrictions on pollution and curb renewable energy. They missed the part about wanting lower oil prices. And the ignorant incompetence.",
       "They must be looking at a potential recession forcing energy prices to new lows and thinking \"aren't we supposed to be controlling this idiot?\""
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"7",
-    "sample_texts":[
+    "topic": "7",
+    "sample_texts": [
       "American supporter here, not untrue at all, but only the one's that don't see it as the tool that it is and environmental destroyer should add",
       "VOTE! Ensure a liveable planet for your children and grandchildren.",
       "I'll never understand how anyone took seriously a guy who believes planet earth is doomed so we must spend our resources preparing to move to a planet already inhospitable to life.",
@@ -812,12 +812,12 @@
       "What a waste and also mega pollution. I'm so sick of the nazis running things.",
       "All the techbros saying we can just move to Mars. There isn't a magnetosphere there to protect against the solar wind"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"8",
-    "sample_texts":[
+    "topic": "8",
+    "sample_texts": [
       "This would actually be good. Many of the LDs ideas are quite proper, used-to-be-mainstream ideas of the Tories and Labour Rejoining EU, supporting services, caring for the environment, etc.",
       "Not a million miles away from climate change protestors being in prison while millionaire landowners can block ambulances with impunity. Labour keep making me facepalm",
       "Energy. Scotland has a tremendous capacity for renewable energy of various sorts. The state can decide the scope and scale of what it owns and can invest in RD and infrastructure which supports energy production and distribution. Its then able to regulate costs to homes and business attracting FDI",
@@ -829,12 +829,12 @@
       "Also nationalise water. Government can't wait for 3 fiscal years and 9 moon changes and 13 rotations of my black ass. Nationalise gas electric and water. The dividends getting siphoned from water company could create an immediate safe zone for the UK economy. Then gas and electric will kick in.",
       "Also, I am done with this particular incarnation of the Labour Party. I don't know any sane person who voted for this mess after the hateful 14 years we had under Tory austerity. They are worse on environment and climate change than the Tories!"
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   },
   {
-    "topic":"9",
-    "sample_texts":[
+    "topic": "9",
+    "sample_texts": [
       "S.1325 - Amend the Internal Revenue Code of 1986 to impose a fee on certain products imported into the United States based on the pollution intensity associated with the production of such products, a... Sen. Cassidy, Bill R-LA httpswww.congress.govbill119th-congresssenate-bill1325",
       "when the climate change fueled floodfiremudslidetidal surge hits your house, you may qualify for a tax credit! sounds lame and doomed, actually better tack on 'bipartisan' - working with the people content to watch the Constitution shredded there ya go! pat yourself on the back",
       "I’m no deficit hawk myself but Republican bad faith BS over the deficit now enjoys trifecta control of the federal government. Attempting political defense of every inch of the IRA may well fail, yielding worse carbon outcomes than giving moderate GOP reps ideasframeworks to keep more of credits.",
@@ -846,7 +846,7 @@
       "The administration is considering support for the end of a program that helps low-income people heat cool their homes. Draft budget request document calls for the elimination of Low Income Home Energy Assistance Program LIHEAP by not providing it any funding at all. thehill.compolicyenerg...",
       "IBEW Members Advocate in Congress! IBEW members are advocating for our jobs, safety, and retirement security! Top on the list preservation of IRA tax credits tied to prevailing wages ensuring fair compensation and robust training while driving local job growth in renewable energy sectors."
     ],
-    "annotated_label":"",
-    "source_run":"run4"
+    "annotated_label": "yes",
+    "source_run": "run4"
   }
 ]

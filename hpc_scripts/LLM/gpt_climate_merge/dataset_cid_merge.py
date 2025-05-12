@@ -33,7 +33,7 @@ print(f"after keep > .99:\n{df_climate.shape}",flush=True)
 
 #merge datasets
 print(f"{datetime.now()} merging..",flush=True)
-df_join_topic = pd.merge(df_final,df_climate,on="cid",how="left",flush=True)
+df_join_topic = pd.merge(df_final,df_climate,on="cid",how="left")
 print(f"after merge full:\n{df_join_topic.shape}",flush=True)
 df_join_gpt =  pd.merge(df_final,df_climate,on="cid",how="left")
 print(f"after merge gpt:\n{df_join_gpt.shape}",flush=True)
