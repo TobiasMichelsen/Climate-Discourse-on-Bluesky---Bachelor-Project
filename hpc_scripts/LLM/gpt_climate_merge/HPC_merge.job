@@ -1,0 +1,26 @@
+#!/bin/bash
+
+#SBATCH --job-name=BERT_viz        	# Job name
+#SBATCH --output=BERT_viz.%j.out    	# Name of output file (%j expands to jobId)
+#SBATCH --error=BERT_viz.%j.err     	# Error file
+#SBATCH --cpus-per-task=4        	# Schedule four cores
+#SBATCH --mem=32G
+#SBATCH --gres=gpu
+#SBATCH --time=18:00:00          	# Run time (hh:mm:ss)
+#SBATCH --partition=acltr  		# Run on any cores queue
+#SBATCH --mail-type=FAIL          	# Send an email when the job finishes
+
+#Load CUDA
+module load CUDA/12.1.1
+
+# Load python
+module load Python/3.12.3-GCCcore-13.3.0
+python --version
+# Print out the hostname of the node the job is running on
+hostname
+
+#activate venv
+source ../../../../envs/BERTopic_env/bin/activate
+
+# Run scripts
+python best_model_run4_vis.py
