@@ -1,0 +1,5 @@
+Run,Total Entries,Total Clusters,Noise Cluster Size,Removed Entries,% Removed
+Run1,228275,4,24264,0,0.0
+Run2,182145,114,95358,36664,19.56
+Run3,140161,50,69703,48435,25.84
+Run4,69703,50,49948,118772,63.37

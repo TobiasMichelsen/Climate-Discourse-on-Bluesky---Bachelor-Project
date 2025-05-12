@@ -1,0 +1,90 @@
+[
+  {
+    "Topic": -1,
+    "Count": 24264,
+    "Name": "-1_apr_snow_00_precip",
+    "Representation": [
+      "apr",
+      "snow",
+      "00",
+      "precip",
+      "low",
+      "high",
+      "2025",
+      "climate",
+      "at",
+      "0000"
+    ],
+    "Representative_Docs": [
+      "LANSING Apr 9 Climate Report High 46 Low 24 Precip 0.12\" Snow Missing Snow Depth 0\" at Thu, 10 Apr 2025 052410 0000 via IEMbot Additional Details Here.",
+      "CHILDRESS Apr 17 Climate Report High 96 Low 66 Precip 0.0\" Snow 0.0\" Snow Depth 0\" at Fri, 18 Apr 2025 063347 0000 via IEMbot Additional Details Here.",
+      "MISSOULA MT Apr 17 Climate Report High 50 Low 29 Precip 0.0\" Snow 0.0\" Snow Depth 0\" at Fri, 18 Apr 2025 073945 0000 via IEMbot Additional Details Here."
+    ]
+  },
+  {
+    "Topic": 0,
+    "Count": 182145,
+    "Name": "0_the_to_and_of",
+    "Representation": [
+      "the",
+      "to",
+      "and",
+      "of",
+      "in",
+      "is",
+      "for",
+      "that",
+      "on",
+      "it"
+    ],
+    "Representative_Docs": [
+      "Our government takes great pains to prevent actions to mitigate the damages climate is causing. This is why we are facing dire conditions. Greed. Pure and simple. We will not get any help from them. So we must do what we have to survive. We have to look ahead and see where all this is leading.",
+      "As much as I have benefited of the tar sands in the construction of , in the maintenance of and pipe line here\u2019s some information it 4 barrels of water to produce 1 barrel of oil to extract the oil the oil all the water comes from the Athabasca river all the plants run on natural gas.",
+      "It's good to see California doing the E-Bike incentive program again, we need all of the US to do the same, just as Canada should as well, sure Gas is cheaper now in Canada but we still need to get more E-Bikes on our roads or Pathways !!"
+    ]
+  },
+  {
+    "Topic": 1,
+    "Count": 20453,
+    "Name": "1_snow_apr_00_precip",
+    "Representation": [
+      "snow",
+      "apr",
+      "00",
+      "precip",
+      "low",
+      "high",
+      "climate",
+      "link",
+      "missing",
+      "depth"
+    ],
+    "Representative_Docs": [
+      "DE QUEEN Apr 16 Climate Report High 79 Low 42 Precip 0.0\" Snow 0.0\" Snow Depth 0\" at Thu, 17 Apr 2025 074843 0000 via IEMbot Additional Details Here.",
+      "POCATELLO Apr 17 Climate Report High 55 Low 33 Precip 0.14\" Snow 0.7\" Snow Depth 0\" at Fri, 18 Apr 2025 073120 0000 via IEMbot Additional Details Here.",
+      "BANGOR ME Apr 16 Climate Report High 50 Low 39 Precip Trace Snow 0.0\" Snow Depth 0\" at Thu, 17 Apr 2025 054823 0000 via IEMbot Additional Details Here."
+    ]
+  },
+  {
+    "Topic": 2,
+    "Count": 1413,
+    "Name": "2_de_la_en_le",
+    "Representation": [
+      "de",
+      "la",
+      "en",
+      "le",
+      "que",
+      "les",
+      "es",
+      "et",
+      "el",
+      "des"
+    ],
+    "Representative_Docs": [
+      "Vamos directos al desastre. No acabo de ver claro la cifra que da de aumento de la demanda por la IA yo dir\u00eda que es global pero de lo que no hay duda es que no se cumplir\u00e1n ninguno de los objetivos, ni el de 2030 ni el de 2050.",
+      "L\u2019objectif vis\u00e9 \u00e9tait de leur faire \u00e9tat de la mission et de l\u2019implication de la Croix-Rouge canadienne CRC en mati\u00e8re de sant\u00e9 humaine et de changements climatiques.",
+      "De nuevo con el clima. En este momento, la temperatura en Sartenejas es de 20\u00b0C, la condici\u00f3n es Nublado . Que viva la universidad!"
+    ]
+  }
+]
