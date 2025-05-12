@@ -86,8 +86,6 @@ topic_model = BERTopic(
 )
 print(f"{datetime.datetime.now()} inherence with the model..")
 topics, _ = topic_model.fit_transform(texts_to_embed, embeddings)
-topic_model.reduce_topics(texts_to_embed, nr_topics=nr_topics)
-topics = topic_model.transform(texts_to_embed, embeddings=embeddings)[0]
 topic_info = topic_model.get_topic_info()
 
 df_result = pd.DataFrame({
