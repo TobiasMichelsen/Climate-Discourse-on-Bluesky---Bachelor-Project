@@ -1,0 +1,1523 @@
+[
+  {
+    "cid":"bafyreickr7tmwayqndtntndfa5segmcenw2y2u5zrmi32s4lopaedsiza4",
+    "text":"httpswww.theguardian.comenvironment2025apr14climate-crisis-has-tripled-length-of-deadly-ocean-heatwaves-study-finds httpswww.pnas.orgdoiabs10.1073pnas.2413505122 abstract only.",
+    "topic":17,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiays5abdxd7c7fhtepisdmyy4bl3e2bcydw3sedmfrfnimtpchvny",
+    "text":"Australian voters are left in the dark on climate targets as they head to the ballot box Tony Wood There has been little talk about how Australia’s economy will get to net zero. That’s a terrible reflection on the state of our politics The Coalition has been forced to reassert its comm...",
+    "topic":1,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreif7lcppnwpnrzzsadqkgmvi2rlarkfgaefvhfgzcggtl725o3ofqy",
+    "text":"MUTUALS! For the honoured case of warming ups! I humbly offer you these portrait sketch slots! Please have in mind that I'm a sucker for crazy stylizations and your character might fall a victim to one of such! leave your ocs in comments please and lasciate ogni speranza",
+    "topic":1011,
+    "assigned_label":"Nature",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihybw3gm7fs5angvbx5whe4gtgvno7nn4amgjacdn2mhet77ndrde",
+    "text":"Climate change, seasonal weather factor into increased wildfire risk in Travis County The Daily Texan httpswww.europesays.com1982573 Warmer episodes of dry air, severe drought conditions and short-term weather fluctuations cause an increased number of red",
+    "topic":22,
+    "assigned_label":"Disaster",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigy3xxhvsxka6s3av3bwqyl5qyewgt6c235inrhbrtxn3nkye5dje",
+    "text":"Ban the things. Not just incredibly toxic, but unsustainable at this rate. Some people have been helping themselves to wood from woodlands too. There are better ways to keep warm.",
+    "topic":22,
+    "assigned_label":"Disaster",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiamui3rbrfuiv66ej6dftl66r6zysn5sk66t4myhwkbffdiv5g3vq",
+    "text":"the nice thing about being one of the only true greenbelt cities is that theres a pretty natural geographical limit",
+    "topic":24,
+    "assigned_label":"Construction",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreib63rhu23xyajxi2v6z54hidftftggnybxlkqi7zohxidxdltmxfm",
+    "text":"\"The psychologist Jordan Peterson has turned his hand to exposing new audiences to old arguments from climate change deniers\" 2023 www.theguardian.comenvironment...",
+    "topic":1001,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreif3iuy5hadi6tp2pwhammwt5pa3mwrh2j76qzie52yhshjr4p47im",
+    "text":"Please join me in learning more about recycled food - and how it can reduce climate change.",
+    "topic":12,
+    "assigned_label":"Agriculture",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreify664zivzth6fynfnq7nwyt4orhdysj3nrvxkoqouta7drpef7pu",
+    "text":"Great Spa Towns of Europe France, Belgium UK Network of historic spa town across Europe that aims to develop climate adaptation strategies integrating traditional knowledge and modern climate policy. greatspatowns.bsky.social HeritageAdapts ClimateHeritage",
+    "topic":17,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreieue4ipot4qqbshd6sygvql6w4ii2x4ygpe4brin6ihpexzvvz3va",
+    "text":"the political climate is scary and sucks but i don’t feel demotivated or burnt out by it? maybe it’s privilege but i think it’s also this feeling of, like, whatever happens, i wanna do what i can to help. Things can bad but it’s not making me feel despair, it’s making me feelcreative? focused?",
+    "topic":1038,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigt3m6pcldbeutnoids2ximerfjrgsikcbdnqumsnbjelgosqrhci",
+    "text":"The EB5Visa lets you and your family gain U.S. permanent residency by investment. Invest in approved projects, create jobs, and unlock your American dream. Know more at www.eb-5choice.comus-green-car... PermanentResidency USImmigration USpermanentresidencybyinvestment",
+    "topic":1048,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidq6jeqs7kxisb52hbhucdcnzeli2adcatjtmqgwgu6cfwjywukjq",
+    "text":"Think they are doing both - water going bust and green taking over energy",
+    "topic":1013,
+    "assigned_label":"Renewable",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreifba6bwdxktg67o5tkghj7xl37me6hez7ghvwnhhoo6b7kyc23szm",
+    "text":"Ronald Reagan's EPA invented cap trade as a way to use markets to cost-effectively reduce pollution via the Montreal Protocol to close the ozone hole. GHW Bush added to it with the acid rain trading program. Why does Trump hate Republican ideas? thehill.compolicyenerg...",
+    "topic":1006,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiczfbxrpoykcihamdyawyfylrfn4qhfzc3bo5b2hj65zwcdmuf34a",
+    "text":"Hemp and solar panel garden structures on roofs of co op apartments? Count me in.",
+    "topic":8,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreietnry4y6t5dcqk5edi6mongchsnspyuk6zungzn4oi5ivugqrbme",
+    "text":"We need to stop this massive ships fishing with massive nets, they are destroying the oceans and seas. We just need to small fisher man boats doing their job as in the past. Most of the food goes to waste. This is totally unsustainable. Things need a big change.",
+    "topic":1018,
+    "assigned_label":"Nature",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreialy6hniv4v6brlklehbxf3uspkzefalnvppdqx6hfx3aqizlu7g4",
+    "text":"Wildfire season has begun in BritishColumbia, but it's never too late to add RainwaterHarvesting to your home. Here, we see the RainCollection potential for Kelowna, which can be used to enhance soil moisture fight fires. Get water solutions now 5thworld.comcontact",
+    "topic":22,
+    "assigned_label":"Disaster",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiexcyzxbeufpkfsqfjnt75edpllhjz3zcvi5psfhtey7jdsplt2n4",
+    "text":"Ironically, they would need them if they weren’t selling so many EV’s and heat pumps. Electrification is good thing, even when it means temporarily more coal",
+    "topic":5,
+    "assigned_label":"Transportation",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiggimofftthm6ef57e5rvdws3fffs2wg6jic2ifpbl6rcgc6bfrfe",
+    "text":"I don’t know why that chair is even there there is no way it’ll fit Also the pants having a tail loop but the butt being too big for it to be pulled up all the way, too fat for a clearly massive pair of pants? Ah, we love a narrative, environmental storytelling",
+    "topic":29,
+    "assigned_label":"Lifestyle",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreifndu3lhzi3yv4q33sfeywwspzhhcx6omiic6a2qe4bgyrdcxd2ta",
+    "text":"As a customer, while giving you a lecture on the environmental costs of wasting that much wool over your entitled butt.",
+    "topic":29,
+    "assigned_label":"Lifestyle",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreia2alwgqs3jrfsyme7sta7jr6x356fvm5op7lispj5djvtq4s5yt4",
+    "text":"It's honestly kind of insane that Europe and UK after Brexit decided to just... not do much of anything about foreign subsidies to steelmaking while also taxing our steel industry with CO2 certificates? It's not really surprising that this is the outcome then.",
+    "topic":27,
+    "assigned_label":"Renewable",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigowrokhoxfh5wpezzkqs7pyt7cyf6kmvk5anekwjr7vwwv26vfxu",
+    "text":"I've got one that can see! \"I drive by a Tesla dealership and see a bunch of coal rollers with MAGA flags, I go the other way - I don’t turn in and buy a car\"",
+    "topic":1027,
+    "assigned_label":"Transportation",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreieezebenra3mk56famzhxs2dbytqzrpy5zagztrxjrlmzey3n6gq4",
+    "text":"First responders voted for Trump, they can absorb their own energy",
+    "topic":1006,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreic5c6wbljnzcninduqbrjhrt3yvtb6nmgogk7l53tef2h7v62ek34",
+    "text":"Rebranded and refocused, Cotality tackles wildfire and hail risks Insurance Business America EnvironmentalNews Wildfire Environment",
+    "topic":22,
+    "assigned_label":"Disaster",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidiikeyj2pgqhy7acs3mym4ht5taveejmfahm4itlf55sl6skuepy",
+    "text":"World-first sustainability certification for Australian southern bluefin tuna - ABC News www.abc.net.aunews2025-04...",
+    "topic":1018,
+    "assigned_label":"Nature",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidaloezxhg4c4sl36llkofxdbcfkbx7ovfgasaklito2jkg7ik6um",
+    "text":"Read Our Right Homes, Right Place, Right Price Charter See how we will deliver Our Fairer, Greener Homes Guarantee, 150,000 new social homes each year Our Fair Deal for Renters greenparty.org.ukaboutour-ma....",
+    "topic":24,
+    "assigned_label":"Construction",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihhhejm5ocawx4ho3j3hr3f2ttgd4b4faumtip3nqhjay4r4amu54",
+    "text":"In an entirely predictable outcome since Republican positions on regulations can fundamentally be described as arbitrary and capricious, a Trump-appointed judge has unfroze billions of climate and environmental justice funding from Biden's Inflation Reduction Act. apnews.comarticletrum...",
+    "topic":4,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibil5vnoc3bddpjg2lfhtql2o2k65hwf77fzr5eu5e5i3msqj4vua",
+    "text":"It's a bizarre vehicle in any climate, but in a place that gets so much snow??? Weird life choice.",
+    "topic":5,
+    "assigned_label":"Transportation",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreif5jltdao22yszzovao4qmqmqjrvsj6b74htb45efd7q4x64egr4q",
+    "text":"Wildfires in the UK are increasing. Just look at the 2025 weekly cumulative burned area vs the 20062024 average. This isn’t just bad luck it’s climate change. Warmer, drier conditions more fire risk",
+    "topic":22,
+    "assigned_label":"Disaster",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibkhka32wnjjqgbrqkyxv7fwqiym6f3mg2uystr4qevoctkffrvam",
+    "text":"Fantastic to see the South West leading the way to a greener future with an investment in electric buses! With First Bus investing 70m and 160 new zero-emission buses coming to Bristol Bath, we're moving towards cleaner, more sustainable travel for all.",
+    "topic":5,
+    "assigned_label":"Transportation",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreib722bhbygqyamnixw4zxf4ug742x6boog3wd5r7ixtsixfrjtary",
+    "text":"How many watts can you save with what you wear? The Cyclingnews tech team has been back to the wind tunnel to find out, testing budget jerseys against 500 super-suits, socks against aero socks, and a whole host of other ideas. Find out here www.cyclingnews.comfeatureswin...",
+    "topic":29,
+    "assigned_label":"Lifestyle",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreick5tjtdkjzyhypiedh3khskvzsj3i7kkqrdqhknif5jw2jkzqm34",
+    "text":"Another today \"beautiful clean coal\". I don't think coal would ever be considered clean. I mean, have you ever touched coal? It's not clean.",
+    "topic":2,
+    "assigned_label":"Fossil",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreid3peltyrjukaglct6po2qn2fv5cct4xqbizc3xjwrhovr5uihqb4",
+    "text":"evenings after about 7 or 8 ... Also, if you can, invest in some solar and a home battery. The Solar, by definition, replaces power you would otherwise be charged for at the daytime rate, and the Battery lets you store it so it's there when your house needs it, not just when it's sunny ...",
+    "topic":8,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiaplj7m2gp7yxpktybqblpre7os3dyplctwcwlbaol3btygvtrymy",
+    "text":"Don’t miss our updates on tomorrow’s event Unlocking Opportunities Driving European Investment . We’re bringing Caribbean leaders, global investors, and industry experts together to discuss scaling wind energy in the region. EUCaribbean RenewableEnergy",
+    "topic":18,
+    "assigned_label":"Renewable",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreict3r3lrxjhol2omfkfrsd5ibn4khfhugbtkcgl6cxjaiewklobiq",
+    "text":"Our platform is a roadmap for a fairer, greener future. It tackles the climate crisis, cost of living, inequality, and the democratic deficit head-on and offers real solutions that put people and planet first. GREEN PARTY 2025 costed ELECTION PLATFORM APRIL 17 greenparty.ca",
+    "topic":1,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihomxzo2ffwf6l7bpbnaki2osmrbslxgambcvnjlezbanmfyrcj2q",
+    "text":"Green New Deal Pathway to a Brighter Future watercolor A few years ago, I answered a call for art to promote the Green New Deal. I loved working on this design painted in watercolor. art ArtShare watercolor environment Prints, posters more 1-elizabeth-kennen.pixels.comfeaturedgre...",
+    "topic":1011,
+    "assigned_label":"Nature",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigua33fvwr2k7lxobjevpxjkq46rfajcscpsnyhzquutuhlanrh7e",
+    "text":"Being unhoused in a HOT climate presents its challenges. The main one, for me, is finding somewhere to just be that is cool with some semblance of privacy. The shade of a tree in the back of a parking lot or a covered parking structure.",
+    "topic":24,
+    "assigned_label":"Construction",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreic3f45ocfyqubgsd4x6qxiodezy5c7ofkngv6fporsx6css2ru57u",
+    "text":"I am excited to announce that I am running in the upcoming election. If you care about pollution in our river, clean air in our town, the impact these issues have on our health, I would be grateful for your vote on May 1 Bibbs Tomaszewski, a Salopian living in central Shrewsbury",
+    "topic":1003,
+    "assigned_label":"Activism",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibmqauli6yqvy7ln7drihgnuheicr7n7apl6lsr7vjh4zjomoq2wi",
+    "text":"Mr. Soybean Farmer believed Donald Trump's BS, apparently ignored all his campaigning on tariff trade war talk, completely forgot the disastrous loss of Chinese markets for soybean farmers last time, and doesn't care how climate is affecting his crops. Or maybe owning the Libs just won out...",
+    "topic":12,
+    "assigned_label":"Agriculture",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreia7qg7au5e72i2ifhdbgejzqbdhz76maicz6tm65v63zi2iizuz6m",
+    "text":"Electric stoves did. So glad Biden didn't take away gas-powered ones.",
+    "topic":22,
+    "assigned_label":"Disaster",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiekzouzy42zbo7aaxotc42nql55p2qg4hd5ilyptzgih3jd334eee",
+    "text":"If you want manly work for men then pass the Green New Deal, not crash the global economy",
+    "topic":37,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreic7dt2w27m54fhxzqxqvs5ejjuwlkbajpfbowqfqkof7nnj32ljye",
+    "text":"I've never been to a restaurant that does that, but from what I imagine, it sounds like a stupid idea. Usually, mobile browsers take forever to load, and reading anything strains the eyes. Just use recycled paper for menus if you're concerned about the environment.",
+    "topic":29,
+    "assigned_label":"Lifestyle",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigmz6ubwnnf6y7xcxpzp7mvzepgpa6dc47fsj5ts5elly5txisk4i",
+    "text":"Thinking about getting a heatpump? Smart move but only if your home’s ready. We start with a whole house assessment to see how your home really performs so you make confident choices, not costly mistakes. Smart planning beats quick fixes cosyhomesoxfordshire.org20250414t...",
+    "topic":15,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiet5bx7eyvxwvzc2pbrubsihwm4x4peqpm3a5kds5ms6m5caxqwvi",
+    "text":"This warms the cockles of my leftist heart. Miles and miles of road that does nothing else...such a waste. The only way this could be better for me is if you told me the solar panels were constructed out of old disposable diapers so I could lie to myself and say I'm helping.",
+    "topic":8,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreifcbbjcb2aivux5sznvdv4tnlocye6mzdofxmgsjowmcawhrm2u7u",
+    "text":"Roads, railway system to be priorities in Germany’s special fund investments Merz Propsective chancellor also says shift to carbon capturing will replace \"one-sided fixation on hydrogen\" www.cleanenergywire.orgnewsroads-r...",
+    "topic":6,
+    "assigned_label":"Fossil",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiardlz62i2j7shqo4c7t6utkuxd6wkor7kkq6qb7gm3hx6v2rjjla",
+    "text":"NEWS The council says it won't have any negative impact on the area kmfmnews kentonline.co.ukherne-baynewstv-star-given-green-light-for-pool-at-kent-home-despite-neig-322587",
+    "topic":24,
+    "assigned_label":"Construction",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreieqadcgibed6mww4obhc7rs2royzci46woo3bveb54rakxchongci",
+    "text":"Re-noticing the Saint-Exupery quote on IPCC 1.5 report \"As for the future, it is not a matter of predicting it, but of making it possible.\" www.ipcc.chsr15 www.ipcc.chsiteassets... P3 P4 are probably impossible time, energy, etc.. P2 is unlikely. Few well-educated ppl consent to P1.",
+    "topic":17,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreickutbopjeketfk5ylputdtrrojzdq7i3cj2bnsgvvaeio36prqma",
+    "text":"With water levels varying by several feet from year to yearand climate change making these variations even more unpredictablecities across the Great Lakes are working to fortify their coastlines and prevent erosion.",
+    "topic":1002,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidh7px4y2pwhscva7xmci7st4yri24qxi2b35l2dd574eax5jbrt4",
+    "text":"It is entirely plausible history will show that 2024 was the year of peak U.S. oil production, despite all Trump's fantasies of energy dominance. Tariffs and recession push in this direction in the near-term, and the approaching peak of global oil demand will push in this direction, too.",
+    "topic":20,
+    "assigned_label":"Fossil",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibnjb5sxs2tbb6tfe5d7t2dmdau5nsapxbn5n35pispy5vbymcqce",
+    "text":"Gated community. My fence has a gate, so I live in a gated house. That's why I do no longer opine on the trivialities on this planet.",
+    "topic":24,
+    "assigned_label":"Construction",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigpnlsp4hdmu7wkfx4bwgphheynznvvkq5c62zo43ir5gtnwo7gje",
+    "text":"Did climate change supercharge the once-in-a-lifetime’ storm pummeling the central US? A relentless storm is unleashing floods and tornadoes. Here's how a warmer atmosphere and a simmering Gulf of Mexico could be making it worse. grist.orgclimateclim...",
+    "topic":1002,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreieemk57b7fzts7xo5akukobqx3tr6mhgp4n34h77yzxslzim3z7u4",
+    "text":"I do think we need a conversation about making merch more eco-friendly and would love to see more sustainably-sourced wooden items take over, but lying about overseas workers and saying AI is good in the same breath makes me doubt the authenticity of folks. AI is horrible for the environment.",
+    "topic":29,
+    "assigned_label":"Lifestyle",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreid54icpxo5diz3wsmrsimkaamiv7mwhci3runzvtunsfdj6gjp7pm",
+    "text":"It's CommunityGardensWeek! Community green spaces gardens are such an asset to communities, whether for environmental benefits, relaxing, growing food or just for beauty. And I love that my FaceOfHolt sculpture is part of this lovely little garden space in one of our local villages!",
+    "topic":1015,
+    "assigned_label":"Activism",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibacxfwu37wxdoltki6pbp26fnirlqeghg3e6pkwx6a67gyrgfpfm",
+    "text":"My cars are great for the environment, here’s why I took a 19 minute flight on a private jet",
+    "topic":1027,
+    "assigned_label":"Transportation",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreia626k2ehvw4m3ftr2icszv2k5cxkwkjztyxq5h5vybnk7upjm4p4",
+    "text":"Right, but you also have to take into account the dirty air. And the fact that McLaren probably doesn't want to risk the points loss if a mistake is made while in the dirty air. It's a shame it affects the cars so much. I would have loved to see some actual wheel to wheel racing...",
+    "topic":1027,
+    "assigned_label":"Transportation",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihgqzuias7s2yy5pyyq6vtvpd5wc56ppymaubyt3mugtqbf6gie3m",
+    "text":"And on our planet, the only one we know of with life, life lives damn near everywhere. In cracks sealed up a million years ago, with water and it's own sealed ecosphere, we've found life. Volcanic vents, lousy with life.",
+    "topic":42,
+    "assigned_label":"Nature",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreib2bkqfrafsruaf3wm5p6aus4oayfpdttowe3j3k7ju6ntu7q2igm",
+    "text":"He bragged about gas prices. Well it’s most definitely not 1.98 around here. Multiply by two and add a few more pennies is what I paid today.",
+    "topic":20,
+    "assigned_label":"Fossil",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiclsssg3ouh7b672j3iake63iu3pk5vzy6bon6gjxpvlvmyhuxwdu",
+    "text":"I deal with a fair amount of body acne and also moral ocd guilt about plastics that has led me to try to find more sustainable bathing products and I just want to say I love these compostable body scrubbers. www.casamera.comproductsthe...",
+    "topic":9,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreih35kzfxfp6hwqmykf3sh4zuchiuppvup3vuagcm5mrblaj2orjxy",
+    "text":"Do I have any Solar specialists here? Can someone tell me how many solar cells and batteries, etc. I would need to run a 22000BTU AC 24hrs... No need to feed other appliances... Thx in advance for pointing me in the right direction... It seems it is too hot today to find it by myself..",
+    "topic":8,
+    "assigned_label":"Renewable",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigemcxvl3q6xvpu6gcftvbqcsg742qak6agsax6vmdlxnx6bqqmyu",
+    "text":"It needs greenery. Going for gray cement is OK but one needs to balance the earthymetallic harshness of the concrete with some color life.",
+    "topic":24,
+    "assigned_label":"Construction",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigoapt57xkjxek2ugxulfvs7ouqdwzazlmsd5wjud3ohwqfcwdt54",
+    "text":"\"Clean power surpassed 40% of global electricity generation in 2024, driven by record growth in renewables, especially solar. Heatwaves contributed to high growth in electricity demand which resulted in a small increase in fossil generation, driving up power sector emissions to an all-time high.\"",
+    "topic":8,
+    "assigned_label":"Renewable",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreib3kntmyvv2jqmxzn22baolmzh3bsze4dxtafyaoi2prz72k3bus4",
+    "text":"Plastic rain. There is plastic in the rain. And there is plastic in our brains. Do we have plastic thoughts?",
+    "topic":9,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreicjlip3qoj2ianvp7weztmzhiwzkkcwnbpc3o5ypp6fu7vuylifoq",
+    "text":"\"ew green bubbles\" \"having an iPhone is not a personality\" \"why don't you get an iPhone\" holds up 6 year old android that is still 100% functional \"have you ever seen a 6 year old iPhone that still works?\"",
+    "topic":39,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreicpojwc6w2evrnidreysr2i3j5qpqueumdelgxcedajhvo6ytqdgm",
+    "text":"Have you watched James Burke’s After the Warming? Find on YouTube Cheesy graphics from 1989!! but in it he SOLVES the problem. AMAZING documentary. He’s one of my heroes. In it he predicted the 2023 forest fires!? climatechange youtu.be451xJqNGFqU?...",
+    "topic":22,
+    "assigned_label":"Disaster",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiareua3nqfzi4uzyw4cua2tox2blazrur7j7f5rgfuv66ncthtp2y",
+    "text":"Note, if you want it, I can send you a link to the entire dataset with the exception of the climate modelling output from Osman et al, which is many gigabytes.",
+    "topic":1002,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreieunnkzu2gijkv5uvzdxdoei2vxvjbs5vtbiorfvsip5ztjty2cam",
+    "text":"Dear friends and family, my photograph Last Camp on Isle Dernière will be exhibited in the Ocean Hall of the Smithsonian National Museum of Natural History as a part of the Art x Climate, National Climate Assessment Exhibition. It opens on April 22nd, Earth Day. I hope to see you there!",
+    "topic":19,
+    "assigned_label":"Activism",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreicxl77oq7luwn6t6ufvcfkmktbzfbvvghckafshtf42e25y4h5ww4",
+    "text":"I prefer cow. Cows eat veggie. Cows fart methane. Vegans eat veggie. Vegans fart methane. But, cows don't consider themselves morally superior and announce it to the world and try to force me to eat grass.",
+    "topic":12,
+    "assigned_label":"Agriculture",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":null,
+    "text":"LKN issues Hydrologic Outlook ESF at Apr 7, 107 PM PDT ...WARMER TEMPERATURES INCREASING SNOWMELT... via IEMbot Additional Details Here.",
+    "topic":1028,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidsdg6tagj5pujv65dpboswvwt4f6niosparfp4ar4cjwmhvobkxm",
+    "text":"but yimbys are out here explicitly saying the solution has nothing to do w immigration! personally i'd also love housing to be decommodified - but even if we manage that we'd still need more of it where people want to live, we still need to make our cities denser for ecological reasons",
+    "topic":24,
+    "assigned_label":"Construction",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihhods67iin6b35cb7vcwazgcccpjn3hkdmqrdm6etgakkbccxw4a",
+    "text":"The Seagull EV offers two battery options 30.1 kWh and 38.9 kWh, providing a CLTC range of 305 km 190 mi and 405 km 252 mi, respectively GlobalCarbonFeeAndDividendPetition cleantechnica.com20250409b...",
+    "topic":5,
+    "assigned_label":"Transportation",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreieemjfnxifl3dhrkk3x2zk6nzk2xhciulewwumophkcjyyull5k6i",
+    "text":"Temperature records being broken on every continent, and by quite a margin in some instances. At what point will they start to nudge \"hottest year on record\" territory? I though the consensus was that it wasn't happening in 2025?",
+    "topic":1002,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreicizn2asjvdwhysfjhotey2qjbjfczgqne3frmabfzwq4xyxgcb7y",
+    "text":"League of Women Voters’ Combating Climate Change 101’ event mobilizes residents for climate action League of Women Voters’ Combating Climate Change 101’ event mobilizes residents httpswww.byteseu.com901711 Catharine Schutzius said she joined Third Act Illinois, a nonprofit for elderly",
+    "topic":37,
+    "assigned_label":"Activism",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreic2aslth24eofm4szndjakcqryzpo7j4ydojzwsyo7wsgcthurd2e",
+    "text":"I see a lot of double cab 4x4 gas guzzling trucks here. Perhaps they will switch to an electric vehicle. I could have sworn these were the same folks crapping all over electric vehicles a year ago.",
+    "topic":1027,
+    "assigned_label":"Transportation",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigmc7qihmaq77gqdu3xnq6aaphatafc3bwiswmpvc4uoioa5jykie",
+    "text":"Perhaps, I'm overlooking something, but how can 44 GW be 6% of 400 TW? Of course, if we had vehicle to grid capabilities for all of the electric buses and all the other EVs we could possibly be there, but maybe I've got my numbers wrong giga to tera.",
+    "topic":5,
+    "assigned_label":"Transportation",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigesytb25llrymqdxdp4xkq3bjewfgj5buwkuwxrykvokofz57obe",
+    "text":"And again, I love Andor, but the extraction of economically useful energy from hydropower does not make sense in the context of hyperdrives. The gravitational potential energy createddestroyed by one hyperspace jump by one small ship dwarfs what those big dams generated in a year",
+    "topic":1000,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigs2ytprxukvvtuqpo5gt34bp4frb3b6totopi7hda3iyvn47gk4y",
+    "text":"In Las Vegas, a former SpaceX engineer is pulling CO2 from the air to make concrete",
+    "topic":24,
+    "assigned_label":"Construction",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihipwz5qzvfbzmidyghxeymmtoadptfidkbeg277h4ki2ptnknmoa",
+    "text":"electric HPs with existing oil heating systems can lower overall energy costs by 19% and reduce emissions by 29% compared to the today's system and outperforms all-heat-pump strategy for economic savings. By combining a generalizable, 67 of httpsarxiv.orgabs2504.08060v1",
+    "topic":15,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreieje2higesc7e3cgmo4hbwxq4sop4eml5nb73a6hjk2ssjfzb75tq",
+    "text":"I think at this point we've all seen AI generated images. They're kinda cool. Impressive for sure. Now can we PLEASE not use them anymore? They hurt artists and the environment. Just use a doodle. You can do it. Draw a couple lines. Doesn't need to be perfect.",
+    "topic":3,
+    "assigned_label":"Nature",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidkwjdhxsfopapgleendb3vyygk6iespcc3c3pkkumtleagglel4e",
+    "text":"Fire smoke tied to thousands of premature deaths in 2017 alone -Futurity More info from EcoSearch",
+    "topic":22,
+    "assigned_label":"Disaster",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiawh7rwjriy4lcn6anokeefpz3yrfi74i6bzgtabxygspgcnjxuom",
+    "text":"I know, I used to make steel. I thought PT would be toast when tata announced they were investigating in H-reduction at their durch plant. The irony is that the so-called Celtic Freeport was bigged up as a hydrogen hub. HMG utterly clueless.",
+    "topic":27,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreifxo75kqij24j3utzqp7i3wy36nzox2ssmgl2p2ozo67lctuxguyi",
+    "text":"You’re buying gas in California, a scowl is the appropriate response.",
+    "topic":20,
+    "assigned_label":"Fossil",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibktsbtlqmhreuubl2esfkl52igyra6mpi5t5yua24bj66kp37dri",
+    "text":"\"while slow and inefficient in many ways, COP is one of the only forums for international climate talks\" says varshayajman.bsky.social in Crikey today. She also notes that COP31 \"is not simply about shaping Australia’s climate commitments but also the future of Australia-Pacific relationships\"",
+    "topic":1012,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigz247jhyhi764cajzqhb76yvtnwc7hcndyvuzh6yto2sq2i3pb44",
+    "text":"Sadly I think this wishful thinking it's unlikely life would evolve and thrive on a tidally locked super earth orbiting a dim flaring red dwarf. Dimethyl sulphide could be produced by chemical reactions in a methane atmosphere. Still, it's an exciting hope. www.bbc.co.uknewsarticle...",
+    "topic":42,
+    "assigned_label":"Nature",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiee2fasq6cbkghd5nnsls6ng7yjtdfbzgianvawmsnk6hxpmunpza",
+    "text":"For more on the Texas clean-energy miracle -- and ongoing efforts by Texas legislators to destroy it -- listen to my latest pod with douglewin.bsky.social!",
+    "topic":36,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreia6nkbmkx55shehpopmlt47nzdsryqul6fyhbok7kxibqz75ezw4m",
+    "text":"Uh Huh. ClimateSky deforestation patrols of Montana has stopped 7 Timber Sales with one Yellowstone national park border timber sale being reissued after changes, since 2017. Effective ClimateAction by one person Oh the Armor is because the loggers shoot at me, regularly. maddow.msnbc.com",
+    "topic":14,
+    "assigned_label":"Nature",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibzszofc4aplb5umqijpbxbkmdpthzb2ieymw3xrfp4sfw47q3eca",
+    "text":"Hydrobiologia's new issue is OUT! Biodiversity Dolphins Herbicides ClimateChange algae tadpoles BiologicalDynamics fish decapods InvasiveSpecies riparianzone Take a look! link.springer.comjournal1075...",
+    "topic":23,
+    "assigned_label":"Nature",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreicrkjxwkzyv5kohvixxx4zih2yraxjg7ycg7fmavsumv3anhpt7t4",
+    "text":"Saturday, 26 April 2025 2-4pm Join us for a social afternoon of basic mending and repairs, in association with Fashion Revolution and SF Climate Week. Bring in your favorite yet damaged knits, jeans or jackets and let's give them a second life! RSVP bookwhen.comsequoiafabri... mending sew",
+    "topic":29,
+    "assigned_label":"Lifestyle",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreifh6t7g7w7svsau4v2uq42qll5yas2gwzojtcskkd7vqkj7gtvqty",
+    "text":"Would be nice if Sephora s and Amazon s water proof eye liners were actually water proof. beautythreads",
+    "topic":29,
+    "assigned_label":"Lifestyle",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiecjrdmt5vrkuy5sxvaettjfuytaqs3xfalz7gpobaqeqqxv6zwfq",
+    "text":"You're invited Earth Day seminar on Water Quality Land Use Planning on Long Island, co-sponsored by the Land Use Institute and the Environmental Law Society at Touro Law. Weds, April 30, 6-8pm Touro Law Center, 225 Eastview Dr, Central Islip, NY Register www.tourolaw.eduabouttourola...",
+    "topic":19,
+    "assigned_label":"Activism",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidlpkbletrfi2fve7j5fihat6ash6fvoxftrh2a752heolucl6gnm",
+    "text":"Burn everything American but their coal As my fellow Dubliner might have said",
+    "topic":2,
+    "assigned_label":"Fossil",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiefvi2sloy5huudav3ko5ivp5uacnqvzjo6zjnvbz7xw6c4fteyyy",
+    "text":"Why are we building wind turbines and installing solar panels when the Landman says these are bad and do not work and global oil markets and global oil producers will save us, Mr Birmingham?",
+    "topic":1000,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigmcm3xp74hczukd7qfge47ghfhec6eqkuxedtdjghtpzdnrjiwbu",
+    "text":"Aliens coming? Or Elon Msk pollution serious httpswww.ufofeed.com120423aliens-coming-or-elon-m%F0%9F%A4%AEsk-pollution-serious Aliens coming? Or Elon Msk pollution serious by Abject-Point-6236",
+    "topic":1026,
+    "assigned_label":"Fossil",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreic7i7v7uq7bij37l224kx4zfs26q47n3f4uciedkef4qtpuvp4hde",
+    "text":"Another project from many years ago. My Aurora Pedestal Desk. woodworking greeneandgreene furnituremaker",
+    "topic":1022,
+    "assigned_label":"Activism",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreievqzz4u5pewyo5pipqjegm36noj5kxtb5l3wd3vtgdokyqvdeghq",
+    "text":"China has just cancelled the entire LNG export trade from the USA and switched to Australia Woodside. USA LNG producers and frackers have just been ruined",
+    "topic":6,
+    "assigned_label":"Fossil",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigfe234mdx4xj5i24msp44btrp46ehuigdgs2abu2a76jncdg3eyy",
+    "text":"Like I’ve said, U.S. is often hard for those who don’t live here, it’s odd. There are federal and state lands. And some overlap on environmental stuff, and states rights autonomy. Basically nothings really universal here like UK, European counties, etc. We have full gamut of EU variety in country",
+    "topic":1005,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreicyptznxdk7zsy76zacmhu3cueoo7sr4orwbkcw6fgffxic7pocky",
+    "text":"Why on earth are we still allowing CEOs and shareholders of privatised water companies to rip us off? The industry should be taken back into public ownership NOW!! www.theguardian.comenvironment...",
+    "topic":16,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiewmfshlirgvh22fxrhquotphs4pa4x32quirp3y7vryxujokzgdy",
+    "text":"That is before you factor in planetary breakdown and that cost for everyone, but especially the insurance sector.",
+    "topic":40,
+    "assigned_label":"Disaster",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreifu75hizeq5p7mdltj4u52tnnmizy24xsihkfmwalzjmr4gm64cam",
+    "text":". POTUS signs Executive Orders to make the coal industry GREAT AGAIN!!",
+    "topic":2,
+    "assigned_label":"Fossil",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreifqoqcmgoua74q62yndnfhd2zencxu2dgfeqxdtobsvvoromejp2u",
+    "text":"Fast forward a few more thousand years, and suddenly have technology that keeps the climate in every region and climate constant. Now you really don’t need clothing for any other purpose than protective gear for some activities. nudist naturist",
+    "topic":29,
+    "assigned_label":"Lifestyle",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidrvs4yk5r2n26l5b35atw65pctgioqdq7pewmwyej3jvbgnz7q6a",
+    "text":"Ahem! I actually got the Eco Lifestyle fireplace for christmas. Had to go back to the fireplace store and get the real deal! With actual wood this time.",
+    "topic":22,
+    "assigned_label":"Disaster",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihkoohbzi5meaq2u3zq4jsk6axpvi3bytr7mfw5ifuibavlxgzv2a",
+    "text":"One of the many things that are stupid to me is that even if you choose to ignore evidence and facts, surely making the living environment more pleasant with more trees, fewer cars, more pedestrian-friendly etc has no negatives, so what exactly do you have to lose by making cities and towns nicer?",
+    "topic":24,
+    "assigned_label":"Construction",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidp7nytdsksxr5d3efxd45djuc7t62khodxhc6wtz3gu4wgp44ely",
+    "text":"Patients can now return crutches and metal walking sticks in the collection bin outside the Golden Jubilee Wing, King’s College Hospital. The aids will be inspected, cleaned, and reused, helping ReduceWaste and CarbonEmissions while improving access for others. bit.ly3EigqRu GreenerNHS",
+    "topic":9,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihg6kgst2bbakullco56bshlddueyaurdsxmzqnakbfkmtkrzgyea",
+    "text":"The fat slobby asshole wants to eliminate climate science because it causes young people to\"anxiety\". Because hiding things makes them go away you see. He must have been such an ugly and repulsive baby that nobody played peek-a-boo with him, and he never learned object permanence. uglybaby",
+    "topic":0,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreif6xia6unnvqtjhlt3coabdzgc3l5knbj2yos5vjsp7jix6m65a4e",
+    "text":"'According to the WMO, around 70% of the planet’s freshwater comes from glaciers and snow, supporting agriculture, industry, energy production, and drinking water supplies. ...the world’s more than 275,000 glaciers span roughly 700,000 square km and contain an estimated 170,000 cubic km of ice.'",
+    "topic":17,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreib6bbenpmhk2ffytg4bfit3nws2iiuaqpxmajds6mfwogk56cl3hy",
+    "text":"Coventry University Group and Vellore Institute of Technology join forces to tackle hydrogen transportation challenges with AI www.renewableenergymagazine.comhydrogencov...",
+    "topic":25,
+    "assigned_label":"Renewable",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreicirzptxqgbdbvzydf4ewkkdggqw2242clqwkmop7esufr2qgpn64",
+    "text":"yeah i’m glad i bought my printing equipment actually, i don’t think my heat press and die-cutting machine are going to be the same price next week let alone next month.",
+    "topic":29,
+    "assigned_label":"Lifestyle",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreifydowb4h7uawxmn5ijv3xotqqrfhpcjx435ukurwm5xai4osfu44",
+    "text":"No, I'm sorry, just look at this. It's basic. The parking lot in question is less than 100 meters away, but instead they need to cut trees? No. This is planning and architectural praxis. Put it on the parking lot, wall off the green space, and make it exclusive to the use of the new building.",
+    "topic":24,
+    "assigned_label":"Construction",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigupft62okdqsib6eubytb46tselr5fkyzhxzzndcvhbnook75e7a",
+    "text":"Trees are home to endangered species. Trees create ecosystems and microclimates. Trees stabilize soil erosion and sink carbon. Logging destroys land, air, water, biodiversity. If old growth, it takes HUNDREDS of years to restore. There is no Reverse. ProtectBiodiversity BanLoggingNatForests",
+    "topic":14,
+    "assigned_label":"Nature",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiffj5qtvbk5irbj4zceawupy5nfluosptwrnbuijts36ebweu2gsu",
+    "text":"The European Union's Copernicus Emergency Management Service EMS has provided satellite imagery to assess the damage caused by the fire. The images show a large area of burned vegetation and potential heat sources. The boundaries and names displayed on these maps do not imply official",
+    "topic":22,
+    "assigned_label":"Disaster",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihqmnpk6ujcdn6qa4vm24xp26nbwdnkkdvviderhmryf6mpxjubo4",
+    "text":"Just wondering when the msm are going to question albomp.bsky.social or tanyaplibersekmp.bsky.social about their failure to deliver any meaningful environmental legislation during their 1st term ? auspol",
+    "topic":7,
+    "assigned_label":"Renewable",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreicih4aaydepiyk7jmqkhja2ptqe4jdns6lsccptqqbyirkadvhuti",
+    "text":"World SSTs 18.04.2025 No NOAA update again ...that's 12 days now ...I guess it's terminated by trump and friends As usual , here is the temperatures in oceans chart Not much going on ClimateCrisis",
+    "topic":1002,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreif7xf3eht25mcucwzdrvrl2wnyuvvnhbrgjanuhjxyzzaizsryrya",
+    "text":"I am absolutely an \"abolish zoning\" person for anything past keeping pollution air, soil, groundwater, noise, etc. away from everything else maybe architectural standards higher in high-demand areas. outside of that, fuck zoning parking minimums and all of it. market will naturally up-zone",
+    "topic":24,
+    "assigned_label":"Construction",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidgiqj6zbsgz5dsghgpjfy2xndf2legddylfbbd6ulo7hf4ka6axa",
+    "text":"Haven't eaten any for a long time, but as fast as my forbidden food list is growing, probably - things that off gas VOC as they ripen, like avocados bananas in a paper bag. I also lost a couple of foods due to e. Coli exposure, ie, iceberg lettuce, strawberries, etc.",
+    "topic":12,
+    "assigned_label":"Agriculture",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreig232iq5rihnkogvgkjkvph4wpw3sshlm2jnkymxve6ldsry2otvi",
+    "text":"What's on your plate linked to deforestation? Our food choices have hidden land costs that are devastating ecosystems. Time to demand transparency sustainability. Deforestation FoodSystems BiodiversityLoss www.linkedin.compulse23-bey...",
+    "topic":1012,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreicmqbjaf3pkjkgza5ddl45b4spvimj7y4zqgvenrpcaf6zombcn44",
+    "text":"Toshi this is all really helpful to read, I have wanted to replace our conventional AC gas heat for some time now with a MR Cool unit but haven't felt confident in it. Outside Indianapolis so we get a similar temperature spread that you get in CO, albeit maybe at different times.",
+    "topic":15,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreia3sblnjglee6ihof32b76nee7ink7hujrhudzbtjwzngr7zfzj3a",
+    "text":"And we move to report out from groupsidea for solar panels at bus stops that also contain charging outlets",
+    "topic":8,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigxvqp2fls5f5cq6ud3xfvphdw6kimz5obk63ag47yxmuabck5l4u",
+    "text":"6. \"The climate risk reports of major food companies are filled with casual mentions of threats to the viability of our supply chains over the short to medium term. The strategies to mitigate these risks, however, are simply not material compared to the scale of the threat.\"",
+    "topic":12,
+    "assigned_label":"Agriculture",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiaecrknr7fzampl6d7lectey5vplbg56s2px2b2jwlyeo72aozagq",
+    "text":"Starting to make Taylor merch again. We got a heat press and plan on being a full in house maker",
+    "topic":15,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiapsamtkqrdletykbakauwkvs7tep2do5wcrcjt4w7vvnw5gawxu4",
+    "text":"They shouldn’t congratulate themselves too heartily for the cheap gas. Simplistically speaking Oil prices are largely dictated by the markets. When stocks tank, oil prices tank too. Sure, it’s great oil prices are lower. Unfortunately, you won’t be able to afford to go anywhere with your cheap gas.",
+    "topic":20,
+    "assigned_label":"Fossil",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiesimq2hq7sgdvzr6wcpk6auanfzzzwibzvurckrly32p3ln75v2m",
+    "text":"In the advanced version, if the tree has exactly one leaf you say LEAF.",
+    "topic":14,
+    "assigned_label":"Nature",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihheptotuq4ehj2dn43ynhnap5atcnjjvmd7cjcw5gzgrqxx5o6we",
+    "text":"I can't thank tfcon.bsky.social LA2025 enough for going beyond the definitions of what infuriates so many smallminded people. Because of their above and beyond amazing standards and environment, my service dog Nunya was able to work and play with me and the other Volunteers the entire three days.",
+    "topic":7,
+    "assigned_label":"Renewable",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreia7onceu6korwqwwnhjpgy5tveu2mv2ogqp4ys2qbehyh2cg4mg44",
+    "text":"Very inventive! I have some steps for Espo that I made of those foam play floor tiles stacked and taped together. I use them too to change the heat pump filters.",
+    "topic":15,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibuvzpk6qss5wrkly2pfbrxudm7kjgs2io4u3kuwqfgjoifxmp65i",
+    "text":"I've been using Blueland laundry tabs and their oxi laundry booster powder. I love it. I also switched my hand soap over to theirs. No more plastic. As I start to use up my other cleaning products and dishwasher soap, I'll transition over. Much more earth friendly.",
+    "topic":1019,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiaazqo3td5txgou7yr7h6wwnude5eyp3y6et7xi73ta7i3zefn5ke",
+    "text":"Surely CO2 get released again as soon as the fuel is burned?",
+    "topic":10,
+    "assigned_label":"Renewable",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreih35kzfxfp6hwqmykf3sh4zuchiuppvup3vuagcm5mrblaj2orjxy",
+    "text":"Do I have any Solar specialists here? Can someone tell me how many solar cells and batteries, etc. I would need to run a 22000BTU AC 24hrs... No need to feed other appliances... Thx in advance for pointing me in the right direction... It seems it is too hot today to find it by myself..",
+    "topic":8,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibgknyrjas4tfnfvjftpbxjb5jjmq542oxykb735ten7xxgnq757i",
+    "text":"Raiding when ur bedroom is warm cause of the mini uk heatwave hits different.",
+    "topic":15,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreicqtdfkvum74mmhgk2ly5if4wcu4pcq3nfeqdusz5g632falh5oey",
+    "text":"Stop spraying poison! Seriously folks, the climate change is bad enough - but toxic chemicals, too?! No amount of money, oil or things can replace the role bees play on our planet. More Bees Please!",
+    "topic":1032,
+    "assigned_label":"Agriculture",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreia6cxvraegk5lpb4wl26z3png4yl7nzbcv3uw4opeuofluhbnhngi",
+    "text":"These are the same people who will sign up for jackboots if fascists in America ever decide to combat climate change.",
+    "topic":43,
+    "assigned_label":"Activism",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiclsicsacgjuifoyukdtr2dazrwkj3m2rdnvp2f5ozpq4vxpe3fxe",
+    "text":"Don't build below coal slips Don't create coal slips near buildings news.sky.comstorywelsh-...",
+    "topic":2,
+    "assigned_label":"Fossil",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibikuvwidqhjyam6cdp4yniqzqtuveup2dzgg7xq474cml2r5voti",
+    "text":"The food industry learning from the tobacco and the fossil fuel industries... I'll give you three or one.. guesses who's behind a PR campaign to intimidate scientists recommending eating more plants and fewer animals to save our climate and improve our health www.theguardian.comenvironment...",
+    "topic":12,
+    "assigned_label":"Agriculture",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigflrypahbejnbm7lrvcnm62mh7qnoagimy6th6gpl5n6t5zcgnz4",
+    "text":"Data from StatsNZ for Queenstown only goes back to the 1970s, but the warming pattern here for average annual temperature is pretty scary. Find the rstats code and read about my 30DayChartChallenge plotting process jenrichmond.github.iocharts2025-...",
+    "topic":1002,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreia4ei34npct62w3tc4hsjzajppa57di4ggpnk5j4z35gjgi5gl3fq",
+    "text":"This widespread environmental problem needs to be sorted asap BBC News - England's serious water pollution incidents at 10-year high - BBC News www.bbc.co.uknewsarticle...",
+    "topic":16,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidicw6ztppltdrrhavhzgvmu3d7cuq2vc3472ptoqrqdxeccmhaoy",
+    "text":"Columbia, Harvard, now Princeton - the Trump administration continues its attacks on science, climate action and NOAA - see what you can do with our ucsusa.bsky.social SaveScienceSaveLives campaign bit.ly3RxBsPj",
+    "topic":44,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiafqnrbqh2hzmupvgkj2tbep7nijq6fah3j6uxbginzu6ez2lgjca",
+    "text":"Crucial 'Airborne fraction The airborne fraction is the share of CO emissions that remain in the atmosphere. If it increases over time, it may indicate feedbacks and make climate mitigation harder. It is defined as the atmospheric increase divided by total emissions' glenpeters.bsky.social",
+    "topic":10,
+    "assigned_label":"Renewable",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiefii7syzx4iqbg6mranijqy7kqyc37jsz36yoemayhiopbgfk74q",
+    "text":"What do my home bremerhaven and New York have in common? Close to the water That means denser development and more energy-efficient homes, and it probably also means we'll have to give up the suburban ideal of a detached house with a white picket fence, he said. www.nytimes.com20250407n...",
+    "topic":24,
+    "assigned_label":"Construction",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreid5vz3sv2cth7tbf3yjjtzddknmffysdew5bkh5zppcv4p7a46r4i",
+    "text":"The Common Fisheries Policy states that the distribution of quotas should be based on social and environmental criteria rather than historical catch criteria. Implementing this would represent a significant step forward for small-scale, low-impact fishers.",
+    "topic":1018,
+    "assigned_label":"Nature",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihi6hwcubqgkbf76f2qn73mujpfj223jk5av5jmvc6w7v47tewgse",
+    "text":"Trade risks to energy security in net-zero emissions energy scenarios Nature Climate Change www.nature.comarticless41...",
+    "topic":28,
+    "assigned_label":"Renewable",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiawpltbpqtsshzoowo76oke4gizkdeggkg5hdhntj5v4veyoywacm",
+    "text":"Now we should rebel against privatised water companies as it’s such a vital human need and they’ve caused so much pollution because profits for them and their share holders comes first",
+    "topic":16,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiddiezocxqrzyv6kj5gzzbimoifokirhpnkbjr4bk4zz5njuchhw4",
+    "text":"Solar panels and car charging points should also be standard for new builds",
+    "topic":8,
+    "assigned_label":"Renewable",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreict3pi77xty6wtlf4mmff67epbcou6d7mmfdm7tp5gbkwkfsgh5ea",
+    "text":"In case you were wondering, R-454B is a \"drop-in\" replacement for now-banned R-410A, which was introduced to mitigate the global warming potential for R-22, which was invented to replace the ozone eating R-12. R-34 is the new thing, flammable because it's based on propane a.k.a. R-290",
+    "topic":15,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihgtnesvgvuxg4ymffnko3w2vh7jlor2ob3ffuvausmbrqsc6xvxu",
+    "text":"things I learned today pH that measures acidity or alkalinity stands for potential of Hydrogen",
+    "topic":1030,
+    "assigned_label":"Fossil",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidoixb4hsugonfzikjhrchqnzqy4pgqm5d3iymkd6izdv5msbthdy",
+    "text":"Absofuckinglutely NOT. I’m an Australian lesbian with a lot of anti-trump, anti-republican, anti-right wing opinions all over my phone. I’m pro-choice, an atheist, believer in science and climate change and very woke. There’s just no way I would trust the US government.",
+    "topic":1,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreieof5cgrqzzp7wbkt7mhg7qvipktyc6olpmedjsj6i7xwdlozbisi",
+    "text":"The funniest thing about this admin fighting congestion pricing is that it's a policy they should love. Making revenue from a user fee is their JAM. It's like the first bullet of Project 2025's FHWA section. Their problem is that it's collected by govt rather than privatized and it helps transit.",
+    "topic":5,
+    "assigned_label":"Transportation",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidyb5lvnkkgcer4lhr3oudvpe6acc43dtjyb24auxo5etotc25s2q",
+    "text":"Replacing the battery using an iPhone 13 for 5 years rather than 2.5 could cut emissions 49%, \"which could prevent 15.6 million tons of CO2 emissions per year.\" That's as much as a small country. www.wired.comstoryback-m...",
+    "topic":39,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihd3a4phd447grn76ucubndbcwvrloxkwwk5i3vmynubxztgmjyfa",
+    "text":"Cement Is a Carbon Bomb, and Trump Just Made It Harder to Defuse Trump",
+    "topic":24,
+    "assigned_label":"Construction",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiampaury7izdw6vst57anz42uv4ombiqghj7xgjbx5ta63vpgeafq",
+    "text":"I hate sheintemualiexpress unless I’m looking for something I’m never gonna wear at home ie. clothes for a holiday in a hot climate no I don’t want my actual clothes to fall apart in 10 minutes stop clogging up my searches",
+    "topic":29,
+    "assigned_label":"Lifestyle",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidiqjx4ytphif5somvpbkzub6zbmxnspa4ompxlxhdlfxnoupov7q",
+    "text":"Betta Fish I dont care what anybody says, my boy loves me httpswww.flakefood.com676665betta-fish-i-dont-care-what-anybody-says-my-boy-loves-me he comes to the front of the tank to see me httpsv.redd.itv3hk3lm2kfue1 Posted by ClimateIndividual592 The post Betta Fish I dont",
+    "topic":1018,
+    "assigned_label":"Nature",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreifgc26kexqcjpytxm6c3qznaqoetnqgakhud33xojsvtpgggj2vva",
+    "text":"Everyone needs to realize that Big Meat operates just like Big Oil they're working hard to stop environmental progress by spewing misinformation, discrediting scientists, lobbying politicians, and using the confusion to sell unsustainable products. Great reporting here from desmog.bsky.social",
+    "topic":12,
+    "assigned_label":"Agriculture",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":null,
+    "text":"Lake Wind Advisory issued April 8 at 234AM MDT until April 9 at 900PM MDT by NWS Glasgow MT Additional Details Here.",
+    "topic":1028,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidro2t422p4g7kxoo2sgzdi6ks72aj2tvy3oofezz6v6khxrgm74u",
+    "text":"and of course, I’d be remiss to acknowledge that electrification alone isn’t sufficient it increasingly appears microplastics from car tires are also a significant health hazard, whether the car is electric or not. No two ways about it, a world with less driving had cleaner air",
+    "topic":5,
+    "assigned_label":"Transportation",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreifgx7ds7fmh34dkmfd43wul4hcberclqicx65wir3fp5f7ujgdufq",
+    "text":"Anti climate change is at the heart of this, the LNP aren't too bright with technology and decided EVs were never gonna make good utes rubbish obviously. It has the added advantage of attracting, macho ute owning males to LNP hard RW to go for the biggest American model they could get.",
+    "topic":5,
+    "assigned_label":"Transportation",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreifiroprusykv6lzxleewq35em6sgpl6aojm5iryhoznxzjp45kycm",
+    "text":"I like white t-shirts for warmer weather often worn under shirts or a hoody what with UK weather and that but any sun cream and they get yellow around the neck. Not found anything to shift that yet.",
+    "topic":29,
+    "assigned_label":"Lifestyle",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidpvjegk2qaucwcchh3a7n3plytdsledd3a7465c5dxrgjtunkt4q",
+    "text":"Chemours DuPont filed a motion to seal all court documents related to the lawsuit filed against these PFAS polluters for contaminating our tap water. We have an opportunity to convince the judge overseeing this case to deny the PFAS polluters' motion to seal. actionnetwork.orgpetitionsst...",
+    "topic":1004,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreifkoqfmfitdivzaibjpra2hvvdnct7oqlicp2tqsidg626cgrmtm4",
+    "text":"Thank you for these studies. They refer to various risk factors - air pollution, exposure to heavy metals like mercury, aluminum, and lead, maternal obesity, immune disorders, and some degree of hereditability. They do not address the 300 fold increase, and continued exponential growth.",
+    "topic":1004,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreig74jbw2fmfvsbpklbvme6cg776svsaisl3gy66t4vn3zyn462lrm",
+    "text":"This Thursday! Learn about and join our local campaigns to address climate change at the community level.",
+    "topic":19,
+    "assigned_label":"Activism",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreifgah7lwwtvfnikhurupfaodb663q64jqak6gyhbnumguzd2v5bem",
+    "text":"UK privatised water. Rivers sea can have sewage pumped in. National outcry still a disaster. E.g Thames Water. This is example why there is a big support for regulation- a necessary safeguard. There are countless more examples, for instance Energy prices in UK. Chlorinated Chicken Fcuk off",
+    "topic":16,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigyp4chnzlc6krcikhgk6oaocba4mrg7yoitybsqiud7xg3nhjdai",
+    "text":"A 40-billion fund led by the World Bank and African Development Bank aims to provide 300 million Africans with clean energy by 2030. Alongside a broader electrification push, the investment is a boost to clean cooking technologies, said the African Energy Chamber...",
+    "topic":1017,
+    "assigned_label":"Renewable",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiemwejyyul4vuhzlvhgjrlhhwgmk7ljytesfsbiuoo4guuccg3kaa",
+    "text":"41425 Polls Spicy Related That's enough with the clean stuff. Let's do something dirty... w Spicy Painting Poll - x.comTheCosmicFoo... Likely Sketch Poll - x.comTheCosmicFoo...",
+    "topic":1019,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidwztfnqr5ta6fogerymfv3zzmondklphv2fuo2g6jpfcq6pxdsy4",
+    "text":"I think they'd only be the oldest cars now? Anything from 2021 onwards is likely CCS and 20-30-40kw charging speed.",
+    "topic":5,
+    "assigned_label":"Transportation",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidv2xofwqpwctogw7wpopywxlhgmacubiixufuzkvki3z6ekc4v2e",
+    "text":"Federal regulators freeze Tesla out of 30 million EV incentives amid new tariffs 'Illegitimate and illegal' Source The Cool Down",
+    "topic":5,
+    "assigned_label":"Transportation",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibvbboqx3igrxvaoecrq3zsfhfnayou6uv7655wqnbin7rmfoybbi",
+    "text":"Welcome to Organic Bytes orgcns.org4coftng The food system is in crisisfrom GMOs to microplastics. In this issue GMO insecticides, toxins in produce, Coca-Cola’s greenwashing, agroforestry funding cuts more. Stay informed. Take action. Go organic regenerative!",
+    "topic":9,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigpvckt73wokprr3wjkbbb2rylvycrvedzu7hl7a2w4zgo3e7aptu",
+    "text":"Amazon, Microsoft Google are operating datacentres that use vast amounts of water in some of the world’s driest areas and are building many more, an investigation by SourceMaterial the Guardian has found. Trump pledges to support them, the 3 tech giants are planning hundreds of datacentres in",
+    "topic":16,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreid2pe3kontsni6vw4b56odjujbaqvjab6kubimdrdtkqm6l3ne24i",
+    "text":"i need to start getting Zero merch again I wanna make another itabag",
+    "topic":29,
+    "assigned_label":"Lifestyle",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiayrkxbjq3e4vgdrolbxpunrw5k2fjqpr2hcfza5k2dhll24rqiuy",
+    "text":"Walking the Northumberland Coastal Path Day 4 Didn't. Took a day off to rest, recover and nap and stayed at our group's base in Alnmouth. Took my lunch down to the beach. Stillness. Silence. Just what I needed. Also reading Scott-Land by Stuart Kelly which is very interesting.",
+    "topic":1015,
+    "assigned_label":"Activism",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreief3jvb4wmujtmn6ak7in5nh4rz7yvghomjlczrtflbmcxj6vyioq",
+    "text":"I think it’s really cool that HVAC companies can send out techs who tell you the repair of your heat pump is gonna be 2200 but you can also replace the 2 year old unit for 5500 with a 10 year warranty which will also require a new unit indoors. then a friend fixes it and the repair is only 50",
+    "topic":15,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibxqi3rf7ik7w3kycgtsn3dycadxrwvci4wm7f7repa5uakwiadle",
+    "text":"more robust decision-making support on both circularity and sustainability performance. By demonstrating the application in three real-world MMC products, the proposed framework offers a novel approach to simultaneously assess the circularity and 45 of httpsarxiv.orgabs2504.07850v1",
+    "topic":1005,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreifwtau5iwq4g7ycaevoojvt2qmwupwholckayriyxljmmrap6bsdi",
+    "text":"Even though this is connected to charity, people seemed very reluctant to pick up a can. And I sorta see why. Although aluminium is probably environmentally better than plastic, it feels more wasteful to use it for water",
+    "topic":9,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibiilnclds2mobd6m2wporwjiyuyytr5d7opc7vbtlv5qvyjmjrv4",
+    "text":"Genuine question Does anyone have a good recommendation for Charcoal paper types? I know newsprint might be good but I can’t find the same one I’ve used in my art class that I can remember cause my memory sucks-.",
+    "topic":1022,
+    "assigned_label":"Activism",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreia5namg25tpgbnex7d534ljvuskmqv2f6rkowtvge5mglnubz7sse",
+    "text":"Here's an easy green switch you can switch to plastic-free deodorant.",
+    "topic":1030,
+    "assigned_label":"Fossil",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiccbqenn6m55vosxyapbosz5ma2cqfqu76wmj7pdjcohuig62xlta",
+    "text":"But does it have a solar-powered juke box? www.bbc.comnewsuk-engl...",
+    "topic":8,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  }
+]

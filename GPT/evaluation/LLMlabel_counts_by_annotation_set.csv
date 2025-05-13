@@ -1,0 +1,14 @@
+label,multi_A,multi_B,multi_agreement,single_A,single_B,single_agreement
+Activism,10,16,2,12,14,5
+Agriculture,8,18,3,15,11,1
+Construction,13,13,1,13,13,4
+Disaster,11,15,2,11,15,2
+Electricity,17,9,7,12,14,5
+Fossil,13,13,4,11,15,11
+Lifestyle,12,14,0,13,13,1
+Nature,13,13,10,17,9,3
+Politics,15,11,36,14,12,44
+Renewable,13,13,23,17,9,17
+Transportation,14,12,4,12,14,3
+Waste,16,10,6,7,19,2
+Weather,14,12,2,15,11,2

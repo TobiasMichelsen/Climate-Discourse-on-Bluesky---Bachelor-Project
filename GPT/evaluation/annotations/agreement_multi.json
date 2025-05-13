@@ -1,0 +1,227 @@
+[
+  {
+    "cid":"bafyreifnqoq4txee4up2aqq7xlyadvqnsojnxnqfua3wunnotwxcztzkim",
+    "text":"About 6 years ago Sheffield council ran a campaign saying they were going to plant 50,000 trees around the city, and they wanted people to make requests where the trees could go. I suggested they plant all 50,000 trees in the city centre, to create the world’s first forested cityshopping district",
+    "topic":14,
+    "assigned_label":"Nature",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihirh6kz52tkz5mrm3achjmnpwtal5eunj35iewg56mhl2j2khwsi",
+    "text":"Lead poisoning a silent killer claiming millions yearly. But one nation's innovative approach offers a beacon of hope! LeadPoisoning PublicHealth EnvironmentalJustice Hope Innovation",
+    "topic":35,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidtxircuxieqz4ikon5qoycdfq6bxcxrcot3fal3ht5oumfw4gbma",
+    "text":"Look in your local communities to see what’s actually scheduled. April 19 protest in St. Paul turned into a much narrower climate change event. Worthy cause, to be sure, but with April 20 upon us, the theme needs to be what it was two weeks ago.",
+    "topic":19,
+    "assigned_label":"Activism",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreifd5rza7t32ok54jbmvvd6s5dfgflvokxann7d3m6bthd2jgj2p3u",
+    "text":"Last year marked a historic and deeply troubling threshold for the first time, global temperatures exceeded 1.5C above pre-industrial levels. Without drastic and immediate climate action, this breach will not be temporary. climateChange www.theguardian.comcommentisfre...",
+    "topic":17,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreigexmrj27idlz54bnb3tvut2j4s3rqk4tc6nf2lj3mnttau5inb4i",
+    "text":"Join us at the SpringMeetings on April 23 for a powerful session on how SchoolMeals drive progress in education, health, nutrition, climate finance! Insights from Brazil, Indonesia Somalia 91030AM EST Room I 2-220 LIVE t.cosgtGeR4ime GoodFood4All asmalateef.bsky.social",
+    "topic":1003,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiecq5hl2xj446p5mhqlbjnoh33npt2qnnoh2nmxfqbd4eqzwzrkli",
+    "text":"they got mad the name of the usda grant program was partnerships for climate-smart commodities and made up excuses to kill it and fuck over a ton of farmers www.spokesman.comstories2025...",
+    "topic":12,
+    "assigned_label":"Agriculture",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibukettvia6wpvsszkr6ll4f6dx6hxp4b4e43du3x7jdr24ungdzi",
+    "text":"I am paying 160 a month with Octopus and that's WITH 10 huge solar panels paid outright installed on my SOUTH facing bungalow last July!!! AND I STILL haven't been paid for the first 7 MONTHS that it took for them to even acknowledge my input to the grid!",
+    "topic":8,
+    "assigned_label":"Electricity",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihtjbr6hmfser5bwrn6gzbaykjhknnszwi7cxxzwnioljhn5hwlsq",
+    "text":"My favorite ask How did you control for fossil fuel exposure?",
+    "topic":6,
+    "assigned_label":"Fossil",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiamr5axpm6slvtyti53zcabhefelum7rxmrexdzbd5lpgf6dfjuxm",
+    "text":"The nuanced transition from coal to wind for Somerset, Mass is interrupted by the second Trump administration. Trump is still bent from a past episode with a windmill at his golf resort in Scotland. The adult thing to do apparently is to pee on new windmill projects. www.wsj.comus-newsclim...",
+    "topic":18,
+    "assigned_label":"Renewable",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibz3zy5nsg763yguss57ustub3g2nxgo2wyrvmgbb2dl2mcnw3qpa",
+    "text":"I have most of the windows open in my house right now nice weather and yet firing up my gas range oven still causes the CO2 to skyrocket. These things burn a considerable amount of gas when preheating.",
+    "topic":22,
+    "assigned_label":"Disaster",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihgojfc56dkelmsbuquwttzrqa4txukscd66emgmnwhbh6d3l4q6q",
+    "text":"Motorcycles Bicycle Ski Skull Balaclava Mask Cosplay Scary Ghost Face War Game Skeleton Riding Outdoor Headwear Windproof Masks httpss.click.aliexpress.comeooep5TM",
+    "topic":29,
+    "assigned_label":"Lifestyle",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidn37h7amjmw5rcuiigqsv34ysw3umtzprekobeyxifpwdujhkrui",
+    "text":"Very happy for people riding bikes in Illinois. One of the best things a state can do for safety, health, and climate.",
+    "topic":5,
+    "assigned_label":"Transportation",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreicjuye2hdmhu3uwyaysnjox44aypizhlpd6o42ra3lnk4txgrrjom",
+    "text":"Interesting comment in this report \"They want to build 1.5 million homes well, we’ve got one million long-term vacant properties that could be retrofitted and brought back into purpose. ONE MILLION VACANT HOMES!!! A much more sustainable solution than more greenfield development",
+    "topic":24,
+    "assigned_label":"Construction",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreifu3rehzayfgc2jqvr5fz57pmcua7qvgcz7y6mh2elmnrf7r7ue3e",
+    "text":"maybe president trump will sign an executive order that nintendo must produce another f-zero, that would actually be good",
+    "topic":39,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibkcxngmqcfxncnq6vy5zec65fezuespcvcwjhd3si66hp4f5hini",
+    "text":"fueloilnews.co.uk202411unit... Unite has produced a detailed plan which demonstrates how Grangemouth can be initially converted into a Sustainable Aviation Fuel facility, before further developing into a full bio-fuels outlet and highlights that the creation of a SAF facility",
+    "topic":27,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreihodcgaamnombuiedvuu7gx5zmr6oehr36iyll2m6kiuvcbgxq4ge",
+    "text":"lewisgoodall.com annoyed me this morning when he blamed net zero for our high energy prices. Frankly I expect better!",
+    "topic":28,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidfcxfoqexf5jczkfy3sm2j5xgsdvtadie4u3hpgjl5ivrugjsene",
+    "text":"On Friday, I met with the team at the Net Zero Technology Centre to discuss their past successes their plans for the future.",
+    "topic":28,
+    "assigned_label":"Renewable",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiejnxabahkkayksorpdbwwjoeb6t67rvbvnzydx4ch7l5vhaahr2e",
+    "text":"The DOJ has focused on an Israeli named Amit Forlit whom prosecutors are trying to extradite from the UK, for orchestrating the hacking operation to gather information to foil lawsuits vs. the fossil fuel industry over damage communities have faced from climate change www.npr.org20250415n...",
+    "topic":1001,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiaufziotfefsgj4uskm43azxn55crshzeux65voux6b4ht465adfi",
+    "text":"Who needs to be warned about approaching hurricanes or tornadoes? www.washingtonpost.comclimate-envi...",
+    "topic":1002,
+    "assigned_label":"Weather",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibnjb5sxs2tbb6tfe5d7t2dmdau5nsapxbn5n35pispy5vbymcqce",
+    "text":"Gated community. My fence has a gate, so I live in a gated house. That's why I do no longer opine on the trivialities on this planet.",
+    "topic":24,
+    "assigned_label":"Construction",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreiefzvlevwjszhepurpmsqbzcqys64izlnztpk6oc2nnvo57bx35je",
+    "text":". Digital health departments help polluters by omitting tissue concentrations of pollutants from health records. .",
+    "topic":1004,
+    "assigned_label":"Waste",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibpidg35vjjhau66hanc6eh76eqo37zhjn4kevubu6j3fzxokoxrm",
+    "text":"I see fossil fueled power plants still get due process in this country subscriber.politicopro.comarticleeene...",
+    "topic":6,
+    "assigned_label":"Fossil",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibdm3nd4vquwwahas4m6urzivcxwv6ygnahzyaqs4xomisimffsz4",
+    "text":"Do people in electric cars dream of petroleum powered sheep?",
+    "topic":5,
+    "assigned_label":"Transportation",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreidk76prxmvymuab7lwvjdwth6dbn23hvd5voubqaap6cvebkerg4e",
+    "text":"We held a virtual touchpoint with youth ahead of May’s UNFSS2025 Youth Prep Conference in Bangkok. Climate justice, soil health, food security inclusion are some top priorities youth plan to bring to the Stocktake to shape our future FoodSystems. www.unfoodsystemshub.orghub-solution...",
+    "topic":1003,
+    "assigned_label":"Activism",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  },
+  {
+    "cid":"bafyreibrnxlm3txklyzh6m6yklbriorge64bw4zmiivnawyyjrwddugpam",
+    "text":"Trump Attacks State Climate Laws -Living on Earth Climate TrumpfCoupSeason2 NoDecency More info from EcoSearch",
+    "topic":4,
+    "assigned_label":"Politics",
+    "mode":"multi_label",
+    "annotation":"",
+    "instruction":"Correct \/ Partial \/ Incorrect"
+  }
+]

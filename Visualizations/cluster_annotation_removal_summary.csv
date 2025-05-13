@@ -1,0 +1,5 @@
+Run,Total Clusters,Clusters Removed,Clusters Retained,% Removed
+Run1,4,3,1,75.0
+Run2,114,13,101,11.4
+Run3,50,6,44,12.0
+Run4,50,11,39,22.0
