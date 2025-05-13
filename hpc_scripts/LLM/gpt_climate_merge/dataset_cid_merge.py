@@ -7,8 +7,8 @@ input_path = "../../data/labelled/multi_label/before_merge"
 climate_path = "../../data/climate_classified"
 save_path = "../../data/labelled/multi_label"
 
-filename_final = "topic_predictions.pkl"
-filename_prior = "gpt_topic_predictions.pkl"
+filename_final = "topic_predictions_clean.pkl"
+filename_prior = "gpt_topic_predictions_clean.pkl"
 
 
 #read topic labelled data
@@ -35,7 +35,7 @@ print(f"after keep > .99:\n{df_climate.shape}",flush=True)
 print(f"{datetime.now()} merging..",flush=True)
 df_join_topic = pd.merge(df_final,df_climate,on="cid",how="left")
 print(f"after merge full:\n{df_join_topic.shape}",flush=True)
-df_join_gpt =  pd.merge(df_final,df_climate,on="cid",how="left")
+df_join_gpt =  pd.merge(df_prior,df_climate,on="cid",how="left")
 print(f"after merge gpt:\n{df_join_gpt.shape}",flush=True)
 
 #save merged
