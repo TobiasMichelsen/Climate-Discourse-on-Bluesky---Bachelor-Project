@@ -47,11 +47,13 @@ hpc_scripts/     # Scripts for high-performance/cluster compute jobs
 notebooks/       # Jupyter notebooks for development and analysis  
 
 
+If you would like to follow our setup - copy paste the following:
+
 git clone https://github.com/TobiasMichelsen/Climate-Discourse-on-Bluesky---BachelorProject.git
-cd BachelorProject
+cd "https://github.com/TobiasMichelsen/Climate-Discourse-on-Bluesky---BachelorProject.git"
 python -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements.txt 
 
 Note: Access to the Bluesky Firehose API and an OpenAI API key are required.
 
