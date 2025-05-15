@@ -48,7 +48,7 @@ notebooks/       # Jupyter notebooks for development and analysis
 
 
 git clone https://github.com/TobiasMichelsen/Climate-Discourse-on-Bluesky---BachelorProject.git
-cd [repo-name]
+cd BachelorProject
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
