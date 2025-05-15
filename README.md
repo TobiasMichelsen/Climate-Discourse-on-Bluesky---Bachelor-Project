@@ -6,7 +6,7 @@ Date: 15 May 2025
 
 This project explores climate discourse on Bluesky, a decentralized social media platform. We collected, filtered, and analyzed tens of millions of posts, using machine learning and large language models to map and interpret the structure of climate-related conversations. The result is a topic-labeled, graph-structured dataset and tools for large-scale social media analysis.
 
-Objectivees of the research:
+Objectives of the research:
 
   - Identify dominant topics in Bluesky’s climate discourse
 
@@ -35,7 +35,7 @@ Features:
     Custom annotation pipeline for validation, using stratified sampling and inter-annotator agreement.
 
 
-Structure: 
+Structure: (To be updated..)
 
 EDA/             # Exploratory Data Analysis scripts and notebooks  
 GPT/             # LLM-based topic labeling scripts and outputs  
@@ -46,3 +46,13 @@ firehose/        # Firehose API data collection and parsing
 hpc_scripts/     # Scripts for high-performance/cluster compute jobs  
 notebooks/       # Jupyter notebooks for development and analysis  
 
+
+git clone https://github.com/TobiasMichelsen/Climate-Discourse-on-Bluesky---BachelorProject.git
+cd [repo-name]
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+Note: Access to the Bluesky Firehose API and an OpenAI API key are required.
+
+Szemler, A., & Michelsen, T. (2025). Mapping Climate Discourse: Building Topic-Centric Social Graphs on Bluesky. IT University of Copenhagen.
